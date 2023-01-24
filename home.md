@@ -2,7 +2,7 @@
 title: 前言
 description: 首页
 published: true
-date: 2023-01-23T06:33:06.716Z
+date: 2023-01-24T11:07:17.740Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T06:09:55.211Z
@@ -14,3 +14,14 @@ dateCreated: 2023-01-21T06:09:55.211Z
 </blockquote>
 
 ![葡萄.jpeg](/wiki/葡萄.jpeg)
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
