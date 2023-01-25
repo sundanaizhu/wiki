@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第一周周五
 description: 
 published: true
-date: 2023-01-21T07:23:23.621Z
+date: 2023-01-25T09:34:34.053Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T07:23:21.109Z
 ---
 
 ## 2022年冬季训练｜第一周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week1/week1day5.mp3">
+</audio>
+
 ## 📙纲目
 
 ### **肆　以弗所五章和六章启示，召会是新妇和战士；在启示录十九章里，也有召会的这两方面—弗五25~27，六10~20，启十九7~9、11、14：**
@@ -52,3 +56,14 @@ dateCreated: 2023-01-21T07:23:21.109Z
 ### 基督迎娶祂的新妇以后，就要成为那非人手所凿的石头而来，把大人像从脚趾到头砸碎，将那直接与神争战的人类政权毁灭。借着这个砸碎，全地就得着清理。旧造里人类政权的问题就得着解决。然后基督就从一块石头扩增成为一座大山，充满全地（但以理书生命读经，九四至九五、九七页）。
 
 **参读：以弗所书生命读经，第九十五、九十七篇；但以理书生命读经，第十二至十三篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
