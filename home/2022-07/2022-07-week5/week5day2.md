@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第五周周二
 description: 
 published: true
-date: 2023-01-21T10:33:22.112Z
+date: 2023-01-25T11:04:02.319Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:33:19.784Z
 ---
 
 ## 2022年冬季训练｜第五周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week5/week5day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 贰	以斯拉用属天的眞理教育以色列人，把他们重新构成，使以色列能成为神的见证——1～3，5～6，8，13～18节：
@@ -46,5 +50,15 @@ dateCreated: 2023-01-21T10:33:19.784Z
 ### 我们要被重新构成，需要一再读圣经的六十六卷书。我读主的话超过六十五年了，我能见证，借着每天读主的话，我已被重新构成。每天我都更多被重新构成。
 
 ### 省长尼希米和作祭司的经学家以斯拉，并帮助百姓明白的利未人，嘱咐众民要圣别那日归耶和华他们的神，不要悲哀哭泣；因为众民听见律法书上的话都哭了。尼希米嘱咐他们去吃筵席，不要忧愁，去吃满了喜乐的筵席。百姓很难这样作，因为他们被话语折服并征服，领悟自己是罪恶的（尼八9~10上）。尼希米对他们说，“不要忧愁，因耶和华的喜乐是你们的力量。”（10下）于是众民“都去吃喝，也分给人，大大快乐”（12）（尼希米记生命读经，二一至二二页）。
-
 **参读：尼希米记生命读经，第三篇；倪柝声文集第二辑第二十册，一九三至一九六页。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
