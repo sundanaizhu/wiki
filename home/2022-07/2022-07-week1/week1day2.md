@@ -2,7 +2,7 @@
 title: 2022年冬季训练｜第一周周二
 description: 
 published: true
-date: 2023-01-25T09:30:31.867Z
+date: 2023-01-25T09:30:42.987Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T07:11:16.371Z
@@ -48,3 +48,14 @@ dateCreated: 2023-01-21T07:11:16.371Z
 ### 撒迦利亚十三章六节……说，“必有人问祂说，你两臂中的这些是什么伤呢？祂必说，那些是我在爱我的人家中所受的伤。”……以色列人杀了主，但祂认为他们的行动是爱祂之人使祂受伤。这是非常甜美的。……神给大卫家和耶路撒冷的居民预备了一个开启的泉源（基督被扎的肋旁—约十九34、37），洗除罪与污秽。“那日，必有一泉源为大卫家和耶路撒冷的居民开启，洗除罪与污秽。”（亚十三1）基督被扎，就开启了这样一个泉源。这是救赎的事（撒迦利亚书生命读经，四五一至四五二、四六七至四六九页）。
 
 **参读：撒迦利亚书生命读经，第一、三、五、十一至十二篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
