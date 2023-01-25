@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第六周周五
 description: 
 published: true
-date: 2023-01-21T11:31:37.978Z
+date: 2023-01-25T11:14:46.472Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:31:35.484Z
 ---
 
 ## 2022年冬季训练｜第六周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week6/week6day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	在工作上，头一项资格乃是灵的纯净——林后六4上，6，8中：
@@ -40,5 +44,15 @@ dateCreated: 2023-01-21T11:31:35.484Z
 ### 你晓得误会是从哪里来的么？它的根源常常是不纯净。真正纯净、彼此相爱的夫妻也许会争吵、意见不合，却没有误会。然而，一旦不纯净的事进来了，就会产生一次又一次的误会。他们也许尽量谨慎、忍耐、智慧，但误会仍会因着不纯净而延续下去。
 
 ### 得罪别人是从肉体来的，害怕得罪别人也是出乎肉体。在世界上、在公司里，人非常谨慎，不要彼此得罪，因为世界满了不纯净。如果召会也是这样，我们就不再是召会了。在召会里，每一个通道、每一个角落都该是纯净的。……纯净乃是我们事奉的基本条件（李常受文集一九八三年第一册，三○至三二、三四页）。
-
 **参读：人的破碎与灵的出来，第七篇；与长老们在实行一面的谈话，第二至三章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
