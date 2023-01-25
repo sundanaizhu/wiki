@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第二周周三
 description: 
 published: true
-date: 2023-01-21T08:53:34.587Z
+date: 2023-01-25T10:35:35.356Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T08:53:32.184Z
 ---
 
 ## 2022年冬季训练｜第二周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week2/week2day3.mp3">
+</audio>
+
 ## 📖纲目
 
 ### **肆　以色列人归回美地，表征基督徒从分裂回到召会的立场，就是一的立场—代下三六22~23，参申十二1~32：**
@@ -42,3 +46,14 @@ dateCreated: 2023-01-21T08:53:32.184Z
 ### 召会立场的第三个元素，是合一之灵的实际，在地方召会的地方独一立场上彰显基督宇宙身体独一的一。简单地说，召会立场的第三个元素就是那灵的实际；那灵乃是神圣三一活的实际（约壹五6，约十六13）。凭着这灵，基督身体的一成为又真又活的。也借着这灵，地方的立场得以应用在生命里，而非在律法上。并且凭着这灵，召会真正的立场得以与三一神联结（弗四3~6）（李常受文集一九九○年第二册，五一○至五一二页）。
 
 **参读：一的真正立场，第三至五、十章；申命记生命读经，第九至十篇；召会实际的彰显，第六、八至九章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
