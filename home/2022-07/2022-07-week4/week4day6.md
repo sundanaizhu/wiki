@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第四周周六
 description: 
 published: true
-date: 2023-01-21T10:25:18.688Z
+date: 2023-01-25T10:59:30.638Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:25:16.239Z
 ---
 
 ## 2022年冬季训练｜第四周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week4/week4day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 五	灯台两边的这两棵橄榄树，表征当时的大祭司约书亚和省长所罗巴伯；他们是两个油的儿子，被耶和华的灵充满，为着神殿的重建——亚四1～6，11～14：
@@ -46,3 +50,14 @@ dateCreated: 2023-01-21T10:25:16.239Z
 ### 每当基督这位大祭司来剪除所有消极的事物，并加给召会更多的油，祂事实上乃是加更多的七倍之灵，就是加更多神圣的性情，更多的金到召会生活里面。开始的时候，在一个地方的召会可能没有多少的金。但时间久了，主就剪除消极的事物，并添加更多的油。至终召会就有更多的金，更多的神圣性情。这告诉我们，召会作三一神的具体化身，必须消减一切属人、天然的事物，并要一直加增神圣的性情。我们的肉体、我们的己、我们天然的人以及我们一切与旧造有关的事，甚至我们好的己，都必须消减。
 
 ### 那灵在素质上乃是金的元素，甚至就是神自己。那灵加到召会里面，指明神那神圣的元素加到召会里面。借此，肉体、天然的生命、旧造就在地方召会中减少，神那神圣的元素就渐渐加多。借着这过程，众召会在实际上就变成纯金的灯台，这就是今世耶稣在这地上的见证（李常受文集一九八四年第三册，一四六至一四八页）。
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
