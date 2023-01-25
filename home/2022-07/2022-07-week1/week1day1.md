@@ -2,7 +2,7 @@
 title: 2022年冬季训练｜第一周周一
 description: 
 published: true
-date: 2023-01-25T09:28:26.496Z
+date: 2023-01-25T09:29:10.796Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T06:59:11.533Z
@@ -42,3 +42,15 @@ dateCreated: 2023-01-21T06:59:11.533Z
 ### 启示录十一章十五节说，到了有一天，世上的国都要成为我主和祂基督的国。那时就再没有以政治来压迫人的事了，那时这地要充满了公义与公正。……若是没有主第二次的来，救恩就不完全（倪柝声文集第三辑第十四册，二六○至二六一、二六四至二六五页）。
 
 **参读：历代志生命读经，第一、七至八篇；倪柝声文集第三辑第十四册，第五十三篇；李常受文集一九三二至一九四九年第二册，三九至四○页。**
+
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
