@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第四周周二
 description: 
 published: true
-date: 2023-01-21T10:18:03.918Z
+date: 2023-01-25T10:55:10.097Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:18:01.541Z
 ---
 
 ## 2022年冬季训练｜第四周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week4/week4day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 六	为了恢复神殿的建造，神的选民在灵里被激动而来，在耶和华的殿作工；我们都当回应主的吩咐，在传福音、餧养初信者、并照顾人的工作上，被主耶稣占有，使主的殿，就是召会作为基督的身体，得着建造——该一14，二7上，约二一15～17。
@@ -54,5 +58,15 @@ dateCreated: 2023-01-21T10:18:01.541Z
 ### 今天各处的人都羡慕生命、光、爱、忍耐和恒忍，却没有看见，羡慕这些美德实际上就是羡慕基督。所有的人，包括不信者，都不知不觉地羡慕基督。
 
 ### 哈该书二章二十至二十三节说到要来的国度里弥赛亚（由所罗巴伯所预表）的应许。哈该受吩咐对所罗巴伯说，“我必震动天地。我必倾覆列国的宝座，除灭列邦的势力；……我仆人……到那日，万军之耶和华说，我必选取你，使你为印记，因我拣选了你；这是万军之耶和华说的。”（21~23）耶和华使所罗巴伯为印记，指明耶和华认为他是祂的代表，也指明耶和华爱他、信托他。……在这事上，所罗巴伯乃是基督的预表，因为神的印记已经给了基督。祂代表神，是神所爱并所信托的一位。故此，祂够资格顾到神殿的建造，就是召会的建造（哈该书生命读经，三七六至三七八页）。
-
 **参读：神殿与神城的恢复，第四至五章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
