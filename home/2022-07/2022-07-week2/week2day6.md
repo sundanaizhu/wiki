@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第二周周六
 description: 
 published: true
-date: 2023-01-21T08:58:42.492Z
+date: 2023-01-25T10:40:35.894Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T08:58:40.013Z
 ---
 
 ## 2022年冬季训练｜第二周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week2/week2day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ### **柒　从代下二十章十五至二十二节，我们能学习借着赞美主而从事属灵的争战：**
@@ -52,3 +56,14 @@ dateCreated: 2023-01-21T08:58:40.013Z
 ### 在神的儿女中，有许多人是很厉害地受试炼，且是常常受试炼的，……就像约沙法那样，好像没有路走了。那一边……强，……这一边……弱，……困难是那么大，绝不是他们所能胜过的。那个时候，他们的思想很容易注意他们的困难。……人越受试炼，就越想他们是何等困难。这一个时候，是最大的试炼。……人越受试炼，就越看自己；越受试炼，就越看环境。但是，认识神的人，越受试炼就越仰望主，越受试炼就越学习赞美。所以，我们的眼睛要学习不看自己，我们的眼睛要学习看主。就在这里仰起头来对主说，“主！你是超越过一切的，我赞美你！”大声的赞美，从心里出来的赞美，感觉受了伤而流出来的赞美，是赞美的祭，是神所顾念、神所悦纳的。赞美的祭一往神面前去的时候，仇敌撒但就被你赞美败了。赞美的祭，在神面前是有功效的。如果你从你里面挤出最好的感觉来赞美神，你就必定能站得住，必定能得胜。你能赞美，你就要看见得胜的路是这么大！（倪柝声文集第三辑第二册，三一四至三一六页）
 
 **参读：初信造就，第十六篇；神圣启示的中心路线，第一篇；圣经要道，第三十四题。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
