@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周一
 description: 
 published: true
-date: 2023-01-21T09:13:21.425Z
+date: 2023-01-25T10:42:57.558Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T09:13:19.017Z
 ---
 
 ## 2022年冬季训练｜第三周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day1.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 壹	『都起来建造以色列神的坛，要照神人摩西律法书上所写的，在坛上献燔祭』——拉三2下：
@@ -50,3 +54,14 @@ dateCreated: 2023-01-21T09:13:19.017Z
 ### 有些召会已过的扩增很少。他们若对主认真，就会迫切祷告：“主，给我们扩增；不然我们就要死了！”我们必须叫自己或冷或热。若是要冷，就该冷到结冰；若是要热，就该火热到一个地步，人说我们发疯了。……我们若是如此焚烧，就会看见召会的扩增。我们不在意人怎么说我们，我们必须绝对为着主的恢复（李常受文集一九六九年第二册，四三八至四四○页）。
 
 **参读：利未记生命读经，第四至五篇；罗马书生命读经，第二十五篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
