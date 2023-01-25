@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第一周周六
 description: 
 published: true
-date: 2023-01-21T07:27:49.731Z
+date: 2023-01-25T09:37:13.841Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T07:27:02.225Z
 ---
 
 ## 2022年冬季训练｜第一周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week1/week1day6.mp3">
+</audio>
+
 ## 📙纲目
 
 ### **伍　要在人的历史中完成神的行动，以完成祂永远的经纶，路乃是借着操练我们的灵，经历并享受基督作七倍加强的灵—一10，四2，十七3，二一10，四5，五6，亚三9，四10：**
@@ -68,3 +72,14 @@ dateCreated: 2023-01-21T07:27:02.225Z
 ### 许多时候，当我们享受这样慈爱的眷顾之后，我们的光景就改变了。在祂的眷顾里，祂鼓励我们寻求更多的祝福。……我们不是那么刚强壮胆，但在主的眷顾带着祂宝贵的触摸之后，我们就被加强成为争战中的骏马。至终，主在祂自己里面加强我们，使我们在祂的名里行事为人（撒迦利亚书生命读经，四四四至四四八页）。
 
 **参读：撒迦利亚书生命读经，第九至十、十三至十五篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
