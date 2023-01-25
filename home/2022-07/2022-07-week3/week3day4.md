@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周四
 description: 
 published: true
-date: 2023-01-21T10:04:40.045Z
+date: 2023-01-25T10:49:06.691Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:04:37.493Z
 ---
 
 ## 2022年冬季训练｜第三周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	『燔祭』，原文意『上升之物』，指升到神面前的东西；这个上升是指基督——利一3，10，14：
@@ -64,3 +68,14 @@ dateCreated: 2023-01-21T10:04:37.493Z
 ### 你真是绝对地顾到神么？你能说凡你所作的、所说的，和你所是的，都是百分之百地为着神么？不能。我们没有一个人能诚诚实实地说这句话。那我们怎么办呢？我们必须接受基督！我们需要祂作燔祭。燔祭表明基督是完完全全为着神的一位。如果你再读四福音，你会看见有一个人生活在地上是百分之百为着神的。凡祂所作的、所说的、所是的，都是绝对地为着神。我们不是为着神，我们是为着自己的利益，和自己的选择。但基督作我们的燔祭，是完全为着神的（李常受文集一九七一年第二册，一七、一五至一七页）。
 
 **参读：基督是实际，第二至三篇；约翰著作中帐幕和祭物的应验，第二十一篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
