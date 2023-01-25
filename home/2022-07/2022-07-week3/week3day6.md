@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周六
 description: 
 published: true
-date: 2023-01-21T10:07:49.557Z
+date: 2023-01-25T10:50:41.759Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:07:47.185Z
 ---
 
 ## 2022年冬季训练｜第三周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 肆	过常时不断之燔祭的生活，就是成为活祭——罗十二1：
@@ -52,5 +56,15 @@ dateCreated: 2023-01-21T10:07:47.185Z
 ### 在祂里面并借着祂，一切关于经历基督作燔祭的事，我们都能作。在祂里面并借着祂，我们就能在婚姻生活和召会生活中过得胜的生活，胜过我们家庭生活中一切的难处和召会生活中一切的问题。……我们能在基督的经历中经历祂，并将祂献给神作燔祭。
 
 ### 当我们将燔祭牲焚烧而献上给神时，一种使神悦纳的香气就上升到神那里，使祂满足、安息。神既得着满足，就将祂甜美的悦纳赐给我们，这就是燔祭的意义（利未记生命读经，一○五至一○六，四八页）。
-
 **参读：建造神家的事奉，第二篇；向律法死，向神活，第六篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
