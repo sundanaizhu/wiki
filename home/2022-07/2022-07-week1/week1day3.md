@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第一周周三
 description: 
 published: true
-date: 2023-01-21T07:16:41.805Z
+date: 2023-01-25T09:32:36.456Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T07:16:39.383Z
 ---
 
 ## 2022年冬季训练｜第一周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week1/week1day3.mp3">
+</audio>
+
 ## 📙纲目
 
 ### 二　撒迦利亚十二至十四章说到基督在得胜中第二次来临，要带着能力和权柄：
@@ -42,3 +46,14 @@ dateCreated: 2023-01-21T07:16:39.383Z
 ### 人必住在耶路撒冷，不再有咒诅；耶路撒冷人必安然居住（11）。没有咒诅，反而有祝福和平安。……所有前来攻击耶路撒冷的列国中余剩的人，必年年上来敬拜大君王万军之耶和华，并守住棚节（16）。凡不上耶路撒冷敬拜大君王万军之耶和华的，必无雨降给他们；凡不上来守住棚节的列国人，耶和华也必用这灾殃击打他们。这就是他们的罪（17~19）。因为现今的时代乃是恩典的时代，所以神降雨给义人，也给不义的人（太五45）。但要来的时代乃是公义的时代；凡不上耶路撒冷敬拜大君王并守住棚节的，就得不到雨。这是公义的（撒迦利亚书生命读经，四八七至四八八、四七三页）。
 
 **参读：神命定之路最新的陈明与基督来临的兆头，第七篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
