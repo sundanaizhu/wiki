@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第五周周六
 description: 
 published: true
-date: 2023-01-21T10:39:00.410Z
+date: 2023-01-25T11:08:48.165Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:38:57.969Z
 ---
 
 ## 2022年冬季训练｜第五周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week5/week5day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	主的恢复有最高的真理，就是在已过历世纪中所恢复一切真理的终极完成——二4，提后二2，15：
@@ -58,3 +62,14 @@ dateCreated: 2023-01-21T10:38:57.969Z
 ### 十八岁的人读经，必须用一种更深入的方法，如同所罗门所说，趁着年幼，记念造我们的主（传十二1），青年人一定要趁着年幼，好好学习最高的真理（李常受文集一九八四年第五册，五○四至五○六页）。
 
 **参读：健康的话，第二章；新约总论，第七至八、十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
