@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第四周周四
 description: 
 published: true
-date: 2023-01-21T10:22:10.091Z
+date: 2023-01-25T10:56:55.645Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:22:07.692Z
 ---
 
 ## 2022年冬季训练｜第四周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week4/week4day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 叁	撒迦利亚书启示，灯台的七灯（四2，启四5）是神的七灵，七倍加强的灵，（一4，）就是耶和华的七眼，（亚四10，）也是救赎之羔羊的七眼，（启五6，）以及建造之石头的七眼，（亚三9，）为着三一神完满的彰显和神殿的重建：
@@ -56,5 +60,15 @@ dateCreated: 2023-01-21T10:22:07.692Z
 ### 要使我们的灵重生很简单。我们承认我们的罪，并接受主。然后我们里面就有神的灵。然而，要在我们魂里变化并不容易。这需要耶和华的灯鉴察所有的内室。很少人向主敞开他们所有的内室。
 
 ### 这光照耀到哪里，生命就供应到哪里。……一个内室又一个内室，我们变化成为主的形像。我们里面的金成形。基督成形在我们里面。在我们，活着就是基督。在我们众人里面，这照耀、供应和变化进行着，使我们成为金灯台。这样我们就真正是召会，神实际的彰显，和祂的见证（李常受文集一九七九年第一册，四九五至四九六、四九八页）。
-
 **参读：召会是那灵的翻版，第一至三章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
