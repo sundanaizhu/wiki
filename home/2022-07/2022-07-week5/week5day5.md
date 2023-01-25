@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第五周周五
 description: 
 published: true
-date: 2023-01-21T10:37:36.067Z
+date: 2023-01-25T11:08:06.769Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:37:33.766Z
 ---
 
 ## 2022年冬季训练｜第五周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week5/week5day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 二	教导等于启示，启示就是揭开帕子——提前二7，弗三3～4，9：
@@ -40,5 +44,15 @@ dateCreated: 2023-01-21T10:37:33.766Z
 ### 我们受督责并受责备，原因是我们在许多不同方式和方面都是错误的。我们也许对神，对基督，并对那灵是错误的。我们也许对召会，对弟兄姊妹，对我们的丈夫或妻子，对我们的父母，对我们的儿女，对我们的邻居，甚至对我们自己，也是错误的。我们也许在用钱的方式上，在用时间的方式上，在穿着的方式上，或在梳理头发上，都是错误的。因着我们也许在许多不同的事上是错误的，我们就在读圣经时受所得的启示责备。
 
 ### 在提后三章十七节保罗接着说，“叫属神的人得以完备，为着各样的善工，装备齐全。”属神的人就是神人，也就是有分于神的生命和性情（约一13，彼后一4），在神的生命和性情上与祂是一（林前六17），因而彰显神的人。这样一个神人，这样一个属神的人，是借着神呼出祂自己而产生的。神的呼出产生神人（李常受文集一九八四年第一册，五三二至五三五页）。
-
 **参读：罗马书生命读经，第二十五篇；以弗所书生命读经，第二十、四十七、六十四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
