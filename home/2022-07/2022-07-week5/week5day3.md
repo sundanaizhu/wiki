@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第五周周三
 description: 
 published: true
-date: 2023-01-21T10:34:44.107Z
+date: 2023-01-25T11:06:30.956Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:34:41.722Z
 ---
 
 ## 2022年冬季训练｜第五周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week5/week5day3.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	神的子民需要教导和重新构成，好被带进照着神的文化，就是彰显神的文化中；这种文化需要许多教育——8节。
@@ -44,5 +48,15 @@ dateCreated: 2023-01-21T10:34:41.722Z
 ### 呼求主是必需的，我们需要在日常生活中有这样的实行，但呼求主名不是真理。同样，受浸、长老治会、洗脚和祷读也不是真理。另一面，因信称义是真理。重生、圣别、更新、变化、模成、改变形状、在生命和性情上（但不在神格上）成为神—这一切都是真理。
 
 ### 所有的长老和同工都必须和以斯拉一样，精通神的话。……倪弟兄和我都花了许多时间学习，要精通神的话语。……今天不只需要所罗巴伯，也需要更多以斯拉。……今天我们需要以斯拉教导百姓，教育百姓，并用属天的真理构成百姓（以斯拉记生命读经，三八至四○页）。
-
 **参读：以斯拉记生命读经，第二、四至五篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
