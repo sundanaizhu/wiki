@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第六周周四
 description: 
 published: true
-date: 2023-01-21T11:30:24.768Z
+date: 2023-01-25T11:14:03.033Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:30:22.341Z
 ---
 
 ## 2022年冬季训练｜第六周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week6/week6day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 二	我们不仅需要有无亏的良心，也该有清洁的良心——徒二三1，二四16，提前三9，提后一3：
@@ -38,5 +42,15 @@ dateCreated: 2023-01-21T11:30:22.341Z
 ### 让我们来核对自己。我们的心思完完全全被主占有而没有别的事物么？我们的情感是否单纯、完全、全然爱主，过于任何别的事物？我们的意志是否完全为着神？我们若诚实，就会立刻说，“不，我并不是那么清洁。”我们的心思是游荡的，我们的情感爱了许多别的事物，我们的意志也是摇摆不定的。唯有当这些部分都是纯洁的，我们才会有清洁的心；唯有当我们的心是清洁的，我们的良心才会是清洁的。这清洁的良心对于运用灵是非常要紧的。
 
 ### 我们的良心若不清洁，我们的灵就绝对无法刚强。……我们寻求了主以外的事物，虽然可能不是有罪的事物。在我们良心的深处，有一种非常柔细的定罪，不是很粗略的，乃是一种非常柔细的定罪，一直告诉我们，我们并不完全为着主。这样的定罪使我们的灵软弱（译自英文《水流报》，第五卷第一期）。
-
 **参读：享受基督活而实际的路，第七章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
