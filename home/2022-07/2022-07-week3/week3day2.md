@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周二
 description: 
 published: true
-date: 2023-01-21T10:01:03.924Z
+date: 2023-01-25T10:47:33.969Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:01:01.473Z
 ---
 
 ## 2022年冬季训练｜第三周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 二	燔祭坛预表基督的十字架——出二七1，四十6，来十三10：
@@ -46,3 +50,14 @@ dateCreated: 2023-01-21T10:01:01.473Z
 ### 我们唯一能走的路，乃是十字架的路。十字架是窄路，也是高速公路。对不愿背十字架的人来说，十字架就是一条窄路。但对甘心走这条路的人，十字架就成了高速公路。在召会中我们不要想有头有脸，也不要想大干一番。这就是保罗说的，我们已经死了、已经埋葬了的态度。要把握住这个点，我们需要启示。不管我们是谁，不管我们有什么，不管我们作什么，都可能成为基督的代替品。我们越好，越会作事情，在我们的经历中，就越多顶替了基督。我们需要经过十字架，而成为一无所是，一无所有，一无所能；否则，我们的所是、所有、所能，会成为基督的代替（歌罗西书生命读经，二六三至二六五、八页）。
 
 **参读：利未记生命读经，第六至九篇；约翰一书生命读经，第十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
