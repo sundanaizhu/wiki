@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第二周周二
 description: 
 published: true
-date: 2023-01-21T08:51:22.878Z
+date: 2023-01-25T10:30:42.364Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T08:51:20.553Z
 ---
 
 ## 2022年冬季训练｜第二周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week2/week2day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ### **叁　所有那些从被掳到巴比伦归回美地的人，都受嘱咐要认识、顺从并敬拜耶和华—代上十六8~14：**
@@ -52,3 +56,14 @@ dateCreated: 2023-01-21T08:51:20.553Z
 ### 青年人，我……的负担特别是为着你们的。我感谢主，你们忠于主的恢复。但我知道在你们前面还有一段漫长的路程，并且有许多试炼和试验等着你们。我要向你们作见证，你们所事奉的神不仅是伊勒沙代，更是耶和华。……我也许不能履行我的话，因为我会去世。但因耶和华永远长存，而且祂是动词“是”的实际，凡祂所说的祂必成就。当你遭遇试验、试炼和难处时，你应当说，“主，你是。我的问题会过去，但是主，你永远长存。”（出埃及记生命读经，一九一至一九六页）
 
 **参读：倪柝声文集第一辑第九册，六一至七七页；出埃及记生命读经，第五、十四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
