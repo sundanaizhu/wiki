@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周五
 description: 
 published: true
-date: 2023-01-21T10:06:15.866Z
+date: 2023-01-25T10:49:54.101Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:06:13.433Z
 ---
 
 ## 2022年冬季训练｜第三周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	『燔祭』，原文意『上升之物』，指升到神面前的东西；这个上升是指基督——利一3，10，14：
@@ -62,3 +66,14 @@ dateCreated: 2023-01-21T10:06:13.433Z
 ### 我们可以享受基督作供物的思想，隐含在利未记里。譬如，我们可以享受基督作燔祭。我们无法绝对为着神，但基督作燔祭是绝对为着神的。所以，我们该接受基督作燔祭，并享受祂作燔祭。我们要这样经历并享受基督，就需要祷告说，“主耶稣，你是奇妙的人位。你是那完成的灵，时常与我同在，作我的燔祭。主，我不能满足神，但你能满足神。我无法绝对为着神，但你一直是且仍然是绝对为着神的。现在，主耶稣，我接受你作我的燔祭。”借着这样的祷告，我们就享受基督作我们的燔祭（利未记生命读经，三五至三六、一四九至一五○页）。
 
 **参读：利未记生命读经，第三、十四篇；生命经历的实际功课，第四章；真理课程三级卷二，第二十一课。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
