@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第一周周二
 description: 
 published: true
-date: 2023-01-21T07:11:19.004Z
+date: 2023-01-25T09:30:31.867Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T07:11:16.371Z
 ---
 
 ## 2022年冬季训练｜第一周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week1/week1day2.mp3">
+</audio>
+
 ## 📙纲目
 
 ### **贰　撒迦利亚书启示，神在人历史中之行动的要点与主要内容，乃是基督的两次来临，为着耶稣的见证，神的建造：**
