@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第三周周三
 description: 
 published: true
-date: 2023-01-21T10:02:49.914Z
+date: 2023-01-25T10:48:21.953Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:02:47.473Z
 ---
 
 ## 2022年冬季训练｜第三周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week3/week3day3.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 贰	『他们就向耶和华献燔祭』——拉三6中：
@@ -50,3 +54,14 @@ dateCreated: 2023-01-21T10:02:47.473Z
 ### 燔祭预表基督，祂所过的生活是完全的，是绝对为着神并为着神的满足；燔祭也预表基督是使神的子民能过这样生活的生命（利一9，约五19、30，六38，七18，八29，十四24，林后五15，加二19~20）。借着享受基督作燔祭，我们就能过绝对为着神的生活（李常受文集一九七一年第二册，三三九页）。
 
 **参读：民数记生命读经，第四十篇；利未记生命读经，第十至十三篇；圣言中所启示的神圣三一，第六章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
