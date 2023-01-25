@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第六周周三
 description: 
 published: true
-date: 2023-01-21T11:29:00.584Z
+date: 2023-01-25T11:13:21.271Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:28:58.161Z
 ---
 
 ## 2022年冬季训练｜第六周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week6/week6day3.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 伍	我们的心、良心和灵里需要纯净：
@@ -46,5 +50,15 @@ dateCreated: 2023-01-21T11:28:58.161Z
 ### 所有蒙神救赎、重生、圣别、变化、模成且荣化的人，都要见神的面（启二二4）。看见神使我们变化（林后三18），因为我们看见神时，就把祂的元素接受到我们里面。当我们接受神，就有新的元素进到我们里面，旧的元素也被排除了。这新陈代谢的过程就是变化。看见神就是被变化成为神荣耀的形像，使我们成为神的一部分，使我们得以在神的生命里彰显神，并在祂的权柄里代表祂。
 
 ### 约伯说他不仅看见神，并且厌恶自己。按照我们的经历，我们越看见神并爱神，就越厌恶自己；我们越认识神，就越否认自己（约伯记生命读经，一八五至一八六页）。
-
 **参读：约伯记生命读经，第三十篇；罗马书中的生命救恩，第四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
