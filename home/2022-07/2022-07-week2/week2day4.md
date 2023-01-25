@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第二周周四
 description: 
 published: true
-date: 2023-01-21T08:55:24.504Z
+date: 2023-01-25T10:36:19.809Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T08:55:22.094Z
 ---
 
 ## 2022年冬季训练｜第二周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week2/week2day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ### **伍　归回美地的以色列人受嘱咐要记念神与亚伯拉罕所立的约—代上十六15~18，创十五7~21：**
@@ -52,3 +56,14 @@ dateCreated: 2023-01-21T08:55:22.094Z
 ### 鸟有二只。二这数字是见证、作见证的意思（徒五32）。两只活鸟乃是为基督作见证，见证基督是复活的一位，活在我们里面，并为我们活着（约十四19~20，加二20）。……在启示录一章，主耶稣说，我“是那活着的；我曾死过，看哪，现在又活了，直活到永永远远”（18）。祂活到永永远远，就是祂的见证，因为耶稣的见证总是与活着有关。一个地方召会若是不活，就没有耶稣的见证。我们越活，就越是活的耶稣的见证（创世记生命读经，七三五至七三八页）。
 
 **参读：创世记生命读经，第四十五篇；新约总论，第二百三十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
