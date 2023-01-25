@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第五周周四
 description: 
 published: true
-date: 2023-01-21T10:36:09.338Z
+date: 2023-01-25T11:07:15.571Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T10:36:06.925Z
 ---
 
 ## 2022年冬季训练｜第五周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week5/week5day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 七	借着以斯拉的职事，以色列人（在预表上）被重新构成，结果成为特别的国，就是圣别、分别归神、且彰显神的国——赛四九6，六十1～3，亚四2：
@@ -48,3 +52,14 @@ dateCreated: 2023-01-21T10:36:06.925Z
 ### 按照马可一章二十二节，那些在会堂里的人很惊讶主的教训，说祂教训他们，像有权柄的人，不像经学家。自命为经学家的人，凭自己将虚空的知识教训人，没有权柄，也没有能力；但神所授权的奴仆，凭神将实际教训人，不仅有属灵的能力征服人，也有神圣的权柄使人服从神圣的管治（马可福音生命读经，六○至六二页）。
 
 **参读：约翰一书生命读经，第五、七、九至十一、十七至十八、二十二、二十八、三十二、三十九至四十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
