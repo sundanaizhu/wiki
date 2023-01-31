@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周一
 description: 
 published: true
-date: 2023-01-21T13:16:18.696Z
+date: 2023-01-31T06:11:48.273Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:16:16.098Z
 ---
 
 ## 2022年冬季训练｜第十二周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day1.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ## 壹	『救主以色列的神阿，你实在是自隐的神』——赛四五15：
