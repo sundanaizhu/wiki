@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第九周周六
 description: 
 published: true
-date: 2023-01-21T12:35:39.325Z
+date: 2023-01-31T06:01:05.255Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:35:36.974Z
 ---
 
 ## 2022年冬季训练｜第九周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week9/week9day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 4	属灵争战的第四个原则，乃是要有争战的祷告——属灵争战的祷告——太六9～10，13：
@@ -44,3 +48,14 @@ dateCreated: 2023-01-21T12:35:36.974Z
 ### 每一个祷告的人，都必须是一个在天的境界里，摸着神的宝座，能从天上倒下祷告来的人。你超越过了地，超过了空中，超过了黑暗的权势，你和那一位远超诸天的基督，一同在神的宝座上；这样，你所发出来的祷告才是争战的祷告。明白了这一点，你所有的目标都会从人身上转到鬼身上去。一个罪人不得救，你会说，“神啊，不是他不肯悔改，是鬼在那里霸占他，求你把他身上的鬼赶出去。”一个家庭里夫妇吵架，你也不会说，“是弟兄不体贴、不同情；”或者说，“是姊妹不蒙头、不守地位。”……你祷告的目标不是弟兄姊妹，乃是他们背后，身上的黑暗权势。这就是以弗所六章所说的摔跤。这不是与血肉之人摔跤，乃是与诸天界里那邪恶的属灵势力摔跤。我们祷告所对付的目标，不是人，乃是鬼魔。召会中所有的难处，都不在弟兄姊妹身上，乃在撒但身上。……我们在天的境界里，就能有这种升天掌权的祷告，就是争战的祷告（祷告，二四二、二五二至二五三页）。
 
 **参读：祷告，第十八篇；教会祷告的职事，第二、四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
