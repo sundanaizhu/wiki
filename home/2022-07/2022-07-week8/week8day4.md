@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第八周周四
 description: 
 published: true
-date: 2023-01-21T12:08:10.687Z
+date: 2023-01-31T05:55:04.618Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:08:08.325Z
 ---
 
 # 2022年冬季训练｜第八周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 肆	我们需要建造城墙，以保护召会脱离违反使徒的教训之不同的教训——徒二42，提前一3～4：
@@ -42,3 +46,14 @@ dateCreated: 2023-01-21T12:08:08.325Z
 ### 你所教导的，不该由对错来衡量，而必须由是否制造分裂来衡量。只有一种职事建造人，绝不使人分裂—就是神经纶那唯一的职事（李常受文集一九八四年第二册，三四四至三四九页）。
 
 **参读：召会的异象与建造，第五、八章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
