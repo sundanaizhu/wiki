@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周四
 description: 
 published: true
-date: 2023-01-21T12:57:41.993Z
+date: 2023-01-31T06:10:42.492Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:57:39.541Z
 ---
 
 ## 2022年冬季训练｜第十一周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day4.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 三	我们需要被恩典重新构成，这恩典就是经过过程的三一神，成为我们的生命和一切——彼前五10，林后十三14，来十29：
