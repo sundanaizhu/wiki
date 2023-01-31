@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第九周周五
 description: 
 published: true
-date: 2023-01-21T12:34:25.240Z
+date: 2023-01-31T06:00:36.862Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:34:22.862Z
 ---
 
 ## 2022年冬季训练｜第九周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week9/week9day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 六	我们需要认识并应用属灵争战的原则：
@@ -48,3 +52,14 @@ dateCreated: 2023-01-21T12:34:22.862Z
 ### 属灵争战的第三个原则，乃是必须用属灵的兵器。……属灵的兵器，就是指以弗所六章十至十七节所说“全副的军装”，包括真理的腰带，义的胸甲，和平福音的鞋，信的盾牌，救恩的头盔，并那灵的剑。这些兵器都是属灵的，我们运用的时候也必须属灵。……传福音是出于灵，造就圣徒是出于灵，治理召会是出于灵，无论什么活动都要出于灵，都要让灵来。凡不出于灵的，凡凭自己眼光，凭自己看法，凭自己智慧，凭自己聪明的，都难免是人的方法，都难免是属肉体的兵器，而不是属灵的兵器。所以我们在争战的时候，一切的活动都要出于灵，都要从灵里面摸出那个感觉来。这也是极其基本的原则（李常受文集一九五三年第三册，七一○至七一三页）。
 
 **参读：生命的经历，第十五至十六、十八篇；马太福音生命读经，第十一篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
