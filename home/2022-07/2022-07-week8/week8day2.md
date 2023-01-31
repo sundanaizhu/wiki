@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第八周周二
 description: 
 published: true
-date: 2023-01-21T12:04:48.465Z
+date: 2023-01-31T05:54:00.420Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:04:46.144Z
 ---
 
 ## 2022年冬季训练｜第八周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 3	城墙不仅是为着保护，也是为着分别。
@@ -58,3 +62,14 @@ dateCreated: 2023-01-21T12:04:46.144Z
 ### 众地方召会都需要城墙的建造。我们若看见地方召会是基督身体的彰显，我们就必须看见身体是在基督的元首权柄之下。我们作为肢体，都在这元首权柄之下，别无选择。我们都必须在基督的权柄之下，城墙才会得建造。墙构成城，城在预表里表征国度、管治。主是在殿里，但王是在城里，为着国度（李常受文集一九六九年第二册，五○六至五○七页）。
 
 **参读：关于相调的实行，第二至四篇；基督徒的生活，第七、十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
