@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十周周三
 description: 
 published: true
-date: 2023-01-21T12:43:28.822Z
+date: 2023-01-31T06:07:35.659Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:43:26.305Z
 ---
 
 ## 2022年冬季训练｜第十周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week10/week10day1.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+  
 ## 📖纲目
 
 ### 3	新约给我们看见，在职事里领头的人身上有神代表的权柄，这权柄乃是为着建造——林后十三10：
