@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第八周周五
 description: 
 published: true
-date: 2023-01-21T12:10:36.179Z
+date: 2023-01-31T05:55:36.602Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:10:33.670Z
 ---
 
 ## 2022年冬季训练｜第八周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 伍	城墙若在召会中建造起来，我们就会得保护脱离那些被仇敌利用以毁坏神建造工作的人：
@@ -60,3 +64,14 @@ dateCreated: 2023-01-21T12:10:33.670Z
 ### 在召会里，有时需要安排人负一些责任；那些没有安排到的人，外面好像无所谓，一点也不露声色，里面却抑郁不乐。这都是隐藏的雄心在作祟，要与人争竞居首（李常受文集一九九四至一九九七年第五册，三三九至三四一页）。
 
 **参读：在旧造里撒但的混乱以及为着新造的神圣经纶，第一至四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
