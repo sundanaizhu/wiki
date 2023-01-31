@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周四
 description: 
 published: true
-date: 2023-01-21T13:19:48.282Z
+date: 2023-01-31T06:12:39.393Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:19:45.847Z
 ---
 
 ## 2022年冬季训练｜第十二周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day4.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ## 叁	路加十八章一至八节的比喻意义深奥，我们需要照着其中所启示的，认识神是隐藏的神：
