@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周六
 description: 
 published: true
-date: 2023-01-21T11:54:48.011Z
+date: 2023-01-31T05:50:31.940Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:48:15.914Z
 ---
 
 ## 2022年冬季训练｜第七周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 四	尼希米不活在他天然的人里，乃活在复活里；他是进取的，但他的进取伴随着其他特征：
@@ -58,3 +62,14 @@ dateCreated: 2023-01-21T11:48:15.914Z
 ### 我信在全部六千年的人类历史中，从来没有像尼希米这样的人。……我们可以说，尼希米是位杰出的长老，他是一个上好的榜样，说出长老该如何行。我盼望今天众召会中所有的长老都像尼希米一样（尼希米记生命读经，八、一○、三四至三六页）。
 
 **参读：尼希米记生命读经，第一至五篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
