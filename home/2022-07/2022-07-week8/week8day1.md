@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第八周周一
 description: 
 published: true
-date: 2023-01-21T11:57:01.798Z
+date: 2023-01-31T05:53:22.814Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:56:59.457Z
 ---
 
 ## 2022年冬季训练｜第八周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day1.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 壹	以斯拉记所载的历史，乃是关于以色列人从被掳中归回，重建神的殿；尼希米记所载的历史，乃是关于重建耶路撒冷的城墙——尼二17～20：
@@ -54,3 +58,14 @@ dateCreated: 2023-01-21T11:56:59.457Z
 ### 召会是基督的丰满，因为基督已经扩增并扩大到许多肢体里面。……城是基督进一步的扩大。基督第一步的扩大是作为殿的召会；基督第二步的扩大也是召会，但不是作为殿，而是作为城。作为殿的召会必须扩大为作为城的召会。城比殿更大也更安全。至终，整个殿都成了城！启示录二十一章二十二节说，城内不再有殿，因为殿已经成了城。城就是帐幕，是居所（2~3）。城就是殿的扩大，是殿发展的极致（李常受文集一九六九年第二册，五○○至五○二页）。
 
 **参读：神殿与神城的恢复，第八章；雅歌结晶读经，第五至六篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
