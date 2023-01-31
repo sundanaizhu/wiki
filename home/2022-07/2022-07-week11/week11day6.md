@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周六
 description: 
 published: true
-date: 2023-01-21T13:00:33.885Z
+date: 2023-01-31T06:11:16.839Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:00:31.325Z
 ---
 
 ## 2022年冬季训练｜第十一周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day6.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 五	我们需要建造城墙，以保护召会作神的家：
