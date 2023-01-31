@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十周周六
 description: 
 published: true
-date: 2023-01-21T12:47:22.743Z
+date: 2023-01-31T06:09:13.609Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:47:20.147Z
 ---
 
 ## 2022年冬季训练｜第十周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week10/week10day6.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+  
 ## 📖纲目
 
 ### 三	这异象必须在我们里面日日得更新，成为支配我们一切生活、工作与活动的异象——约壹一7，彼前二9，赛二5，诗一一九105，三六8～9。
