@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周二
 description: 
 published: true
-date: 2023-01-21T12:55:04.160Z
+date: 2023-01-31T06:10:06.344Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:55:01.513Z
 ---
 
 ## 2022年冬季训练｜第十一周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day2.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ## 叁	活出并作出新耶路撒冷，就是在以斯拉之职事与尼希米之领导的内在意义里生活并事奉：
