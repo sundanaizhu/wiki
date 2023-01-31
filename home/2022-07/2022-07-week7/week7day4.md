@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周四
 description: 
 published: true
-date: 2023-01-21T11:44:51.584Z
+date: 2023-01-31T05:49:25.230Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:44:49.070Z
 ---
 
 ## 2022年冬季训练｜第七周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 叁	以色列人被掳七十年，但因有尼希米这眞正的得胜者，神仍能有祂时代的行动；他乃是对神有时代价值之人的榜样——尼一1～11，二9～20，四4～5，9，五10，14～19，八1～10，十三14，29～31：
@@ -56,3 +60,14 @@ dateCreated: 2023-01-21T11:44:49.070Z
 ### 尼希米的确是进取的人。就一面说，他的自愿不是向着神，乃是向着他的负担。他有负担重建耶路撒冷的城墙，他的进取就为神大用（尼希米记生命读经，一至六、一四页）。
 
 **参读：圣洁没有瑕疵，第四章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
