@@ -2,7 +2,7 @@
 title: 2022年冬季训练｜第十周周二
 description: 
 published: true
-date: 2023-01-31T06:07:08.199Z
+date: 2023-01-31T06:07:57.390Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:42:12.421Z
@@ -23,6 +23,7 @@ dateCreated: 2023-01-21T12:42:12.421Z
   gtag('config', 'G-5Z9BVTETNL');
 </script>
   </head>
+  
 ## 📖纲目
 
 ## 壹	在神永远的经纶中并在主的恢复里，领导是根据属灵的度量；领导不是职务性、永久性、组织性或阶级制度的——帖前一5，二1～14，五12～13，来十三7，17，24：
