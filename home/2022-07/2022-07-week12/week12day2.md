@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周二
 description: 
 published: true
-date: 2023-01-21T13:17:31.802Z
+date: 2023-01-31T06:12:05.989Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:17:29.286Z
 ---
 
 ## 2022年冬季训练｜第十二周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day2.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 五	我们需要领悟，我们所事奉那无所不能的神，仍在隐藏自己，尤其是在祂帮助我们的时候——约十四26，罗八28：
