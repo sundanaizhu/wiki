@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周三
 description: 
 published: true
-date: 2023-01-21T11:43:25.235Z
+date: 2023-01-31T05:48:49.212Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:43:22.808Z
 ---
 
 ## 2022年冬季训练｜第七周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day3.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 四	借着主在十字架上的死，古蛇撒但受了审判，被赶出去；（约十二31，十六11；）那个审判和判决最终要由得胜者作为男孩子，就是女人团体的后裔来执行；得胜的信徒和撒但争战，实际上就是执行主对撒但的审判，至终使撒但从天上被摔下去。（启十二7～9。）
@@ -50,3 +54,14 @@ dateCreated: 2023-01-21T11:43:22.808Z
 ### 好像男孩子一出来，神的目的就非得着不可了。这是今天神所呼召、所注意的，神要得着这样的人来达到祂当初的目的（圣洁没有瑕疵，九○、九二至九三、九五至九六、九八至九九页）。
 
 **参读：由基督与召会的观点看新约概要，第三十八章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
