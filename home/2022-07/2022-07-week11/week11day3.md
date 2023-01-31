@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周三
 description: 
 published: true
-date: 2023-01-21T12:56:25.005Z
+date: 2023-01-31T06:10:22.396Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:56:22.603Z
 ---
 
 ## 2022年冬季训练｜第十一周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day3.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 二	我们需要受教育，好用真理教育别人，使神得着见证，就是祂团体的彰显——提后二2，提前三15～16，六3，林前十四31：
