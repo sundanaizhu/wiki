@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第九周周四
 description: 
 published: true
-date: 2023-01-21T12:33:12.004Z
+date: 2023-01-31T06:00:08.138Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:33:09.513Z
 ---
 
 ## 2022年冬季训练｜第九周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week9/week9day4.mp3">
+</audio>
+
 ## 📖纲目
 
 ### 三	召会与撒但之间的争战，乃是我们这些爱主、在祂召会里的人，和诸天界里邪恶势力之间的争战——12节：
@@ -56,3 +60,14 @@ dateCreated: 2023-01-21T12:33:09.513Z
 ### 召会作神的战士，不是凭自己的力量争战。……相反的，我们必须在主里，靠着祂力量的权能，得着加力〔10〕。……要对付神的仇敌，抵挡黑暗的邪恶势力，我们需要那叫基督从死人中复活，并叫祂坐在诸天界里，远超空中一切邪灵的浩大能力，使我们得着加力〔参一19~21〕。在对付撒但和他邪恶国度的属灵争战中，我们只能在主里面争战，不能在自己里面争战。何时我们在自己里面，我们就失败了（以弗所书生命读经，六三九至六四○、九八二至九八三页）。
 
 **参读：以弗所书生命读经，第六十三、九十七篇；李常受文集一九七九年第二册，看见基督为着召会的异象并借着祷告回应基督天上的职事，第五章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
