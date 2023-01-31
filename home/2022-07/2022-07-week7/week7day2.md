@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周二
 description: 
 published: true
-date: 2023-01-21T11:41:56.656Z
+date: 2023-01-31T05:48:16.057Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:41:54.197Z
 ---
 
 ## 2022年冬季训练｜第七周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 贰	因为召会并没有达到神的目的，神就拣选一班得胜者，他们要达到神的目的，并成功神的要求；这是男孩子的原则——十二1～2，5，10～11，二7，11，17，26～28，三5，12，20～21：
@@ -42,3 +46,14 @@ dateCreated: 2023-01-21T11:41:54.197Z
 ### 一面说，我们是女人；另一面说，我们是女人的后裔。……唯有从信靠神的源头而出的后裔才能刚强，他们不是在自己里面刚强，乃是在神里面刚强。主耶稣自己领头作这样的人。祂是男孩子的元首；现在祂也是男孩子的中心、实际、生命和本质。仇敌撒但对这男孩子有何等的攻击！（创世记生命读经，三一二至三一四页）
 
 **参读：创世记生命读经，第十九至二十篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
