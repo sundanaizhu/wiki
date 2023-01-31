@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第九周周一
 description: 
 published: true
-date: 2023-01-21T12:28:14.312Z
+date: 2023-01-31T05:58:38.154Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:20:39.515Z
 ---
 
 ## 2022年冬季训练｜第九周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week9/week9day1.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 壹	尼希米四章描述仇敌对重建城墙的破坏：
@@ -53,3 +57,14 @@ dateCreated: 2023-01-21T12:20:39.515Z
 ### 有个现存的基督教在那里影响我们，这个列国的风俗一直搅扰我们。正如尼希米重建圣城时，参巴拉一直在那里阻挠（二19，四1~8，六1~9）。这需要我们全体起来，看见这亮光，并且竭力争战。……〔我们要〕有争战的态度，即使带职业，也是为着主。这样，主一定祝福你们，祝福你们的事业。我们是主的恢复，主不祝福我们，还祝福谁呢？（李常受文集一九八六年第二册，二九六至二九八、三○八、三一五至三一六页）。
 
 **参读：新路实行的异象与具体步骤，第十四篇；尼希米记生命读经，第一篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
