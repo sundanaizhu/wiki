@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周五
 description: 
 published: true
-date: 2023-01-21T13:21:03.947Z
+date: 2023-01-31T06:13:02.653Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:21:01.432Z
 ---
 
 ## 2022年冬季训练｜第十二周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day5.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 三	当我们的对头逼迫我们时，我们的神似乎是不义的，因为祂允许祂的儿女遭受不义的逼迫——彼前二20，三14，17，四13～16，19：
