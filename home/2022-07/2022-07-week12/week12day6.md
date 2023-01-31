@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周六
 description: 
 published: true
-date: 2023-01-21T13:22:12.061Z
+date: 2023-01-31T06:13:19.735Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:22:09.573Z
 ---
 
 ## 2022年冬季训练｜第十二周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day6.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 五	启示录八章五节含示对六章九至十一节和路加十八章七至八节的答应：
