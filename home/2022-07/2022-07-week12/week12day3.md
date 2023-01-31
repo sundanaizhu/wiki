@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十二周周三
 description: 
 published: true
-date: 2023-01-21T13:18:43.430Z
+date: 2023-01-31T06:12:22.489Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T13:18:40.951Z
 ---
 
 ## 2022年冬季训练｜第十二周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week12/week12day3.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ## 贰	以斯帖记给我们生动的记载，说到以色列隐藏的神如何秘密照顾祂那些被分散受压制的选民，并公开拯救祂那些被掳受逼迫的选民——一1～22，二1～23：
