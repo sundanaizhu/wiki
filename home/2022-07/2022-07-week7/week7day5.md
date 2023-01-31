@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周五
 description: 
 published: true
-date: 2023-01-21T11:46:55.230Z
+date: 2023-01-31T05:49:59.102Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:46:52.675Z
 ---
 
 ## 2022年冬季训练｜第七周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day5.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 叁	以色列人被掳七十年，但因有尼希米这眞正的得胜者，神仍能有祂时代的行动；他乃是对神有时代价值之人的榜样——尼一1～11，二9～20，四4～5，9，五10，14～19，八1～10，十三14，29～31：
@@ -54,3 +58,14 @@ dateCreated: 2023-01-21T11:46:52.675Z
 ### 复活的实际是那灵，而那灵是终极完成的三一神。所以，复活是终极完成的三一神。我们天然的性能、才干和美德，需要借着死与埋葬，从我们天然的生命迁到终极完成的三一神里。……我们若不应用这原则，一切未受钉十字架察验的天然性能、才干和美德，在我们中间就会像“野兽”一样。……将我们天然才干的“种子”种在地里，绝不是损失。我们撒种，虽然暂时失去种子，但至终必有在复活里的收成（尼希米记生命读经，一五至一九页）。
 
 **参读：启示录生命读经，第三十四至三十九、四十五篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
