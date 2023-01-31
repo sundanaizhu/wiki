@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十周周四
 description: 
 published: true
-date: 2023-01-21T12:44:47.162Z
+date: 2023-01-31T06:08:31.935Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:44:44.819Z
 ---
 
 ## 2022年冬季训练｜第十周周四
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week10/week10day4.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+  
 ## 📖纲目
 
 ## 贰	在新约职事中的领导，乃是神永远经纶控制之异象的领导，而不是控制之人的领导；使徒保罗宣告说，『我故此没有违背那从天上来的异象』——徒二六19：
