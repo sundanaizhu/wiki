@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第八周周六
 description: 
 published: true
-date: 2023-01-21T12:12:13.049Z
+date: 2023-01-31T05:56:10.487Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:12:10.695Z
 ---
 
 ## 2022年冬季训练｜第八周周六
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day6.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 陆	城墙建造之后，我们就能抵挡死亡对召会的攻击，并在基督复活的生命里建造基督的身体——太十六18，约十一25，弗一22～23，四16：
@@ -56,3 +60,14 @@ dateCreated: 2023-01-21T12:12:10.695Z
 ### 召会所需要的不是好的道理，好的神学，美妙的解经；召会所需要的乃是生命，就是基督复活的生命。一切的道理、思想、神学、解经，都不能取代基督的生命。只有基督的生命，只有出于基督生命的，是阴间的门所不能胜过的。其他的一切都不过是死亡的各种形式，都经不起撒但的攻击。求神怜悯我们，叫我们自己不摸死亡，也不把死亡带给召会。求神用生命充满召会，叫撒但无处可攻击召会（倪柝声文集第二辑第二十四册，一七九至一八一、一八三页）。
 
 **参读：倪柝声文集第二辑第二十四册，第一百一十三至一百一十四篇；第二十二册，第三十七、三十九篇；教会的正统，第三章；如何作神代表的权柄，第四篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
