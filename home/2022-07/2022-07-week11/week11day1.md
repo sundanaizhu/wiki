@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周一
 description: 
 published: true
-date: 2023-01-21T12:53:33.585Z
+date: 2023-01-31T06:09:46.465Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:53:31.149Z
 ---
 
 ## 2022年冬季训练｜第十一周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day1.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+  
 ## 📖纲目
 
 ## 壹	以斯拉之职事的内在意义，具体可见于『洁净』、『教育』与『重构』这三辞；尼希米之领导的内在意义，具体可见于『分别』、『保护』和『彰显』这三辞；我们必须与主天上的职事合作，按照这内在的意义，活出并作出新耶路撒冷，以建造召会作神的家与神的国——王上八48，诗四八1～2，提前三15，弗二21～22。
