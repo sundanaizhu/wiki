@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第七周周一
 description: 
 published: true
-date: 2023-01-21T11:40:06.317Z
+date: 2023-01-31T05:47:42.780Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T11:40:03.829Z
 ---
 
 ## 2022年冬季训练｜第七周周一
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week7/week7day1.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 壹	神的渴望乃是结束这个时代，并带进国度时代；要成就这事，祂必须得着时代的凭借：
@@ -56,3 +60,14 @@ dateCreated: 2023-01-21T11:40:03.829Z
 ### 希伯来信徒……正处在退缩回去的危险。他们正在徘徊犹豫的时候，就有这封书信写给他们，勉励他们要进前来。希伯来书的著者不是要他们往前去，而是要他们前来。这意思是说，著者已经在某一个地方，现在要他的读者也前来进到他所在之处。……著者写希伯来书时，是在至圣所里，他呼召希伯来弟兄们也要前来进入其中（希伯来书生命读经，四二八页）。
 
 **参读：希伯来书生命读经，第三十二篇。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
