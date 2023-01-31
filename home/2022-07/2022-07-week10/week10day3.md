@@ -2,7 +2,7 @@
 title: 2022年冬季训练｜第十周周三
 description: 
 published: true
-date: 2023-01-31T06:07:35.659Z
+date: 2023-01-31T06:08:13.179Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:43:26.305Z
@@ -10,7 +10,7 @@ dateCreated: 2023-01-21T12:43:26.305Z
 
 ## 2022年冬季训练｜第十周周三
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/wiki/2022-07-week10/week10day1.mp3">
+      <source id="mp3" src="/wiki/2022-07-week10/week10day3.mp3">
 </audio>
 <head>
   <!-- Google tag (gtag.js) -->
