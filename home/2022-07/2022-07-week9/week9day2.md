@@ -2,13 +2,17 @@
 title: 2022年冬季训练｜第九周周二
 description: 
 published: true
-date: 2023-01-21T12:30:03.000Z
+date: 2023-01-31T05:59:08.787Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:30:00.475Z
 ---
 
 ## 2022年冬季训练｜第九周周二
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week9/week9day2.mp3">
+</audio>
+
 ## 📖纲目
 
 ## 贰	建造召会作神的城不是一件轻易的工作；建造唯有借着争战才能进行——弗二21～22，四16，六10～20：
@@ -52,3 +56,14 @@ dateCreated: 2023-01-21T12:30:00.475Z
 ### 若是在一个地方上，每一个弟兄姊妹都显出他们的功用来，同工的和负责的弟兄姊妹，不代替事奉，而成全众圣徒一同事奉，有职事的人，也都是为着建造地方召会，并且众人都拿兵器，都有属灵的争战，都有争战的祷告，一同在这里建造，你就要看见，一个荣耀的召会要在那一个地方被建造起来。你也就要看见，在那一个地方有一个小型的新耶路撒冷出现，成为神的安息之所，也成为神众儿女可归之家。在那里有神的同在，有神的宝座，也有神的生命。在那里有神的能力，也有神的亮光（李常受文集一九五八年第二册，四六九至四七二页）。
 
 **参读：神殿与神城的恢复，第八章；长老训练第七册，第六章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
