@@ -2,13 +2,28 @@
 title: 2022年冬季训练｜第十一周周五
 description: 
 published: true
-date: 2023-01-21T12:58:59.605Z
+date: 2023-01-31T06:10:59.641Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:58:57.209Z
 ---
 
 ## 2022年冬季训练｜第十一周周五
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week11/week11day5.mp3">
+</audio>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
+ 
 ## 📖纲目
 
 ### 2	我们借着活在灵中并吃基督作隐藏的吗哪，就能胜过世界而成为神的建造——约壹五4，18～19，21，启二12～17，参约十四30。
