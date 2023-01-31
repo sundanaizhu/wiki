@@ -2,13 +2,18 @@
 title: 2022年冬季训练｜第八周周三
 description: 
 published: true
-date: 2023-01-21T12:06:18.493Z
+date: 2023-01-31T05:54:34.318Z
 tags: 2022年冬季训练, 晨兴
 editor: markdown
 dateCreated: 2023-01-21T12:06:15.954Z
 ---
 
 ## 2022年冬季训练｜第八周周三
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/wiki/2022-07-week8/week8day3.mp3">
+</audio>
+
+
 ## 📖纲目
 
 ### 3	城墙不仅是为着保护，也是为着分别。
@@ -56,3 +61,14 @@ dateCreated: 2023-01-21T12:06:15.954Z
 ### 这就是为什么仇敌恨恶城墙的建造。直到城墙在地方召会中建造起来，才有安全、保护与防御。我们需要城墙的建造—使每个人都认识基督的作头（李常受文集一九六九年第二册，五○五、五○八至五○九页）。
 
 **参读：事奉的基本功课，第二十课；长老训练第二册，第三章。**
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z9BVTETNL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5Z9BVTETNL');
+</script>
+  </head>
