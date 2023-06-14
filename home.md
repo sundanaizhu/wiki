@@ -2,13 +2,14 @@
 title: 一年七次特会
 description: 
 published: true
-date: 2023-06-14T05:06:27.771Z
+date: 2023-06-14T05:07:05.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T13:49:42.409Z
 ---
 
-# 目录
+# 一年七次特会
+## 目录
 ## [2023-02春季国际长老训练](/home/2023-02)
 ## [2023-03 国殇节特会](/home/2023-03)
 <!-- Google tag (gtag.js) -->
