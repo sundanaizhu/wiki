@@ -1,8 +1,8 @@
 ---
-title: 第一篇 · 听抄
+title: 07---第一篇 · 听抄
 description: 2023-04 夏季训练｜第一篇听抄
 published: true
-date: 2023-08-02T13:38:37.241Z
+date: 2023-08-02T13:38:54.892Z
 tags: 2023-04
 editor: markdown
 dateCreated: 2023-08-02T13:17:45.078Z
