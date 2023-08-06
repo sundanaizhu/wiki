@@ -1,8 +1,8 @@
 ---
-title: 07---第一篇 · 听抄
+title: 07---第二篇 · 听抄
 description: 夏季听抄
 published: true
-date: 2023-08-04T05:08:49.687Z
+date: 2023-08-06T06:16:10.494Z
 tags: 2023-04
 editor: markdown
 dateCreated: 2023-08-04T05:08:49.687Z
