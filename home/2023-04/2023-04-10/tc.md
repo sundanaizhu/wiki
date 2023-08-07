@@ -2,7 +2,7 @@
 title: 07---第十周 · 听抄
 description: 听抄
 published: true
-date: 2023-08-07T02:30:49.792Z
+date: 2023-08-07T03:29:01.681Z
 tags: 2023-04
 editor: markdown
 dateCreated: 2023-08-07T02:30:49.792Z
@@ -12,6 +12,9 @@ dateCreated: 2023-08-07T02:30:49.792Z
 ## **第十篇    神人的神圣权利—有分于神的神性**
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-04/msg/2023-07-st-msg10-c.mp3">
+</audio>
 
 ## **唯有神人有神圣的权利—有分于神的神性**
 
