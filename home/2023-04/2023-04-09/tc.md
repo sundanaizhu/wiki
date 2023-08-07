@@ -2,7 +2,7 @@
 title: 07---第九周 · 听抄
 description: 听抄
 published: true
-date: 2023-08-07T02:17:55.261Z
+date: 2023-08-07T03:29:32.322Z
 tags: 2023-04
 editor: markdown
 dateCreated: 2023-08-07T02:17:55.261Z
@@ -12,7 +12,9 @@ dateCreated: 2023-08-07T02:17:55.261Z
 ## **第九篇    基督在三个时期中丰满的职事**
 
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-04/msg/2023-07-st-msg09-c.mp3">
+</audio>
 
 ### 这篇信息非常重要，论到基督在三个时期中丰满的职事。李弟兄离世前曾交代全时间训练的施训者，训练里必须有“基督丰满的职事”这门课，因为这乃是关乎神新约经纶的重要教训。主恢复的将来在于我们如何对待这教训。
 
