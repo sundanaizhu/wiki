@@ -2,7 +2,7 @@
 title: 07---第十二周 · 听抄
 description: 听抄
 published: true
-date: 2023-08-07T03:21:01.530Z
+date: 2023-08-07T03:28:16.167Z
 tags: 2023-04
 editor: markdown
 dateCreated: 2023-08-07T03:17:36.394Z
@@ -12,6 +12,9 @@ dateCreated: 2023-08-07T03:17:36.394Z
 ## **第十二篇    成为新耶路撒冷**
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-04/msg/2023-07-st-msg12-c.mp3">
+</audio>
 
 ## **新耶路撒冷是新妇，也是羔羊的妻**
 
