@@ -2,7 +2,7 @@
 title: 一年七次特会
 description: 
 published: true
-date: 2023-10-14T11:40:03.772Z
+date: 2023-10-14T11:44:57.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T13:49:42.409Z
@@ -16,6 +16,8 @@ dateCreated: 2023-04-26T13:49:42.409Z
 
 
 ---
+
+## [Paul’s Notion](https://mygoodland.notion.site/Paul-s-NOTION-117eeafd285445828856f7d6be113607?pvs=4) 
 <font color=red>**因安全方面考虑，去掉了跳转链接。**</font>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
