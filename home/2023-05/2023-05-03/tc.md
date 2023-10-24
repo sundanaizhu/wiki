@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2023-10-24T05:15:15.511Z
+date: 2023-10-24T09:34:20.008Z
 tags: 2023-05
 editor: markdown
 dateCreated: 2023-10-24T05:15:15.511Z
@@ -11,6 +11,10 @@ dateCreated: 2023-10-24T05:15:15.511Z
 ## 第三篇　完全认识真理
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-05/elders/tc3.mp3">
+</audio>
+
 
 ### 赞美主！亲爱的弟兄们，你们是不是都得着加强，得着加强到里面的人里呢？你们的灵与魂与体都得着更新与加强，这实在不太容易。在下午我们有这场聚会时间这么赶，但我祷告我们都在我们的灵里有操练。
 
