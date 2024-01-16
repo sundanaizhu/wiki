@@ -2,7 +2,7 @@
 title: 一年七次特会
 description: 
 published: true
-date: 2024-01-16T08:46:06.805Z
+date: 2024-01-16T08:46:52.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T13:49:42.409Z
@@ -18,7 +18,7 @@ dateCreated: 2023-04-26T13:49:42.409Z
 ## [2023-07 冬季训练](/home/2023-07)
 ---
 
-## [Paul’s Notion](https://mygoodland.notion.site/Paul-s-NOTION-117eeafd285445828856f7d6be113607?pvs=4) 
+### 更多内容请进入： [Paul’s Notion](https://mygoodland.notion.site/Paul-s-NOTION-117eeafd285445828856f7d6be113607?pvs=4) 
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
