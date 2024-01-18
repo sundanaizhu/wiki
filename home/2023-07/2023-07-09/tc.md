@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:25:52.067Z
+date: 2024-01-18T08:32:15.687Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:25:52.067Z
@@ -11,7 +11,10 @@ dateCreated: 2024-01-18T08:25:52.067Z
 ## 第九篇    那地有石榴树
 
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-07/msg09.mp3">
+</audio>
+---
 
 ### 申命记八章八节说，“那地有小麦、大麦、葡萄树、无花果树、石榴树；那地有出油的橄榄树，有蜜。”圣灵在此将小麦、大麦、葡萄树、无花果树和石榴树，这五样植物摆在一起，从小麦开始，最后结束于石榴树，这是非常有意义的。
 
