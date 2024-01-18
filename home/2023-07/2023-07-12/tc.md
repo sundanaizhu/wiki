@@ -1,8 +1,8 @@
 ---
-title: 07---听抄信息
+title: 07---第十二周 · 听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T22:36:53.220Z
+date: 2024-01-18T22:37:34.896Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:28:26.125Z
