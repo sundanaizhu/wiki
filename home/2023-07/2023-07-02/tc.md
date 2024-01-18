@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:29:57.928Z
+date: 2024-01-18T08:39:02.497Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:17:54.020Z
@@ -247,3 +247,20 @@ dateCreated: 2024-01-18T08:17:54.020Z
 ### “你要……指着祂的名起誓。祂是你所赞美的，是你的神，为你作了这些大而可畏的事，是你亲眼所看见的”（十20~21）；在新约的辞汇和经历里，这意思是我们呼求主的名，使我们得以享受祂生机的救恩和祂追测不尽的丰富（罗十12~13）。
 
 ### 感谢主，我们凭自己读不出这九个点，但我们从这分职事所打开的矿藏中找到了这些金块。为着这重新的训练，阿利路亚！（E. M.）
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+
+<script>
+
+ window.dataLayer = window.dataLayer || [];
+
+ function gtag(){dataLayer.push(arguments);}
+
+ gtag('js', new Date());
+
+
+
+ gtag('config', 'G-1P8709Z16T');
+
+</script>
