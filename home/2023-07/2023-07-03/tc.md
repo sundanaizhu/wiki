@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:30:20.992Z
+date: 2024-01-18T08:39:22.783Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:18:59.702Z
@@ -193,3 +193,20 @@ dateCreated: 2024-01-18T08:18:59.702Z
 ### 我们若记得基督是我们里面的大麦，当我们来到聚会中，就能借着祷告或见证，应用基督作大麦以喂养别人
 
 ### 复活的基督乃是大麦饼；没有什么能阻挡或限制祂。我们若记得基督是我们里面的大麦，当我们来到聚会中，就能借着祷告或见证，应用基督作大麦以喂养别人。（M. C.）
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+
+<script>
+
+ window.dataLayer = window.dataLayer || [];
+
+ function gtag(){dataLayer.push(arguments);}
+
+ gtag('js', new Date());
+
+
+
+ gtag('config', 'G-1P8709Z16T');
+
+</script>
