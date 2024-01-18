@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:21:36.158Z
+date: 2024-01-18T08:31:00.442Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:21:36.158Z
@@ -11,7 +11,10 @@ dateCreated: 2024-01-18T08:21:36.158Z
 ## 第五篇    那地有葡萄树
 
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2023-07/msg05.mp3">
+</audio>
+---
 
 ### 本篇信息是根据申命记八章八节：“那地有小麦、大麦、葡萄树……。”我们要领悟“那地有葡萄树”这话的意义。盼望到信息末了，我们都能因这葡萄树所产生的新酒而充满喜乐，充满对主的爱，以及对神家的爱。
 
