@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:32:15.687Z
+date: 2024-01-18T08:41:22.568Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:25:52.067Z
@@ -169,3 +169,20 @@ dateCreated: 2024-01-18T08:25:52.067Z
 ### 至终，我们有在生命上完全的发展和成熟，从信的种子，经过美德和知识的根，节制的干，以及忍耐和敬虔的枝子，到弟兄相爱和爱的花与果子
 
 ### 至终，我们有在生命上完全的发展和成熟，从信的种子，经过美德和知识的根，节制的干，以及忍耐和敬虔的枝子，到弟兄相爱和爱的花与果子（5~8）。我们都已分得同样宝贵的信作种子（1），经过美德（优越，指生命的能力）和知识（对神和基督的认识）的根，节制（自制，约束自己）的干，以及忍耐（容忍别人与环境）和敬虔（活出神来）的枝子，至终达到弟兄相爱（信徒彼此相爱）和爱（神圣的爱，神内在的本质）的花与果子。我们需要长大，达到成熟，从信发展到爱，就是神自己内在的所是，使我们不只能彼此相爱，甚至像神那样爱所有的人；这就是生命完全的成熟。主要把祂的恢复带到这个地步，和祂一模一样；这就是石榴。（J. L.）
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+
+<script>
+
+ window.dataLayer = window.dataLayer || [];
+
+ function gtag(){dataLayer.push(arguments);}
+
+ gtag('js', new Date());
+
+
+
+ gtag('config', 'G-1P8709Z16T');
+
+</script>
