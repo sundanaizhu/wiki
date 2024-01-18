@@ -2,7 +2,7 @@
 title: 07---听抄信息
 description: 听抄
 published: true
-date: 2024-01-18T08:33:07.681Z
+date: 2024-01-18T08:42:19.636Z
 tags: 2023-07
 editor: markdown
 dateCreated: 2024-01-18T08:28:26.125Z
@@ -205,3 +205,20 @@ dateCreated: 2024-01-18T08:28:26.125Z
 ### 我们享受基督作为美地的终极结果，乃是经过过程之三一神与蒙祂重生、变化、荣化的三部分人，成为神人二性的合并，作神永远的居所和国度（启二一3、22，二二5）。
 
 ### 祷告：主啊，我们把新的一年，二○二四年，交给你。主啊，当我们往前来经营你作美地的同时，我们祷告，求你赐下你命定的福。主啊，随着我们的经营，我们祷告，求你降雨，降秋雨，也降春雨，叫这地能够有大量丰富的出产。主啊，我们在这里与你配合，我们祷告，求你赐福给我们。在这新的一年，愿你祝福每一位圣徒，每一处召会，祝福全地的众召会，祝福你宝爱的恢复。主啊，我们把感谢归给你，把赞美归给你，我们也给你更新、新鲜的奉献。主啊，为着你名的缘故，愿你成就。阿们。（M. C.）
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+
+<script>
+
+ window.dataLayer = window.dataLayer || [];
+
+ function gtag(){dataLayer.push(arguments);}
+
+ gtag('js', new Date());
+
+
+
+ gtag('config', 'G-1P8709Z16T');
+
+</script>
