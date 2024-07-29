@@ -1,8 +1,8 @@
 ---
-title: 07—第七周 · 听抄
+title: 07---第七周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-29T15:14:24.748Z
+date: 2024-07-29T15:15:10.955Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:14:24.748Z
