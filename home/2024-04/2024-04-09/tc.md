@@ -2,7 +2,7 @@
 title: 07---第九周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-29T15:25:17.024Z
+date: 2024-07-29T15:29:55.279Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:25:17.024Z
@@ -11,7 +11,6 @@ dateCreated: 2024-07-29T15:25:17.024Z
 # 第九周 · 听抄信息
 ### 🔊🔊讲台音频
 
-[2024-07-ST-Msg09-C.mp3](https://prod-files-secure.s3.us-west-2.amazonaws.com/177004fc-5380-48e3-9aed-9d7b58e0d2c5/8d985ee1-e82e-458d-a12f-559cf1eb83cf/2024-07-ST-Msg09-C.mp3)
 
 ## 第九篇    基督作为复活与麦粒
 
