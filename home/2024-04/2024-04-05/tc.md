@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-29T15:04:05.284Z
+date: 2024-07-30T04:55:20.089Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:04:05.284Z
@@ -12,7 +12,7 @@ dateCreated: 2024-07-29T15:04:05.284Z
 
 ### 🔊🔊讲台音频
 
-[2024-07-ST-Msg05-C.mp3](https://prod-files-secure.s3.us-west-2.amazonaws.com/177004fc-5380-48e3-9aed-9d7b58e0d2c5/a74e9c0b-c986-477f-8f97-bf24c1640c19/2024-07-ST-Msg05-C.mp3)
+
 
 ## 第五篇    享受基督作为新约禧年的实际
 
