@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-29T14:57:04.842Z
+date: 2024-07-30T11:03:29.294Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T14:57:04.842Z
@@ -10,7 +10,10 @@ dateCreated: 2024-07-29T14:57:04.842Z
 
 # 第四周 · 听抄信息
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-04/week4/04tc.mp3">
+</audio>
+---
 
 ## 第四篇    国度是征服背叛，也是主耶稣的变化形像
 
