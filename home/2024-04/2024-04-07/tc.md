@@ -2,18 +2,14 @@
 title: 07---第七周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-30T11:05:32.387Z
+date: 2024-08-24T16:38:50.719Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:14:24.748Z
 ---
 
 # 第七周 · 听抄信息
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week7/07tc.mp3">
-</audio>
----
+### 🔊🔊[讲台视频（点击播放）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/EbBO7-Mzm8FKjMkIEvx81wUBZ4DFg2LO-wMKGiRyqQze9Q?e=8QyH7M)
 ## 第七篇    生命的粮
 
 ### 为着这训练赞美主！这是何等的特权和福分，我们能在这训练中听见关于经历、享受并彰显基督的话。乃是主的怜悯，使我们能在这里。这些日子，主对我们的负担乃是要我们进入《经历、享受并彰显基督》这事的实际。为此，我们要考量自己进入这事的实际有多少。在第一篇信息中，弟兄说到这次训练总题的内在负担时，提到李弟兄于一九七八年所说的一句话，深深地摸着我：“我多少担心你们对基督的享受可能不是那么多。”（经历基督，三〇页）
