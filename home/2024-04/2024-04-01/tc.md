@@ -2,7 +2,7 @@
 title: 07---第一周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-28T15:59:52.104Z
+date: 2024-08-24T16:25:42.247Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-28T15:47:24.235Z
@@ -10,11 +10,7 @@ dateCreated: 2024-07-28T15:47:24.235Z
 
 # 第一周 · 听抄信息
 
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week1/tc.mp3">
-</audio>
----
+### 🔊🔊[讲台音频（打开链接）](https://moaer-my.sharepoint.com/:u:/g/personal/mygoodland_meuo_cn/EeVoiuTy03lCj84wnubZyVYB2YN5jJvbWevsd6M1AA5BjA?e=g5ICbF)
 
 ## 第一篇    基督作为大光、有权柄者、医生、新郎、未漂过的布以及新酒
 
