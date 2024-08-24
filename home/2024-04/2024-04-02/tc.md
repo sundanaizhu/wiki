@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-08-24T16:27:10.726Z
+date: 2024-08-24T16:32:55.763Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T13:16:29.165Z
@@ -10,7 +10,7 @@ dateCreated: 2024-07-29T13:16:29.165Z
 
 # 第二周 · 听抄信息
 
-### 🔊🔊[讲台音频（打开链接）](https://moaer-my.sharepoint.com/:u:/g/personal/mygoodland_meuo_cn/EZaLfn9RNKFFv0Iaj33ZP_gBZY2Trhs7aHuHh93VKPKdGQ?e=sX5RVU)
+### 🔊🔊[讲台视频（点击播放）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/EU6CKTEwtWFKnD2N15VpiVgBvTAIpbZk038YxSoTMRoVIw?e=N2QRgz)
 
 ## 第二篇    基督作为那行为受属天管治者、我们的牧人、我们的安息以及那撒种者
 
