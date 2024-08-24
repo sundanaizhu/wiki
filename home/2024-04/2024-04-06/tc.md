@@ -2,7 +2,7 @@
 title: 07---第六周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-30T11:04:49.427Z
+date: 2024-08-24T16:37:53.571Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:09:17.430Z
@@ -10,11 +10,7 @@ dateCreated: 2024-07-29T15:09:17.430Z
 
 # 第六周 · 听抄信息
 
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week6/06tc.mp3">
-</audio>
----
+### 🔊🔊[讲台视频（点击播放）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/ETCAbG0gwRNPlNkzSVSu_gYBpIQo0uvlrWbEZdAqS1btaA?e=gXQByj)
 
 ## 第六篇    基督作为神的话
 
