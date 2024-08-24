@@ -2,18 +2,14 @@
 title: 07---第十一周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-30T11:08:06.955Z
+date: 2024-08-24T16:42:17.789Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-30T01:00:50.868Z
 ---
 
 # 第十一周 · 听抄信息
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week11/11tc.mp3">
-</audio>
----
+### 🔊🔊[讲台视频（点击播放）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/EWDoqHfpl0pLhjeYu_jAkNkBPnVtYwoMaFwmJy9kE8vpOA?e=D6W1Vc)
 ## 第十一篇    在父的家里—活在那借着基督的死与复活所为我们预备的地方
 
 ### 祷告：主，我们再一次告诉你，我们爱你。你为我们所预备，预先命定的，的确是眼睛未曾看见，耳朵未曾听见，人心也未曾想到的；如今你借着那灵，把这些奥秘的事都向我们启示了。主，我们爱你；但愿我们都在灵里，并且将我们的心转向你，好接受这篇信息。求你向我们说话，与我们同在，阿们。
