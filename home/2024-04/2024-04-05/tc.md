@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-30T11:04:11.990Z
+date: 2024-08-24T16:37:01.487Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T15:04:05.284Z
@@ -10,11 +10,7 @@ dateCreated: 2024-07-29T15:04:05.284Z
 
 # 第五周 · 听抄信息
 
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week5/05tc.mp3">
-</audio>
----
+### 🔊🔊[讲台视频（点击播放）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/ET656fdu6n1FvP8hpP-MuCgB3zh4RKxvPuQhlLt05A4KzA?e=xOSL4f)
 ## 第五篇    享受基督作为新约禧年的实际
 
 ### 盼望我们对这次训练总题《经历、享受并彰显基督》的内在意义有深刻的印象。经历、享受并彰显基督，乃是神圣启示的心脏，也是神永远经纶的中心思想。我们对基督的经历和享受，乃是为使我们能团体地彰显基督，成为基督的身体，终极完成于新耶路撒冷。
