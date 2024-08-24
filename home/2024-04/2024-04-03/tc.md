@@ -2,18 +2,14 @@
 title: 07---第三周 · 听抄
 description: 2024年夏季听抄信息
 published: true
-date: 2024-07-30T11:02:49.703Z
+date: 2024-08-24T16:29:46.829Z
 tags: 2024-04
 editor: markdown
 dateCreated: 2024-07-29T13:27:18.638Z
 ---
 
 # 第三周 · 听抄信息
-### 🔊🔊讲台音频
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/2024-04/week3/03tc.mp3">
-</audio>
----
+### 🔊🔊[讲台音频（打开链接）](https://moaer-my.sharepoint.com/:v:/g/personal/mygoodland_meuo_cn/EeR5SLPuaZJPvmpJfUogbFkBagWRC_h1W5-IDc0QuNasIA?e=8ki2xh)
 ## 第三篇    借着将万民浸入父、子、圣灵的名里，使他们作主的门徒
 
 ### 第三篇信息的篇提出自马太福音末了的一段经文，大部分基督徒称这段经文为大使命，就是要去全世界传扬福音。但我们需要看见，马太二十八章十九至二十节不重在外面的活动或执行某个嘱咐，而是重在经历、享受并彰显基督。我们对这些经节都很熟悉，但我们可能以为该发起一些活动作为回应。盼望在这次训练的光中，我们能看见，我们若要与主配合，与祂一同行动，就需要经历并享受祂是那差遣我们的，祂乃是君王。
