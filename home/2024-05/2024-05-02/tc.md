@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 2024年秋季长老听抄
 published: true
-date: 2024-10-28T10:55:57.855Z
+date: 2024-10-29T02:07:01.148Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-28T10:55:57.855Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-28T10:55:57.855Z
 # 第二周 · 听抄
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-05/msg/2024-05msg02-c.mp3">
+</audio>
+---
 
 ## 第二篇　借着过隐藏的生活而过国度的生活
 
