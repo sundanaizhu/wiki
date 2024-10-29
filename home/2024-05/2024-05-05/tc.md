@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄
 published: true
-date: 2024-10-29T06:52:56.582Z
+date: 2024-10-29T06:53:21.305Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T06:52:56.582Z
@@ -11,8 +11,6 @@ dateCreated: 2024-10-29T06:52:56.582Z
 # 第五周 · 听抄
 
 ### 🔊🔊讲台音频
-
-[2024-10-ITERO-Msg05-C.mp3](https://prod-files-secure.s3.us-west-2.amazonaws.com/177004fc-5380-48e3-9aed-9d7b58e0d2c5/7d33f317-3674-4bc0-bfca-7bc43913188c/2024-10-ITERO-Msg05-C.mp3)
 
 ## 第五篇　活在神的主宰权柄之下并照着神的怜悯而活
 
