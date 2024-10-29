@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 听抄
 published: true
-date: 2024-10-29T05:14:03.150Z
+date: 2024-10-29T05:14:20.769Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T05:14:03.150Z
@@ -11,8 +11,6 @@ dateCreated: 2024-10-29T05:14:03.150Z
 # 第四周 · 听抄
 
 ### 🔊🔊讲台音频
-
-[2024-10-ITERO-Msg04-C.mp3](https://prod-files-secure.s3.us-west-2.amazonaws.com/177004fc-5380-48e3-9aed-9d7b58e0d2c5/24833df2-05d8-402f-9a11-59e9d922e25a/2024-10-ITERO-Msg04-C.mp3)
 
 ## 第四篇　国度的操练为着召会的建造
 
