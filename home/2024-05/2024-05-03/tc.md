@@ -2,7 +2,7 @@
 title: 07---第三周 · 听抄
 description: 2024年秋季长老听抄
 published: true
-date: 2024-10-29T01:00:07.625Z
+date: 2024-10-29T02:08:09.692Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T01:00:07.625Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-29T01:00:07.625Z
 # 第三周 · 听抄
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-05/msg/2024-05msg03-c.mp3">
+</audio>
+---
 
 ## 第三篇　国度与召会
 
