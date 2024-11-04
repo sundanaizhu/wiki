@@ -2,7 +2,7 @@
 title: 07---第七周 · 听抄
 description: 听抄
 published: true
-date: 2024-10-29T07:22:21.261Z
+date: 2024-11-04T14:50:00.741Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T07:22:21.260Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-29T07:22:21.260Z
 # 第七周 · 听抄
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-05/msg/2024-05msg07-c.mp3">
+</audio>
+---
 
 ## 第七篇　为带进神的国而有属灵的争战，以及活在神爱子的国里
 
