@@ -2,7 +2,7 @@
 title: 07---第六周 · 听抄
 description: 听抄
 published: true
-date: 2024-10-29T07:06:31.783Z
+date: 2024-11-04T14:49:24.137Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T07:06:31.783Z
@@ -11,6 +11,10 @@ dateCreated: 2024-10-29T07:06:31.783Z
 # 第六周 · 听抄
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-05/msg/2024-05msg06-c.mp3">
+</audio>
+---
 
 ## 第六篇　在生命上儆醒并在服事上忠信
 
