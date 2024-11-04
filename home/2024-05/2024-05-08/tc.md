@@ -2,13 +2,17 @@
 title: 07---第八周 · 听抄
 description: 听抄
 published: true
-date: 2024-10-29T07:38:14.893Z
+date: 2024-11-04T14:50:40.810Z
 tags: 2024-05
 editor: markdown
 dateCreated: 2024-10-29T07:38:14.893Z
 ---
 
 ### 🔊🔊讲台音频
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-05/msg/2024-05msg08-c.mp3">
+</audio>
+---
 
 ## 第八篇　传扬国度的福音并使万民作主的门徒
 
