@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T07:36:21.842Z
+date: 2024-12-17T08:04:59.121Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T07:36:21.842Z
@@ -207,3 +207,12 @@ dateCreated: 2024-12-17T07:36:21.842Z
 ### 三  神恩典的丰富，就是神自己的丰富，作我们的享受，超越各样的限制，并要公开显示出来，直到永远—弗二7。
 
 ### 圣徒们，在神新约的经纶里，恩典是最高的启示。所以圣徒们，愿恩典繁增地与你们同在。阿们！好，让我们来唱中文诗歌二百四十八首的副歌，唱两次，然后我们一起有点祷告，阿们。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
