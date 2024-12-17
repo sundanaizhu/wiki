@@ -1,8 +1,8 @@
 ---
-title: 01---第一周 · 听抄
+title: 07---第一周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T02:21:45.592Z
+date: 2024-12-17T02:25:03.426Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T02:21:45.592Z
