@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T08:02:53.229Z
+date: 2024-12-17T08:45:10.451Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T06:57:15.248Z
@@ -10,7 +10,10 @@ dateCreated: 2024-12-17T06:57:15.248Z
 
 # 第四周 · 听抄
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-06/msg/2024-11-tkg-msg04-c.mp3">
+</audio>
+---
 
 ## 第四篇　成为基督的复制品，并经历基督作我们魂的牧人
 
