@@ -2,7 +2,7 @@
 title: 07---第六周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T07:52:45.761Z
+date: 2024-12-17T08:07:15.822Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T07:52:45.761Z
@@ -170,3 +170,12 @@ dateCreated: 2024-12-17T07:52:45.761Z
 ### 表面看来，是我们进入永远的国；事实上，是借着我们在生命里的长大，并借着神圣生命在我们里面的发展，叫我们得着丰富的供应，而得以进入永远的国。
 
 ### 亲爱的圣徒，乃是借着我们生命的长大，并借着神圣生命在我们里面的发展。在我提到你们的这个祷告之前，弟兄们两分钟的见证之后，你上来的时候，我恳求你不要来唱歌，不要来讲你个人的历史，我们需要弟兄姊妹来肯定这些经节的这些话。所以请祷告三十、四十秒，然后跟随主的带领，里面的带领。如果你是中年的，坐在那里的，我知道要走上来路很远，但请跟随你里面的带领，来给你的见证，来完成这个信息。说到这是我们的这一部分，也需要你们这一部分，然后我们就会完成、完满地结束这个特会。请祷告，也分享。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
