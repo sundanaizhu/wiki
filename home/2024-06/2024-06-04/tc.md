@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T06:57:15.248Z
+date: 2024-12-17T08:02:53.229Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T06:57:15.248Z
@@ -187,3 +187,12 @@ dateCreated: 2024-12-17T06:57:15.248Z
 ### 3  我们对基督的品尝，主要的是在于我们的魂；这就是为什么我们要享受基督，就需要主牧养我们魂的每一部分，特别是我们的心思。
 
 ### 阿们！每一部分，特别是我们的心思，大的难处就是心思。弟兄姊妹，跟你坐在旁边的享受你的牧人，也赞美我们魂的牧人大概一分钟。阿们。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
