@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T08:04:59.121Z
+date: 2024-12-17T08:45:42.377Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T07:36:21.842Z
@@ -10,7 +10,10 @@ dateCreated: 2024-12-17T07:36:21.842Z
 
 # 第五周 · 听抄
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-06/msg/2024-11-tkg-msg05-c.mp3">
+</audio>
+---
 
 ## 第五篇　彼得书信中的恩典
 
