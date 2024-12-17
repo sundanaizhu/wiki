@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T07:58:46.525Z
+date: 2024-12-17T08:42:09.866Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T06:24:47.622Z
@@ -10,7 +10,10 @@ dateCreated: 2024-12-17T06:24:47.622Z
 
 # 第二周 · 听抄
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-06/msg/2024-11-tkg-msg02-c.mp3">
+</audio>
+---
 
 ## 第二篇　在神的行政下过基督徒生活
 
