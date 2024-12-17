@@ -2,7 +2,7 @@
 title: 07---第三周 · 听抄
 description: 听抄信息
 published: true
-date: 2024-12-17T08:00:51.437Z
+date: 2024-12-17T08:44:34.244Z
 tags: 2024-06
 editor: markdown
 dateCreated: 2024-12-17T06:44:09.094Z
@@ -10,7 +10,10 @@ dateCreated: 2024-12-17T06:44:09.094Z
 
 # 第三周 · 听抄信息
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-06/msg/2024-11-tkg-msg03-c.mp3">
+</audio>
+---
 
 ## 第三篇　彼得书信中的生命与建造
 
