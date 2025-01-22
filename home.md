@@ -2,7 +2,7 @@
 title: 一年七次特会
 description: 
 published: true
-date: 2024-12-17T02:15:33.925Z
+date: 2025-01-22T12:48:12.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-26T13:49:42.409Z
@@ -22,6 +22,7 @@ dateCreated: 2023-04-26T13:49:42.409Z
 ### [2024-04 夏季训练](/home/2024-04)
 ### [2024-05 秋季长老](/home/2024-05)
 ### [2024-06 感恩节特会](/home/2024-06)
+### 2024-07 冬季训练
 ---
 
 ### 更多内容请进入： [Paul’s Notion](https://mygoodland.notion.site/Paul-s-NOTION-117eeafd285445828856f7d6be113607?pvs=4) 
