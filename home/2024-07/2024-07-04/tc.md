@@ -2,7 +2,7 @@
 title: 07---第十六周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-01-23T01:44:38.267Z
+date: 2025-02-03T13:39:47.469Z
 tags: 2024-07
 editor: markdown
 dateCreated: 2025-01-23T01:44:38.267Z
@@ -10,7 +10,10 @@ dateCreated: 2025-01-23T01:44:38.267Z
 
 # 听抄信息
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-07/msg/2024-12-wt-msg04-c.mp3">
+</audio>
+---
 
 ## 第四篇    我们的灵食、我们的灵磐石以及主筵席的内容
 
