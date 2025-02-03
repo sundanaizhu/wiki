@@ -2,7 +2,7 @@
 title: 07---第十七周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-01-23T07:11:57.599Z
+date: 2025-02-03T13:38:50.330Z
 tags: 2024-07
 editor: markdown
 dateCreated: 2025-01-23T07:11:57.599Z
@@ -10,7 +10,10 @@ dateCreated: 2025-01-23T07:11:57.599Z
 
 # 听抄信息
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-07/msg/2024-12-wt-msg05-c.mp3">
+</audio>
+---
 ## 第五篇    基督作为神的像并作为宝贝
 
 ### 这次训练的总题是“经历、享受并彰显基督（二）”，在前面的信息中，我们已经看过许多关于经历并享受基督美妙的方面。头两篇信息是根据罗马书，接着的两篇是根据哥林多前书，现在我们要来看哥林多后书。
