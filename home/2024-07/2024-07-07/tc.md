@@ -2,7 +2,7 @@
 title: 07---第十九周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-01-25T09:35:00.415Z
+date: 2025-02-03T13:37:19.254Z
 tags: 2024-07
 editor: markdown
 dateCreated: 2025-01-25T09:35:00.415Z
@@ -11,7 +11,10 @@ dateCreated: 2025-01-25T09:35:00.415Z
 ## 第十九周 · 听抄信息
 
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-07/msg/2024-12-wt-msg07-c.mp3">
+</audio>
+---
 ## 第七篇    成形在信徒里面的那一位
 
 ### 在前面的信息中，我们看过罗马书和哥林多前后书中的经历、享受并彰显基督；本篇我们要进入加拉太书。这篇美妙的信息要向我们描绘基督徒生活和行事的路径。
