@@ -2,7 +2,7 @@
 title: 07---第二十一周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-02-03T12:32:15.615Z
+date: 2025-02-03T13:35:43.646Z
 tags: 2024-07
 editor: markdown
 dateCreated: 2025-02-03T12:32:15.615Z
@@ -11,7 +11,10 @@ dateCreated: 2025-02-03T12:32:15.615Z
 ## 第二十一周 · 听抄信息
 
 ### 🔊🔊讲台音频
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2024-07/msg/2024-12-wt-msg09-c.mp3">
+</audio>
+---
 ## 第九篇    召会的奥秘
 
 ### **“奥秘”的定义**
