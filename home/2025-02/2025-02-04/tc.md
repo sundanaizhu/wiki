@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:10:41.436Z
+date: 2025-05-02T13:38:16.807Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-29T07:52:56.492Z
@@ -198,3 +198,12 @@ dateCreated: 2025-04-29T07:52:56.492Z
 ### 2   相信主耶稣乃是根据基督的人位，以及祂所成就的一切，这二者构成神新约经纶的信仰—提前一4。
 
 ### 当那禁卒问保罗，我该怎么作才能够得救，保罗简单地告诉他，当信靠主耶稣。这位主耶稣就是神而人者，你只要相信祂—主耶稣，你就会得救。祂就是我们信仰的内容。阿们！弟兄们，我们有何等一位基督，复活、升天、包罗万有的基督。这就是我们所繁殖的基督，请与身旁的有半分钟的祷告。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
