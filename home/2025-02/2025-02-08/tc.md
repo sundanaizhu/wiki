@@ -2,7 +2,7 @@
 title: 07---第八周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:12:34.842Z
+date: 2025-05-02T14:01:09.263Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-29T09:07:40.448Z
@@ -173,3 +173,12 @@ dateCreated: 2025-04-29T09:07:40.448Z
 ### 2   教导基督的事，就是普及神的国；所以，神的国实际上就是复活基督的繁殖—这过程今天借由信徒得以继续进行—31节。
 
 ### 我们一同读第二小点，然后跟身旁的祷告，然后弟兄再引导我们如何继续进行聚会。教导基督的事，就是普及神的国；所以神的国实际上就是复活基督的繁殖—这过程今天借由信徒得以继续进行。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
