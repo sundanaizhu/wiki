@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 晨兴喂养
 published: true
-date: 2025-05-01T06:09:43.960Z
+date: 2025-05-02T13:32:36.310Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-25T14:28:12.253Z
@@ -181,3 +181,12 @@ dateCreated: 2025-04-25T14:28:12.253Z
 ### 捌   为着主当前的行动，众召会需要同心合意；我们都该说一样的话，吹同样的号，教导相同的事，并且有同样的实行—书一16～18，六1～16，徒二42，四24、32，林前四17，七17，十一16，十四34。
 
 ### 现在结语的话，为着主当前的行动，众召会需要同心合意；我们都该说一样的话，吹同样的号，教导相同的事，并且有同样的实行。让我们都一样的同心合意，在各处，直到主回来，请有一点祷告，并照着Bob弟兄的交通来作事。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
