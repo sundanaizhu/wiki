@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:11:06.546Z
+date: 2025-05-02T13:45:37.877Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-29T08:03:13.553Z
@@ -232,3 +232,12 @@ dateCreated: 2025-04-29T08:03:13.553Z
 ### 四   无论如何，我们在此乃是作神所托付我们的一分工作；至于别人的工作如何，我们不能干涉，我们在此并不破坏别人的工作。
 
 ### 然后第四，无论如何，这对我们的吩咐，我还记得。我们在此乃是作神所托付我们的一分工作；至于别人的工作如何，我们不能干涉，我们在此并不破坏别人的工作。我们有太多的工可作，我们都在这道水流里，就是三一神独一工作的水流中，绝对不要在这流中迷失。在神的历史，属人历史中神圣历史中往前。我就停在这里，我们与身旁的人有几分钟的祷告，然后我们看接下来如何。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
