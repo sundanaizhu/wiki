@@ -2,7 +2,7 @@
 title: 07---第七周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:12:02.677Z
+date: 2025-05-02T13:56:21.476Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-29T08:47:43.212Z
@@ -190,3 +190,12 @@ dateCreated: 2025-04-29T08:47:43.212Z
 ### 九   翻转世界并转移时代的乃是少数人；我们若要在楼房上，就需要有专特的祷告，说，“主，我愿意在楼房上，为着你见证的恢复。”
 
 ### 亲爱的圣徒们，这样的奉献是转移时代，是改变时代的奉献。这样的奉献不只是要跟随主成为属灵的人，这样的奉献是要让主的恢复，主今天在地上见证的恢复往前，要让我们成为真正的基督的继续。让祂得扩展，让祂得扩增，使祂得显现在地上，今天显现在地上。但愿我们都有这样向祂的奉献，我停在这里，请与身旁的人有点祷告。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
