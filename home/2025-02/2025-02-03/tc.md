@@ -2,7 +2,7 @@
 title: 07---第三周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:10:18.195Z
+date: 2025-05-02T13:37:48.919Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-29T07:39:12.704Z
@@ -236,3 +236,12 @@ dateCreated: 2025-04-29T07:39:12.704Z
 ### 三   不祷告乃是罪；所有在主恢复里的人都必须多多祷告，并抵挡不祷告的罪—撒上十二23，西四2。
 
 ### 弟兄们，这乃是借着主恢复中能力的三个实质—祷告，那灵与话，维持同心合意。盼望我们都这样操练，并且宝贝这三个实质。因为这样我们就天天能从自己里面迁出，而迁到三一神里面，使我们被成全成为一，那就是开启一切福分，无论是什么工作，我们的事奉，我们的召会都能够带进祝福。我们有一分钟与身旁的弟兄祷告。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
