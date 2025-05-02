@@ -2,7 +2,7 @@
 title: 07---第一周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-05-01T06:08:59.177Z
+date: 2025-05-02T11:48:27.473Z
 tags: 2025-02
 editor: markdown
 dateCreated: 2025-04-22T12:00:37.991Z
@@ -240,3 +240,12 @@ dateCreated: 2025-04-22T12:00:37.991Z
 ### 肆   召会的终极结果乃是要来在永世里的新耶路撒冷，作神完满并永远的彰显；这该是今天我们跟随使徒保罗的榜样—“全然放胆宣扬神的国，并教导主耶稣基督的事，毫无阻碍”—一切福音传扬的实际和目标—二八31。
 
 ### 这持续不断地往前。今天我们还在传扬国度的福音，作为白马。白马走在前面，就是福音，然后战争、饥荒、死亡，这是世界上所发生的事。但是什么在领头呢？是福音在领头。弟兄们，我停在这里，我们跟身旁的祷告大约三十秒，然后弟兄们再告诉我们如何继续进行聚会。
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P8709Z16T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1P8709Z16T');
+</script>
