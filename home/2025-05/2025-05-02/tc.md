@@ -1,8 +1,8 @@
 ---
-title: 06---第二周 · 听抄
+title: 07---第二周 · 听抄
 description: 听抄信息
 published: true
-date: 2025-10-17T13:24:47.833Z
+date: 2025-10-17T13:25:06.431Z
 tags: 2025-05
 editor: markdown
 dateCreated: 2025-10-17T13:24:47.833Z
