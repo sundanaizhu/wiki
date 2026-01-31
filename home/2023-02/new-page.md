@@ -2,15 +2,13 @@
 title: 测试页面
 description: 
 published: true
-date: 2026-01-31T01:50:46.493Z
+date: 2026-01-31T02:03:32.356Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T14:53:56.959Z
 ---
 
-三篇　基督是人子在金灯台中间
-
-行走【纲目】
+# 第三篇　基督是人子在金灯台中间行走【纲目】
 
 E. D.  诗歌: 英1184
 
