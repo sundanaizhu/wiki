@@ -2,7 +2,7 @@
 title: 07---第四十周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-01-31T12:27:18.732Z
+date: 2026-01-31T13:29:23.310Z
 tags: 2025-07
 editor: markdown
 dateCreated: 2026-01-31T12:27:18.732Z
@@ -12,6 +12,10 @@ dateCreated: 2026-01-31T12:27:18.732Z
 
 ### 🔊🔊<u>讲台音频</u>
 
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2025-07/msg/2025-12-wt-msg04-c.mp3">
+</audio>
+---
 ###     前面几篇信息说到，基督是神忠信的见证人，为着耶稣的见证；祂拿着死亡和阴间的钥匙；祂是人子，在金灯台，也就是众召会中间行走。本篇将继续揭示基督是“狮子羔羊”。整卷启示录全是基督的启示。
 
 ## <span style="color: #d44c47">关乎启示录的三项要点</span>
