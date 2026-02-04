@@ -2,558 +2,956 @@
 title: 测试页面
 description: 
 published: true
-date: 2026-01-31T13:43:43.501Z
+date: 2026-02-04T01:10:21.835Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T14:53:56.959Z
 ---
 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">读经：启一1~2、5、9~12，七9~17，十九10 </h3>
 
-
-# 第三篇　基督是人子在金灯台中间行走【纲目】
-
-E. D.  诗歌: 英1184
-
-### 读经：启一9~二1
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:9</b></span>　我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
+  <span style="color: #d44c47">启1:1</span>&emsp;耶稣基督的启示，就是神赐给祂，叫祂将必要快发生的事指示祂的众奴仆；祂就借着祂的使者传达，用表号指示祂的奴仆约翰。
 
-  <span style="color: #d44c47"><b>启1:10</b></span>　当主日我在灵里，听见在我后面有大声音如吹号说，
+  <span style="color: #d44c47">启1:2</span>&emsp;约翰便将神的话，和耶稣基督的见证，凡自己所看见的，都见证出来。
 
-  <span style="color: #d44c47"><b>启1:11</b></span>　你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
+  <span style="color: #d44c47">启1:5</span>&emsp;并从那忠信的见证人、死人中的首生者、为地上君王元首的耶稣基督，归与你们。祂爱我们，用自己的血，把我们从我们的罪中释放了；
 
-  <span style="color: #d44c47"><b>启1:12</b></span>　我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
+  <span style="color: #d44c47">启1:9</span>&emsp;我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
 
-  <span style="color: #d44c47"><b>启1:13</b></span>　灯台中间，有一位好像人子，身穿长袍，直垂到脚，胸间束着金带。
+  <span style="color: #d44c47">启1:10</span>&emsp;当主日我在灵里，听见在我后面有大声音如吹号说，
 
-  <span style="color: #d44c47"><b>启1:14</b></span>　祂的头与发皆白，如白羊毛、如雪，眼目如同火焰，
+  <span style="color: #d44c47">启1:11</span>&emsp;你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
 
-  <span style="color: #d44c47"><b>启1:15</b></span>　脚好像在炉中锻炼过明亮的铜，声音如同众水的声音。
+  <span style="color: #d44c47">启1:12</span>&emsp;我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
 
-  <span style="color: #d44c47"><b>启1:16</b></span>　祂右手中拿着七星，从祂口中出来一把两刃的利剑，面貌如同烈日中天发光。
+  <span style="color: #d44c47">启7:9</span>&emsp;这些事以后，我观看，看哪，有大批的群众，没有人能数得过来，是从各邦国、各支派、各民族、各方言来的，站在宝座前和羔羊面前，身穿白袍，手拿棕树枝，
 
-  <span style="color: #d44c47"><b>启1:17</b></span>　我一看见，就仆倒在祂脚前，像死了一样。祂用右手按着我说，不要惧怕；我是首先的，我是末后的，
+  <span style="color: #d44c47">启7:10</span>&emsp;大声喊着说，愿救恩归与坐在宝座上我们的神，也归与羔羊。
 
-  <span style="color: #d44c47"><b>启1:18</b></span>　又是那活着的；我曾死过，看哪，现在又活了，直活到永永远远，并且拿着死亡和阴间的钥匙。
+  <span style="color: #d44c47">启7:11</span>&emsp;众天使都站在宝座、众长老和四活物的周围，在宝座前面伏于地，敬拜神，说，
 
-  <span style="color: #d44c47"><b>启1:19</b></span>　所以你要把所看见的事，和现在的事，以及这些事以后将要发生的事，都写出来。
+  <span style="color: #d44c47">启7:12</span>&emsp;阿们。愿颂赞、荣耀、智慧、感谢、尊贵、能力、力量，都归与我们的神，直到永永远远。阿们。
 
-  <span style="color: #d44c47"><b>启1:20</b></span>　论到你所看见在我右手中的七星，和七个金灯台的奥秘，那七星就是七个召会的使者，七灯台就是七个召会。
+  <span style="color: #d44c47">启7:13</span>&emsp;长老中有一位问我说，这些穿白袍的是谁？是从哪里来的？
 
-  <span style="color: #d44c47"><b>启2:1</b></span>　你要写信给在以弗所的召会的使者，说，那右手中握着七星，在七个金灯台中间行走的，这样说，
+  <span style="color: #d44c47">启7:14</span>&emsp;我对他说，我主，你晓得。他对我说，这些人是从大患难中出来的，曾用羔羊的血，洗净了他们的袍子，并且洗白了。
+
+  <span style="color: #d44c47">启7:15</span>&emsp;所以他们在神宝座前，昼夜在祂殿中事奉祂；坐宝座的要用帐幕覆庇他们。
+
+  <span style="color: #d44c47">启7:16</span>&emsp;他们不再饥、不再渴，日头和一切炎热也必不伤害他们，
+
+  <span style="color: #d44c47">启7:17</span>&emsp;因为宝座中的羔羊必牧养他们，领他们到生命水的泉；神也必从他们眼中擦去一切的眼泪。
+
+  <span style="color: #d44c47">启19:10</span>&emsp;我就俯伏在他脚前要拜他。他说，千万不可。我和你并你那些持守耶稣见证的弟兄，同是作奴仆的；你要敬拜神！因为耶稣的见证乃是预言的灵。
 </details>
 
-## <span style="color: #d44c47">壹　我们要看见基督是人子在金灯台中间行走的异象，就必须是主得胜的使者，就是那些在召会的立场上，在我们的灵里，在耶稣的患难、国度、忍耐里一同有分的人—启一9~13、20： </span>
+<h2 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #d44c47">壹&emsp;基督是神忠信的见证人，是神的见证和彰显；祂把神彰显出来，那就是祂的见证—启一5，三14： </span></h2>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:9</b></span>　我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
+  <span style="color: #d44c47">启1:5</span>&emsp;并从那忠信的见证人、死人中的首生者、为地上君王元首的耶稣基督，归与你们。祂爱我们，用自己的血，把我们从我们的罪中释放了；
 
-  <span style="color: #d44c47"><b>启1:10</b></span>　当主日我在灵里，听见在我后面有大声音如吹号说，
-
-  <span style="color: #d44c47"><b>启1:11</b></span>　你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
-
-  <span style="color: #d44c47"><b>启1:12</b></span>　我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
-
-  <span style="color: #d44c47"><b>启1:13</b></span>　灯台中间，有一位好像人子，身穿长袍，直垂到脚，胸间束着金带。
-
-  <span style="color: #d44c47"><b>启1:20</b></span>　论到你所看见在我右手中的七星，和七个金灯台的奥秘，那七星就是七个召会的使者，七灯台就是七个召会。
+  <span style="color: #d44c47">启3:14</span>&emsp;你要写信给在老底嘉的召会的使者，说，那阿们，那忠信真实的见证人，那神创造之物的元始，这样说，
 </details>
 
-### <span style="color: #9065b0">一　早期召会生活的实行，乃是一个城一个召会，一个城只有一个召会；没有一个城有一个以上的召会—徒八1，十三1，启一11。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">一&emsp;基督是神的见证人，是神的见证和彰显；召会是基督的见证和彰显；如此，召会乃是神在基督里之见证和彰显的复制—一5。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>徒8:1</b></span>　就在那日，在耶路撒冷的召会大遭逼迫，除了使徒以外，门徒都分散在犹太和撒玛利亚各地。
-
-  <span style="color: #d44c47"><b>徒13:1</b></span>　在安提阿当地的召会中，有几位申言者和教师，就是巴拿巴和称呼尼结的西面，古利奈人路求，与分封王希律同养的马念，并扫罗。
-
-  <span style="color: #d44c47"><b>启1:11</b></span>　你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
+  <span style="color: #d44c47">启1:5</span>&emsp;并从那忠信的见证人、死人中的首生者、为地上君王元首的耶稣基督，归与你们。祂爱我们，用自己的血，把我们从我们的罪中释放了；
 </details>
 
-### <span style="color: #9065b0">二　在一的真正立场，就是在神所选择的地方上聚会，有四个特征—参申十二5： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">二&emsp;启示录向我们陈明启示出来的基督，和作见证的召会，就是耶稣的见证；基督是神的见证，而召会是耶稣的见证，就是扩大的基督作为三一神团体的彰显—约一18，五31~37，八14，启一2、5、9，十九10，参创一26。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>申12:5</b></span>　但耶和华你们的神从你们各支派中，所选择出来立祂名的地方，就是祂的居所，那是你们当寻求的，你们要往那里去，
+  <span style="color: #d44c47">约1:18</span>&emsp;从来没有人看见神，只有在父怀里的独生子，将祂表明出来。
+
+  <span style="color: #d44c47">约5:31</span>&emsp;我若为自己作见证，我的见证就不真。
+
+  <span style="color: #d44c47">约5:32</span>&emsp;另有一位为我作见证，我也知道他为我作的见证是真的。
+
+  <span style="color: #d44c47">约5:33</span>&emsp;你们曾差人到约翰那里，他为真理作过见证。
+
+  <span style="color: #d44c47">约5:34</span>&emsp;其实我不接受从人来的见证；然而我说这些话，为要叫你们得救。
+
+  <span style="color: #d44c47">约5:35</span>&emsp;约翰是点着且发亮的灯，你们情愿暂时在他的光中欢腾。
+
+  <span style="color: #d44c47">约5:36</span>&emsp;但我有比约翰更大的见证，因为父交给我要我完成的工，就是我所作的这些工，为我作见证，我是父所差来的。
+
+  <span style="color: #d44c47">约5:37</span>&emsp;差我来的父，也为我作过见证。你们从来没有听过祂的声音，也没有见过祂的形状，
+
+  <span style="color: #d44c47">约8:14</span>&emsp;耶稣回答他们说，我就是为自己作见证，我的见证还是真的，因我晓得我从哪里来，往哪里去，你们却不晓得我从哪里来，往哪里去。
+
+  <span style="color: #d44c47">启1:2</span>&emsp;约翰便将神的话，和耶稣基督的见证，凡自己所看见的，都见证出来。
+
+  <span style="color: #d44c47">启1:5</span>&emsp;并从那忠信的见证人、死人中的首生者、为地上君王元首的耶稣基督，归与你们。祂爱我们，用自己的血，把我们从我们的罪中释放了；
+
+  <span style="color: #d44c47">启1:9</span>&emsp;我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
+
+  <span style="color: #d44c47">启19:10</span>&emsp;我就俯伏在他脚前要拜他。他说，千万不可。我和你并你那些持守耶稣见证的弟兄，同是作奴仆的；你要敬拜神！因为耶稣的见证乃是预言的灵。
+
+  <span style="color: #d44c47">创1:26</span>&emsp;神说，我们要按着我们的形像，照着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜、和全地、并地上所爬的一切爬物。
 </details>
 
-### 1　首先，神的子民总该是一，他们中间不该有分裂—诗一三三，约十七11、21~23，林前一10，弗四3。 
+<h2 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #d44c47">贰&emsp;耶稣的见证乃是七个金灯台—性质是金的（神圣的），照耀在黑暗里，并且彼此相同—启一1~2、9~12： </span></h2>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>诗133:1</b></span>　看哪，弟兄和睦同居，是何等的善，何等的美！
+  <span style="color: #d44c47">启1:1</span>&emsp;耶稣基督的启示，就是神赐给祂，叫祂将必要快发生的事指示祂的众奴仆；祂就借着祂的使者传达，用表号指示祂的奴仆约翰。
 
-  <span style="color: #d44c47"><b>诗133:2</b></span>　这好比那上好的油，浇在亚伦的头上，流到胡须，又流到他的衣襟；
+  <span style="color: #d44c47">启1:2</span>&emsp;约翰便将神的话，和耶稣基督的见证，凡自己所看见的，都见证出来。
 
-  <span style="color: #d44c47"><b>诗133:3</b></span>　又好比黑门的甘露，降在锡安山；因为在那里有耶和华所命定的福，就是永远的生命。
+  <span style="color: #d44c47">启1:9</span>&emsp;我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
 
-  <span style="color: #d44c47"><b>约17:11</b></span>　我不再在世上，他们却在世上，我往你那里去。圣父啊，求你在你的名，就是你所赐给我的名里，保守他们，使他们成为一，像我们一样。
+  <span style="color: #d44c47">启1:10</span>&emsp;当主日我在灵里，听见在我后面有大声音如吹号说，
 
-  <span style="color: #d44c47"><b>约17:21</b></span>　使他们都成为一；正如你父在我里面，我在你里面，使他们也在我们里面，叫世人可以信你差了我来。
+  <span style="color: #d44c47">启1:11</span>&emsp;你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
 
-  <span style="color: #d44c47"><b>约17:22</b></span>　你所赐给我的荣耀，我已赐给他们，使他们成为一，正如我们是一一样。
-
-  <span style="color: #d44c47"><b>约17:23</b></span>　我在他们里面，你在我里面，使他们被成全成为一，叫世人知道是你差了我来，并且知道你爱他们如同爱我一样。
-
-  <span style="color: #d44c47"><b>林前1:10</b></span>　弟兄们，我借我们主耶稣基督的名，恳求你们都说一样的话，你们中间也不可有分裂，只要在一样的心思和一样的意见里，彼此和谐。
-
-  <span style="color: #d44c47"><b>弗4:3</b></span>　以和平的联索，竭力保守那灵的一：
+  <span style="color: #d44c47">启1:12</span>&emsp;我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
 </details>
 
-### 2　第二，神的子民该聚集到独一的名里，这名就是主耶稣基督的名，其实际乃是那灵；用任何别的名称，乃是宗派的、分裂的；这是属灵的淫乱—太十八20，林前一12~13，十二3下。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">一&emsp;金灯台象征三一神；父是本质，化身于子，子是具体化身，借灵彰显，灵则完满地实化并彰显为众召会，而众召会乃是耶稣的见证—出二五31~40，亚四2~10，启一10~12。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>太18:20</b></span>　因为无论在哪里，有两三个人被聚集到我的名里，哪里就有我在他们中间。
+  <span style="color: #d44c47">出25:31</span>&emsp;你要用纯金作一个灯台。灯台的座和干，与杯、花萼、花苞，都要接连一块锤出来。
 
-  <span style="color: #d44c47"><b>林前1:12</b></span>　我是说，你们各人说，我是属保罗的，我是属亚波罗的，我是属矶法的，我是属基督的。
+  <span style="color: #d44c47">出25:32</span>&emsp;灯台两边要杈出六个枝子，这边三个，那边三个。
 
-  <span style="color: #d44c47"><b>林前1:13</b></span>　基督是分开的么？保罗为你们钉了十字架么？或者你们是浸入保罗的名里么？
+  <span style="color: #d44c47">出25:33</span>&emsp;这边每枝上有三个杯，形状像杏花，有花萼，有花苞；那边每枝上也有三个杯，形状像杏花，有花萼，有花苞；从灯台杈出来的六个枝子，都是如此。
 
-  <span style="color: #d44c47"><b>林前12:3下</b></span>　……若不是在圣灵里，也没有人能说，主，耶稣！
+  <span style="color: #d44c47">出25:34</span>&emsp;灯台的干上有四个杯，形状像杏花，有花萼，有花苞。
+
+  <span style="color: #d44c47">出25:35</span>&emsp;灯台每两个枝子以下有花萼，与灯台接连一块；从灯台杈出来的六个枝子，都是如此；
+
+  <span style="color: #d44c47">出25:36</span>&emsp;花萼和枝子要与灯台接连一块，都是一块纯金锤出来的。
+
+  <span style="color: #d44c47">出25:37</span>&emsp;要作灯台的七个灯盏；要把灯盏放上，使灯光对照。
+
+  <span style="color: #d44c47">出25:38</span>&emsp;灯台的灯剪和灯花盘，也是要纯金的。
+
+  <span style="color: #d44c47">出25:39</span>&emsp;作灯台和这一切的器具，要用纯金一他连得。
+
+  <span style="color: #d44c47">出25:40</span>&emsp;你要谨慎，照着在山上指示你的样式去作。
+
+  <span style="color: #d44c47">亚4:2</span>&emsp;他问我说，你看见什么？我说，我看见一个灯台，全是金的，顶上有油碗；灯台上有七灯，顶上的七灯各有七个管子；
+
+  <span style="color: #d44c47">亚4:3</span>&emsp;旁边有两棵橄榄树，一棵在油碗的右边，一棵在油碗的左边。
+
+  <span style="color: #d44c47">亚4:4</span>&emsp;我问与我说话的天使说，我主啊，这些是什么意思？
+
+  <span style="color: #d44c47">亚4:5</span>&emsp;与我说话的天使回答我说，你不知道这些是什么意思么？我说，我主啊，我不知道。
+
+  <span style="color: #d44c47">亚4:6</span>&emsp;他回答我说，这是耶和华给所罗巴伯的话，说，万军之耶和华说，不是倚靠权势，不是倚靠能力，乃是倚靠我的灵。
+
+  <span style="color: #d44c47">亚4:7</span>&emsp;大山哪，你算什么？在所罗巴伯面前你必成为平地；他必搬出那块顶石，人必大声欢呼，说，愿恩典恩典，归与这石！
+
+  <span style="color: #d44c47">亚4:8</span>&emsp;耶和华的话又临到我，说，
+
+  <span style="color: #d44c47">亚4:9</span>&emsp;所罗巴伯的手立了这殿的根基，他的手也必完成这工；你就知道万军之耶和华差遣我到你们这里来了。
+
+  <span style="color: #d44c47">亚4:10</span>&emsp;谁藐视这日的事为小呢？这七眼乃是耶和华的眼睛，遍察全地，见所罗巴伯手拿线铊就欢喜。
+
+  <span style="color: #d44c47">启1:10</span>&emsp;当主日我在灵里，听见在我后面有大声音如吹号说，
+
+  <span style="color: #d44c47">启1:11</span>&emsp;你所看见的，当写在书上，寄给那七个召会：给以弗所、给士每拿、给别迦摩、给推雅推喇、给撒狄、给非拉铁非、给老底嘉。
+
+  <span style="color: #d44c47">启1:12</span>&emsp;我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
 </details>
 
-### 3　第三，在新约里神的住处，神的居所，乃是特别设在我们的灵里，也就是在我们调和的灵里，在我们蒙神圣的灵重生并内住之人的灵里；我们在敬拜神的聚会里，必须操练我们的灵，并在灵里作一切事—约三6下，罗八16，提后四22，弗二22，约四24，启一10，林前十四15。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">二&emsp;我们要经历金灯台作耶稣的见证，就是耶稣团体的彰显（徒九4~5，林前十二12），就必须是不断呼求主耶稣的名（3、13，罗十12~13，哀三55~56），而被耶稣的灵充满（徒十六7），身上带着耶稣的烙印（加六17），在耶稣的患难、国度、忍耐里一同有分的弟兄们（启一9~10）。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>约3:6下</b></span>　……从那灵生的，就是灵。
+  <span style="color: #d44c47">徒9:4</span>&emsp;他就仆倒在地，听见有声音对他说，扫罗，扫罗，你为什么逼迫我？
 
-  <span style="color: #d44c47"><b>罗8:16</b></span>　那灵自己同我们的灵见证我们是神的儿女。
+  <span style="color: #d44c47">徒9:5</span>&emsp;他说，主啊，你是谁？主说，我就是你所逼迫的耶稣。
 
-  <span style="color: #d44c47"><b>提后4:22</b></span>　愿主与你的灵同在。愿恩典与你们同在。
+  <span style="color: #d44c47">林前12:12</span>&emsp;就如身体是一个，却有许多肢体，而且身体上一切的肢体虽多，仍是一个身体，基督也是这样。
 
-  <span style="color: #d44c47"><b>弗2:22</b></span>　你们也在祂里面同被建造，成为神在灵里的居所。
+  <span style="color: #d44c47">林前12:3</span>&emsp;所以我要你们知道，在神的灵里说话的，没有人说，受咒诅的，耶稣！若不是在圣灵里，也没有人能说，主，耶稣！
 
-  <span style="color: #d44c47"><b>约4:24</b></span>　神是灵；敬拜祂的，必须在灵和真实里敬拜。
+  <span style="color: #d44c47">林前12:13</span>&emsp;因为我们不拘是犹太人或希利尼人，是为奴的或自主的，都已经在一位灵里受浸，成了一个身体，且都得以喝一位灵。
 
-  <span style="color: #d44c47"><b>启1:10</b></span>　当主日我在灵里，听见在我后面有大声音如吹号说，
+  <span style="color: #d44c47">罗10:12</span>&emsp;因为犹太人和希利尼人并没有分别，众人同有一位主，祂对一切呼求祂的人是丰富的。
 
-  <span style="color: #d44c47"><b>林前14:15</b></span>　这却怎么样？我要用灵祷告，也要用心思祷告；我要用灵歌唱，也要用心思歌唱。
+  <span style="color: #d44c47">罗10:13</span>&emsp;因为“凡呼求主名的，就必得救。”
+
+  <span style="color: #d44c47">哀3:55</span>&emsp;耶和华啊，我从极深的坑里呼求你的名。
+
+  <span style="color: #d44c47">哀3:56</span>&emsp;你曾听见我的声音；求你不要掩耳不听我的呼吸，我的呼吁。
+
+  <span style="color: #d44c47">徒16:7</span>&emsp;到了每西亚的边界，他们试着要往庇推尼去，耶稣的灵却不许，
+
+  <span style="color: #d44c47">加6:17</span>&emsp;从今以后，人都不要搅扰我，因为我身体上带着耶稣的烙印。
+
+  <span style="color: #d44c47">启1:9</span>&emsp;我约翰，就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分的，为神的话和耶稣的见证，曾在那名叫拔摩的海岛上。
+
+  <span style="color: #d44c47">启1:10</span>&emsp;当主日我在灵里，听见在我后面有大声音如吹号说，
 </details>
 
-### 4　第四，我们敬拜神时，必须真实地应用祭坛所表征之基督的十字架（申十二5~6、27），拒绝肉体、己和天然生命，并单单凭基督来敬拜神（太十六24，加二20）。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">三&emsp;锤打金子形成灯台的座，表征信徒有分于基督的受苦；我们环境中所发生的每一件事，都是为要产生锤打成的灯台—出二五31，西一24： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>申12:5</b></span>　但耶和华你们的神从你们各支派中，所选择出来立祂名的地方，就是祂的居所，那是你们当寻求的，你们要往那里去，
+  <span style="color: #d44c47">出25:31</span>&emsp;你要用纯金作一个灯台。灯台的座和干，与杯、花萼、花苞，都要接连一块锤出来。
 
-  <span style="color: #d44c47"><b>申12:6</b></span>　将你们的燔祭和别的祭，十分取一之物，和手中的举祭，并还愿祭、甘心祭，以及牛群羊群中头生的，都奉到那里；
-
-  <span style="color: #d44c47"><b>申12:27</b></span>　你的燔祭，连肉带血，都要献在耶和华你神的坛上；至于你别的祭，血要倒在耶和华你神的坛上，肉你可以吃。
-
-  <span style="color: #d44c47"><b>太16:24</b></span>　于是耶稣对门徒说，若有人要跟从我，就当否认己，背起他的十字架，并跟从我。
-
-  <span style="color: #d44c47"><b>加2:20</b></span>　我已经与基督同钉十字架；现在活着的，不再是我，乃是基督在我里面活着；并且我如今在肉身里所活的生命，是我在神儿子的信里，与祂联结所活的，祂是爱我，为我舍了自己。
+  <span style="color: #d44c47">西1:24</span>&emsp;现在我因着为你们所受的苦难喜乐，并且为基督的身体，就是为召会，在我一面，在我肉身上补满基督患难的缺欠；
 </details>
 
-### <span style="color: #9065b0">三　我们在耶稣的患难里一同有分： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;我们若立志认识神—将自己服在那灵内里的运行和外在的环境之下—任何境遇都能成为认识神的机会—何六1~3，腓三10上，弗六20，参创四一42。 </h3>
 
-### 1　“在耶稣里”的意思是，当我们凭内住之耶稣的灵，就是一个有充足力量忍受患难之人的灵，跟随拿撒勒人耶稣时，我们就会受苦并遭逼迫—徒十六6~7。 
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>徒16:6</b></span>　圣灵既然禁止他们在亚西亚讲道，他们就经过弗吕家和加拉太地区。
+  <span style="color: #d44c47">何6:1</span>&emsp;来吧，我们归向耶和华；祂撕裂我们，也必医治；祂打伤我们，也必缠裹。
 
-  <span style="color: #d44c47"><b>徒16:7</b></span>　到了每西亚的边界，他们试着要往庇推尼去，耶稣的灵却不许，
+  <span style="color: #d44c47">何6:2</span>&emsp;过两天祂必使我们活过来，第三天祂必使我们兴起，我们就在祂面前活着。
+
+  <span style="color: #d44c47">何6:3</span>&emsp;我们务要认识耶和华，竭力追求认识祂；祂出现确定如晨光，祂必临到我们像甘雨，像滋润大地的春雨。
+
+  <span style="color: #d44c47">腓3:10上</span>&emsp;使我认识基督、并祂复活的大能、以及同祂受苦的交通，……
+
+  <span style="color: #d44c47">弗6:20</span>&emsp;（我为这奥秘作了带锁链的大使，）使我在这奥秘上，照我所当讲的，放胆讲说。
+
+  <span style="color: #d44c47">创41:42</span>&emsp;法老就摘下手上打印的戒指，戴在约瑟的手上，给他穿上细麻衣，把金链戴在他的颈项上；
 </details>
 
-### 2　今天我们受苦时，主耶稣在我们里面并同着我们受苦—九4~5，来十三13。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;人的一生中若缺少认识神，这一生乃是浪费的；愿主使我们乐意接受祂在环境中的对付，使我们更多地认识祂—林后四16~18，十二7~9，参赛七14~15，林后五14~15。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>徒9:4</b></span>　他就仆倒在地，听见有声音对他说，扫罗，扫罗，你为什么逼迫我？
+  <span style="color: #d44c47">林后4:16</span>&emsp;所以我们不丧胆，反而我们外面的人虽然在毁坏，我们里面的人却日日在更新。
 
-  <span style="color: #d44c47"><b>徒9:5</b></span>　他说，主啊，你是谁？主说，我就是你所逼迫的耶稣。
+  <span style="color: #d44c47">林后4:17</span>&emsp;因为我们这短暂轻微的苦楚，要极尽超越地为我们成就永远重大的荣耀。
 
-  <span style="color: #d44c47"><b>来13:13</b></span>　这样，我们也当出到营外就了祂去，忍受祂所受的凌辱。
+  <span style="color: #d44c47">林后4:18</span>&emsp;我们原不是顾念所见的，乃是顾念所不见的，因为所见的是暂时的，所不见的才是永远的。
+
+  <span style="color: #d44c47">林后12:7</span>&emsp;又恐怕我因所得启示的超越，就过于高抬自己，所以有一根刺，就是撒但的使者，加在我的肉体上，为要攻击我，免得我过于高抬自己。
+
+  <span style="color: #d44c47">林后12:8</span>&emsp;为这事，我三次求过主，叫这刺离开我。
+
+  <span style="color: #d44c47">林后12:9</span>&emsp;祂对我说，我的恩典够你用的，因为我的能力，是在人的软弱上显得完全。所以我极其喜欢夸我的软弱，好叫基督的能力覆庇我。
+
+  <span style="color: #d44c47">赛7:14</span>&emsp;因此，主自己要给你们一个兆头：看哪，必有童女怀孕生子，她要给他起名叫以马内利。
+
+  <span style="color: #d44c47">赛7:15</span>&emsp;他必吃奶酪与蜂蜜，直到他晓得弃恶择善的时候。
+
+  <span style="color: #d44c47">林后5:14</span>&emsp;原来基督的爱困迫我们，因我们断定：一人既替众人死，众人就都死了；
+
+  <span style="color: #d44c47">林后5:15</span>&emsp;并且祂替众人死，是叫那些活着的人，不再向自己活，乃向那替他们死而复活者活。
 </details>
 
-### 3　我们进入国度，要经历许多患难—徒十四22。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;在各种难处和试炼中，有没有遇见主作为大光，乃是一切问题的所在；苦难能叫我们明白我们所不能明白的—一8~9，参弗一17，路一78~79。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>徒14:22</b></span>　坚固门徒的魂，劝勉他们恒守信仰，又说，我们进入神的国，必须经历许多患难。
+  <span style="color: #d44c47">林后1:8</span>&emsp;弟兄们，关于我们在亚西亚所遭遇的患难，我们不愿意你们不知道，就是我们被压太重，力不能胜，甚至连活命的指望都绝了，
+
+  <span style="color: #d44c47">林后1:9</span>&emsp;自己里面也断定是必死的，叫我们不信靠自己，只信靠那叫死人复活的神；
+
+  <span style="color: #d44c47">弗1:17</span>&emsp;愿我们主耶稣基督的神，荣耀的父，赐给你们智慧和启示的灵，使你们充分地认识祂；
+
+  <span style="color: #d44c47">路1:78</span>&emsp;因我们神怜悯的心肠，叫清晨的日光从高天临到我们，
+
+  <span style="color: #d44c47">路1:79</span>&emsp;要照亮坐在黑暗中死荫里的人，把我们的脚引到平安的路上。
 </details>
 
-### 4　借着基督复活的大能，我们能有分于祂的受苦，并过钉十字架的生活，模成祂的死—腓三10，西一24，歌二8~9、14。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">四&emsp;金灯台的照耀，是要叫人看见行走在灯台中间之人子—即荣耀之基督—的异象；我们认识主是在众召会中间活到永永远远的那一位，才能在灵中不断地感觉主确实的同在；祂是长远活着，为我们代求，如今为我们显在神面前，并且祂永不误事，也绝不丢弃我们—启一12~18，二1，提后四22，来七25，九24，民六22~27，申三一6。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>腓3:10</b></span>　使我认识基督、并祂复活的大能、以及同祂受苦的交通，模成祂的死，
+  <span style="color: #d44c47">启1:12</span>&emsp;我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台；
 
-  <span style="color: #d44c47"><b>西1:24</b></span>　现在我因着为你们所受的苦难喜乐，并且为基督的身体，就是为召会，在我一面，在我肉身上补满基督患难的缺欠；
+  <span style="color: #d44c47">启1:13</span>&emsp;灯台中间，有一位好像人子，身穿长袍，直垂到脚，胸间束着金带。
 
-  <span style="color: #d44c47"><b>歌2:8</b></span>　听啊，是我良人的声音；看哪，他蹿山越岭而来。
+  <span style="color: #d44c47">启1:14</span>&emsp;祂的头与发皆白，如白羊毛、如雪，眼目如同火焰，
 
-  <span style="color: #d44c47"><b>歌2:9</b></span>　我的良人好像羚羊，或像小牡鹿。他站在我们墙壁后，从窗户往里观看，从窗棂往里探视。
+  <span style="color: #d44c47">启1:15</span>&emsp;脚好像在炉中锻炼过明亮的铜，声音如同众水的声音。
 
-  <span style="color: #d44c47"><b>歌2:14</b></span>　我的鸽子啊，你在磐石穴中，在陡岩的隐密处，求你让我得见你的面貌，得听你的声音；因为你的声音甘甜，你的面貌秀美。
+  <span style="color: #d44c47">启1:16</span>&emsp;祂右手中拿着七星，从祂口中出来一把两刃的利剑，面貌如同烈日中天发光。
+
+  <span style="color: #d44c47">启1:17</span>&emsp;我一看见，就仆倒在祂脚前，像死了一样。祂用右手按着我说，不要惧怕；我是首先的，我是末后的，
+
+  <span style="color: #d44c47">启1:18</span>&emsp;又是那活着的；我曾死过，看哪，现在又活了，直活到永永远远，并且拿着死亡和阴间的钥匙。
+
+  <span style="color: #d44c47">启2:1</span>&emsp;你要写信给在以弗所的召会的使者，说，那右手中握着七星，在七个金灯台中间行走的，这样说，
+
+  <span style="color: #d44c47">提后4:22</span>&emsp;愿主与你的灵同在。愿恩典与你们同在。
+
+  <span style="color: #d44c47">来7:25</span>&emsp;所以，那借着祂来到神面前的人，祂都能拯救到底；因为祂是长远活着，为他们代求。
+
+  <span style="color: #d44c47">来9:24</span>&emsp;因为基督并不是进入人手所造的圣所，那不过是真圣所的复本，乃是进入了天的本身，如今为我们显在神面前；
+
+  <span style="color: #d44c47">民6:22</span>&emsp;耶和华对摩西说，
+
+  <span style="color: #d44c47">民6:23</span>&emsp;你要对亚伦和他儿子们说，你们要这样为以色列人祝福，说，
+
+  <span style="color: #d44c47">民6:24</span>&emsp;愿耶和华赐福给你，保护你；
+
+  <span style="color: #d44c47">民6:25</span>&emsp;愿耶和华使祂的面光照你，赐恩给你；
+
+  <span style="color: #d44c47">民6:26</span>&emsp;愿耶和华向你仰脸，赐你平安。
+
+  <span style="color: #d44c47">民6:27</span>&emsp;他们要如此将我的名赐给以色列人，好使我赐福给他们。
+
+  <span style="color: #d44c47">申31:6</span>&emsp;你们当刚强壮胆，不要惧怕，也不要因他们惊恐，因为耶和华你的神必亲自和你同去；祂必不撇下你，也不丢弃你。
 </details>
 
-### 5　我们应当虽至于死，也不爱自己的魂生命，并且也当为弟兄舍命—启十二11，约壹三16。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">五&emsp;七个金灯台七盏灯的照耀，以及主耶稣行走在灯台中间，七眼如同火焰，脚好像明亮的铜，面貌如烈日发光，都是指明，在我们日常生活和召会生活中，我们天天需要主更多的照耀，好得着祂更多的牧养—拯救、恢复、复兴我们，并使我们成为神—启一14下~15上、16下，四5，五6，路一78~79，林后四6~7，玛四2，箴四18，诗二二标题，八十1~3、7、15~19。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启12:11</b></span>　弟兄们胜过他，是因羔羊的血，并因自己所见证的话，他们虽至于死，也不爱自己的魂生命。
+  <span style="color: #d44c47">启1:14下</span>&emsp;……眼目如同火焰，
 
-  <span style="color: #d44c47"><b>约壹3:16</b></span>　主为我们舍命，在此我们就知道何为爱；我们也当为弟兄舍命。
+  <span style="color: #d44c47">启1:15上</span>&emsp;脚好像在炉中锻炼过明亮的铜，……
+
+  <span style="color: #d44c47">启1:16下</span>&emsp;……面貌如同烈日中天发光。
+
+  <span style="color: #d44c47">启4:5</span>&emsp;有闪电、声音、雷轰，从宝座中发出。又有七盏火灯在宝座前点着，这七灯就是神的七灵。
+
+  <span style="color: #d44c47">启5:6</span>&emsp;我又看见宝座与四活物中间，并众长老中间，有羔羊站立，像是刚被杀过的，有七角和七眼，就是神的七灵，奉差遣往全地去的。
+
+  <span style="color: #d44c47">路1:78</span>&emsp;因我们神怜悯的心肠，叫清晨的日光从高天临到我们，
+
+  <span style="color: #d44c47">路1:79</span>&emsp;要照亮坐在黑暗中死荫里的人，把我们的脚引到平安的路上。
+
+  <span style="color: #d44c47">林后4:6</span>&emsp;因为那说光要从黑暗里照出来的神，已经照在我们心里，为着光照人，使人认识那显在耶稣基督面上之神的荣耀。
+
+  <span style="color: #d44c47">林后4:7</span>&emsp;但我们有这宝贝在瓦器里，要显明这超越的能力，是属于神，不是出于我们；
+
+  <span style="color: #d44c47">玛4:2</span>&emsp;但向你们敬畏我名的人，必有公义的日头升起，其翅膀有医治之能；你们必如圈里的肥牛犊出来跳跃。
+
+  <span style="color: #d44c47">箴4:18</span>&emsp;但义人的途径好像黎明的光，越照越明，直到日午。
 </details>
 
-### <span style="color: #9065b0">四　我们在耶稣的国度里一同有分： </span>
+诗22标题&emsp;大卫的诗，交与歌咏长；调用朝鹿。
 
-### 1　国度就是召会生活，忠信的信徒在其中生活，使他们在生命上长大，并在生命上变化—太十六18~19，罗十四17，林前三7，林后三18。 
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>太16:18</b></span>　我还告诉你，你是彼得，我要把我的召会建造在这磐石上，阴间的门不能胜过她。
+  <span style="color: #d44c47">诗80:1</span>&emsp;领约瑟如领羊群之以色列的牧者啊，求你侧耳听；坐在二基路伯之间的啊，求你发出光来。
 
-  <span style="color: #d44c47"><b>太16:19</b></span>　我要把诸天之国的钥匙给你，凡你在地上捆绑的，必是在诸天之上已经捆绑的；凡你在地上释放的，必是在诸天之上已经释放的。
+  <span style="color: #d44c47">诗80:2</span>&emsp;求你在以法莲、便雅悯、玛拿西前面施展你的大能，来救我们。
 
-  <span style="color: #d44c47"><b>罗14:17</b></span>　因为神的国不在于吃喝，乃在于公义、和平、并圣灵中的喜乐。
+  <span style="color: #d44c47">诗80:3</span>&emsp;神啊，求你恢复我们，使你的脸发光，我们便要得救。
 
-  <span style="color: #d44c47"><b>林前3:7</b></span>　可见栽种的算不得什么，浇灌的也算不得什么，只在那叫他生长的神。
+  <span style="color: #d44c47">诗80:7</span>&emsp;万军之神啊，求你恢复我们，使你的脸发光，我们便要得救。
 
-  <span style="color: #d44c47"><b>林后3:18</b></span>　但我们众人既然以没有帕子遮蔽的脸，好像镜子观看并返照主的荣光，就渐渐变化成为与祂同样的形像，从荣耀到荣耀，乃是从主灵变化成的。
+  <span style="color: #d44c47">诗80:15</span>&emsp;就是你右手所栽的枝干，和你为自己所坚固的枝子。
+
+  <span style="color: #d44c47">诗80:16</span>&emsp;这树已经被火焚烧，被刀砍伐；他们因你脸上所显的斥责灭亡了。
+
+  <span style="color: #d44c47">诗80:17</span>&emsp;愿你的手护庇你右边的人，就是你为自己所坚固的人子。
+
+  <span style="color: #d44c47">诗80:18</span>&emsp;这样，我们便不退后离开你；求你救活我们，我们就要呼求你的名。
+
+  <span style="color: #d44c47">诗80:19</span>&emsp;耶和华万军之神啊，求你恢复我们，使你的脸发光，我们便要得救。
 </details>
 
-### 2　我们要实行国度的生活，就必须同那清心呼求主的人，追求公义、信、爱、和平—提后二22。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">六&emsp;光照在于神的怜悯；什么时候神来了，神施怜悯了，祂的面光就是我们的光，祂的显现就是我们的看见，祂的同在就是我们的得着—罗九15，徒九3~4，赛五十10~11，民六25~26： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>提后2:22</b></span>　你要逃避青年人的私欲，同那清心呼求主的人，竭力追求公义、信、爱、和平。
+  <span style="color: #d44c47">罗9:15</span>&emsp;因为祂对摩西说，“我要向谁施怜悯，就向谁施怜悯；要对谁动怜恤，就对谁动怜恤。”
+
+  <span style="color: #d44c47">徒9:3</span>&emsp;扫罗行路，将近大马色，忽然有光从天上四面照着他，
+
+  <span style="color: #d44c47">徒9:4</span>&emsp;他就仆倒在地，听见有声音对他说，扫罗，扫罗，你为什么逼迫我？
+
+  <span style="color: #d44c47">赛50:10</span>&emsp;你们中间谁敬畏耶和华，听从祂仆人的声音，而行在暗中没有亮光？他当信靠耶和华的名，依赖自己的神。
+
+  <span style="color: #d44c47">赛50:11</span>&emsp;看哪，凡你们点火用火把围绕自己的，可以行在你们火焰的光里，并你们所点的火把中。这是你们从我手里所要得的：你们必躺在悲惨之中。
+
+  <span style="color: #d44c47">民6:25</span>&emsp;愿耶和华使祂的面光照你，赐恩给你；
+
+  <span style="color: #d44c47">民6:26</span>&emsp;愿耶和华向你仰脸，赐你平安。
 </details>
 
-### 3　我们要实行国度的生活，就必须顾到犯罪的弟兄，好挽回他们—太十八15~22。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;我们要蒙光照，就必须要主的光照，接受主的光照，立定心意单单爱慕、寻求主—诗一三九23~24，腓二12~16，代下十二14，十六12，三四1~3，诗二七8，七三25，路十一33~36。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>太18:15</b></span>　再者，若是你的弟兄犯罪得罪你，你要去，只在你和他之间指出他的过错。他若听你，你就得着了你的弟兄。
+  <span style="color: #d44c47">诗139:23</span>&emsp;神啊，求你鉴察我，知道我的心；试炼我，知道我的思虑；
 
-  <span style="color: #d44c47"><b>太18:16</b></span>　他若不听，你就另带一两个人同去，要凭两三个见证人的口，句句都可定准。
+  <span style="color: #d44c47">诗139:24</span>&emsp;看在我里面有什么害人的行径没有，引导我走永远的道路。
 
-  <span style="color: #d44c47"><b>太18:17</b></span>　他若不听他们，就告诉召会；他若连召会也不听，就把他当作外邦人和税吏。
+  <span style="color: #d44c47">腓2:12</span>&emsp;这样，我亲爱的，你们既是常顺从的，不但我与你们同在的时候，就是我如今不在的时候，更是顺从的，就当恐惧战兢，作成你们自己的救恩，
 
-  <span style="color: #d44c47"><b>太18:18</b></span>　我实在告诉你们，凡你们在地上捆绑的，必是在诸天之上已经捆绑的；凡你们在地上释放的，必是在诸天之上已经释放的。
+  <span style="color: #d44c47">腓2:13</span>&emsp;因为乃是神为着祂的美意，在你们里面运行，使你们立志并行事。
 
-  <span style="color: #d44c47"><b>太18:19</b></span>　我又实在告诉你们，你们中间若有两个人在地上，在他们所求的任何事上和谐一致，他们无论求什么，都必从我在诸天之上的父，得着成全。
+  <span style="color: #d44c47">腓2:14</span>&emsp;凡所行的，都不要发怨言，起争论，
 
-  <span style="color: #d44c47"><b>太18:20</b></span>　因为无论在哪里，有两三个人被聚集到我的名里，哪里就有我在他们中间。
+  <span style="color: #d44c47">腓2:15</span>&emsp;使你们无可指摘、纯洁无杂，在弯曲悖谬的世代中，作神无瑕疵的儿女；你们在其中好像发光之体显在世界里，
 
-  <span style="color: #d44c47"><b>太18:21</b></span>　那时，彼得进前来，对耶稣说，主啊，我的弟兄得罪我，我当赦免他几次？到七次么？
+  <span style="color: #d44c47">腓2:16</span>&emsp;将生命的话表明出来，叫我在基督的日子，好夸我没有空跑，也没有徒劳。
 
-  <span style="color: #d44c47"><b>太18:22</b></span>　耶稣对他说，我不是对你说到七次，乃是到七十个七次。
+  <span style="color: #d44c47">代下12:14</span>&emsp;罗波安行恶，因他不立定心意寻求耶和华。
+
+  <span style="color: #d44c47">代下16:12</span>&emsp;亚撒作王第三十九年，脚患了病，而且甚重；然而他即使在病中，也没有寻求耶和华，只寻求医生。
+
+  <span style="color: #d44c47">代下34:1</span>&emsp;约西亚登基的时候年八岁，在耶路撒冷作王三十一年。
+
+  <span style="color: #d44c47">代下34:2</span>&emsp;他行耶和华眼中看为正的事，行他祖大卫所行的道路，不偏左右。
+
+  <span style="color: #d44c47">代下34:3</span>&emsp;他作王第八年，尚且年幼，就寻求他祖大卫的神。到了第十二年，他开始洁净犹大和耶路撒冷，除掉邱坛、木像、雕像和铸像。
+
+  <span style="color: #d44c47">诗27:8</span>&emsp;你说，你们当寻求我的面；那时我的心向你说，耶和华啊，你的面我正要寻求。
+
+  <span style="color: #d44c47">诗73:25</span>&emsp;除你以外，在天上我有谁呢？除你以外，在地上我也没有所爱慕的。
+
+  <span style="color: #d44c47">路11:33</span>&emsp;没有人点灯放在地窖里，或是斗底下，乃是放在灯台上，使进来的人得见亮光。
+
+  <span style="color: #d44c47">路11:34</span>&emsp;你的眼睛就是身上的灯，你的眼睛单一的时候，全身就明亮；但你的眼睛不专的时候，身体就黑暗。
+
+  <span style="color: #d44c47">路11:35</span>&emsp;所以你要察看，你里面的光是否黑暗了。
+
+  <span style="color: #d44c47">路11:36</span>&emsp;若是你全身明亮，毫无黑暗，就必完全明亮，如同灯的明光照亮你。
 </details>
 
-### <span style="color: #9065b0">五　我们在耶稣的忍耐里一同有分： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;我们要蒙光照，就要向主敞开自己，心归向主，把自己一点不保守、不扣留地摆在主面前；那些向主关闭的人，专会定罪人，批评人—林后三16，箴二十27，太七1~5，路六36~37、41~42。 </h3>
 
-### 1　我们必须抗拒撒但折磨人的策略—但七25。 
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>但7:25</b></span>　他必向至高者说顶撞的话，并折磨至高者的圣民；他想要改变节期和律法；圣民必交付在他手中一年、二年、半年。
+  <span style="color: #d44c47">林后3:16</span>&emsp;但他们的心几时转向主，帕子就几时除去了。
+
+  <span style="color: #d44c47">箴20:27</span>&emsp;人的灵是耶和华的灯，鉴察人的深处。
+
+  <span style="color: #d44c47">太7:1</span>&emsp;不要审判，免得你们受审判；
+
+  <span style="color: #d44c47">太7:2</span>&emsp;因为你们用什么审判审判人，也必受什么审判；你们用什么量器量给人，也必用什么量器量给你们。
+
+  <span style="color: #d44c47">太7:3</span>&emsp;再者，为什么看见你弟兄眼中的刺，却不想到自己眼中的梁木？
+
+  <span style="color: #d44c47">太7:4</span>&emsp;或者，你怎能对你弟兄说，让我去掉你眼中的刺，而你自己眼中竟有梁木？
+
+  <span style="color: #d44c47">太7:5</span>&emsp;你这假冒为善的人，先从你眼中去掉梁木，然后你才看得清楚，从你弟兄眼中去掉刺。
+
+  <span style="color: #d44c47">路6:36</span>&emsp;你们要有怜恤，正如你们的父有怜恤一样。
+
+  <span style="color: #d44c47">路6:37</span>&emsp;你们不要审判，就绝不会受审判；你们不要定罪，就绝不会被定罪；你们要赦免人，就必蒙赦免。
+
+  <span style="color: #d44c47">路6:41</span>&emsp;为什么看见你弟兄眼中的刺，却不想到自己眼中的梁木？
+
+  <span style="color: #d44c47">路6:42</span>&emsp;你看不见自己眼中的梁木，怎能对你弟兄说，弟兄，让我去掉你眼中的刺？你这假冒为善的人，先从你的眼中去掉梁木，然后你才看得清楚，去掉你弟兄眼中的刺。
 </details>
 
-### 2　当我们住在基督里面，我们就遵守祂忍耐的话，而有忍耐以忍受苦难和反对—启三10。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;我们要蒙光照，就要把自己停下来；把自己停下来就是把我们的眼光、看法、感觉、感想、意见等等，都停下来；一个完全停下来的人，来到主的面前，才能单单纯纯地接受主的话—十38~42，约十一21~28，赛四十31，太五3，路十八15~17，赛六六1~2。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启3:10</b></span>　你既遵守我忍耐的话，我也必保守你免去那将要临到普天下，试炼一切住在地上之人试炼的时候。
+  <span style="color: #d44c47">路10:38</span>&emsp;他们走路的时候，耶稣进了一个村庄；有一个女人名叫马大，接待祂到家里。
+
+  <span style="color: #d44c47">路10:39</span>&emsp;她有一个妹妹，名叫马利亚，在主脚前坐着听祂的话。
+
+  <span style="color: #d44c47">路10:40</span>&emsp;马大伺候的事多，各方忙乱，就进前来，说，主啊，我妹妹留下我独自一人伺候，你不在意么？请吩咐她同我作她分内该作的事。
+
+  <span style="color: #d44c47">路10:41</span>&emsp;主回答她说，马大，马大，你为许多的事思虑烦扰；
+
+  <span style="color: #d44c47">路10:42</span>&emsp;但是不可少的只有一件，马利亚已经选择那美好的分，是不能从她夺去的。
+
+  <span style="color: #d44c47">约11:21</span>&emsp;马大对耶稣说，主啊，你若早在这里，我兄弟就不会死。
+
+  <span style="color: #d44c47">约11:22</span>&emsp;就是现在，我也知道你无论向神求什么，神也必赐给你。
+
+  <span style="color: #d44c47">约11:23</span>&emsp;耶稣对她说，你兄弟必然复活。
+
+  <span style="color: #d44c47">约11:24</span>&emsp;马大说，我知道在末日复活的时候，他必复活。
+
+  <span style="color: #d44c47">约11:25</span>&emsp;耶稣对她说，我是复活，我是生命；信入我的人，虽然死了，也必复活；
+
+  <span style="color: #d44c47">约11:26</span>&emsp;凡活着信入我的人，必永远不死。你信这话么？
+
+  <span style="color: #d44c47">约11:27</span>&emsp;马大对祂说，主啊，是的；我信你是基督，是神的儿子，就是那要来到世界的。
+
+  <span style="color: #d44c47">约11:28</span>&emsp;马大说了这话，就去暗暗地叫她妹妹马利亚，说，夫子来了，叫你。
+
+  <span style="color: #d44c47">赛40:31</span>&emsp;但那等候耶和华的必重新得力；他们必如鹰展翅上腾；他们奔跑却不困倦，行走却不疲乏。
+
+  <span style="color: #d44c47">太5:3</span>&emsp;灵里贫穷的人有福了，因为诸天的国是他们的。
+
+  <span style="color: #d44c47">路18:15</span>&emsp;有人把婴孩也带到耶稣那里，要祂摸他们，门徒看见，就责备那些人。
+
+  <span style="color: #d44c47">路18:16</span>&emsp;耶稣却叫他们来，说，让小孩子到我这里来，不要禁止他们，因为神的国正是这等人的。
+
+  <span style="color: #d44c47">路18:17</span>&emsp;我实在告诉你们，凡不像小孩子一样接受神国的，绝不能进去。
+
+  <span style="color: #d44c47">赛66:1</span>&emsp;耶和华如此说，天是我的座位，地是我的脚凳；你们要在哪里为我建造殿宇？哪里是我安息的地方？
+
+  <span style="color: #d44c47">赛66:2</span>&emsp;耶和华说，这一切都是我手所造的，所以就都有了；但我所看顾的，就是灵里贫穷痛悔、因我话战兢的人。
 </details>
 
-### 3　我们能以我们所享受并经历之基督的忍耐来忍耐—帖后三5。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">4&emsp;我们要蒙光照，就不能反驳那在我们里面说话之圣灵所带来的光，也不该反驳那在我们外面说话之圣灵的众执事—徒二二10，歌五4~6，林后十3~5，十一2~3，民十六1~7、31~39，十七1~8，参出三三11~14。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>帖后3:5</b></span>　愿主修直你们心中的途径，引导你们的心，进入神的爱以爱神，并进入基督的忍耐以忍耐。
+  <span style="color: #d44c47">徒22:10</span>&emsp;我说，主啊，我当作什么？主对我说，起来，进大马色去，在那里要将所派你作的一切事都告诉你。
+
+  <span style="color: #d44c47">歌5:4</span>&emsp;我的良人从门孔里伸进手来，我便因他动了心肠。
+
+  <span style="color: #d44c47">歌5:5</span>&emsp;我起来，要给我良人开门；我的两手滴下没药，我的指头有没药汁滴在闩把上。
+
+  <span style="color: #d44c47">歌5:6</span>&emsp;我给我的良人开了门；我的良人却已转身走了。他说话的时候，我魂不守舍；我寻找他，竟寻不见；我呼叫他，他却不回答。
+
+  <span style="color: #d44c47">林后10:3</span>&emsp;因为我们虽然在肉体中行事，却不照着肉体争战。
+
+  <span style="color: #d44c47">林后10:4</span>&emsp;我们争战的兵器，本不是属肉体的，乃是在神面前有能力，可以攻倒坚固的营垒，
+
+  <span style="color: #d44c47">林后10:5</span>&emsp;将理论和各样阻挡人认识神而立起的高寨，都攻倒了，又将各样的思想掳来，使它顺从基督，
+
+  <span style="color: #d44c47">林后11:2</span>&emsp;我以神的妒忌，妒忌你们，因为我曾把你们许配一个丈夫，要将一个贞洁的童女献给基督。
+
+  <span style="color: #d44c47">林后11:3</span>&emsp;我只怕你们的心思或被败坏，失去那向着基督的单纯和纯洁，就像蛇用诡诈诱骗了夏娃一样。
+
+  <span style="color: #d44c47">民16:1</span>&emsp;利未的曾孙，哥辖的孙子，以斯哈的儿子可拉，和流便子孙中以利押的儿子大坍、亚比兰，与比勒的儿子安，带着人来；
+
+  <span style="color: #d44c47">民16:2</span>&emsp;他们同以色列人会众中的二百五十个首领，就是有名望被选召到会中的人，在摩西面前起来，
+
+  <span style="color: #d44c47">民16:3</span>&emsp;聚集攻击摩西、亚伦，说，你们太过分了；全会众个个既是圣别的，耶和华也在他们中间，你们为什么高抬自己，超过耶和华的会众呢？
+
+  <span style="color: #d44c47">民16:4</span>&emsp;摩西听见了，就面伏于地。
+
+  <span style="color: #d44c47">民16:5</span>&emsp;他对可拉和可拉一党的人说，到了早晨，耶和华必指示谁是属祂的，谁是圣别的，就叫谁亲近祂；祂所拣选的是谁，必叫谁亲近祂。
+
+  <span style="color: #d44c47">民16:6</span>&emsp;你们要这样行：可拉和你一党的人，你们要拿香炉来，
+
+  <span style="color: #d44c47">民16:7</span>&emsp;明日在耶和华面前，把火盛在炉中，把香放在上面；耶和华拣选谁，谁就是圣别的。利未的子孙哪，是你们太过分了！
+
+  <span style="color: #d44c47">民16:31</span>&emsp;摩西刚说完了这一切话，他们脚下的地就裂开；
+
+  <span style="color: #d44c47">民16:32</span>&emsp;地开了口，把他们和他们的家眷，并一切属可拉的人和财物，都吞下去。
+
+  <span style="color: #d44c47">民16:33</span>&emsp;这样，他们和一切属他们的，都活活地坠落阴间；地在他们上面合闭，他们就从会众中灭亡。
+
+  <span style="color: #d44c47">民16:34</span>&emsp;在他们四围的以色列众人听他们呼号，就都逃跑，说，恐怕地也把我们吞下去。
+
+  <span style="color: #d44c47">民16:35</span>&emsp;又有火从耶和华那里出来，烧灭了那献香的二百五十个人。
+
+  <span style="color: #d44c47">民16:36</span>&emsp;耶和华对摩西说，
+
+  <span style="color: #d44c47">民16:37</span>&emsp;你告诉祭司亚伦的儿子以利亚撒，从火烬中捡起那些香炉来，把火撒在别处，因为那些香炉是圣的。
+
+  <span style="color: #d44c47">民16:38</span>&emsp;那些犯罪、自害己命之人的香炉，要锤成片，用以包坛；那些香炉本是他们在耶和华面前献过的，是成为圣的，可以给以色列人作警戒。
+
+  <span style="color: #d44c47">民16:39</span>&emsp;于是祭司以利亚撒将被烧之人所献的铜香炉拿来；人就锤出来，用以包坛，
+
+  <span style="color: #d44c47">民17:1</span>&emsp;耶和华对摩西说，
+
+  <span style="color: #d44c47">民17:2</span>&emsp;你要告诉以色列人，从他们取杖，每宗族一根；从他们所有的首领，按着宗族，共取十二根；你要将各人的名字写在各人的杖上，
+
+  <span style="color: #d44c47">民17:3</span>&emsp;并要将亚伦的名字写在利未的杖上，因为各宗族的族长必有一根杖。
+
+  <span style="color: #d44c47">民17:4</span>&emsp;你要把这些杖放在会幕内见证的版前，我与你们相会之处。
+
+  <span style="color: #d44c47">民17:5</span>&emsp;我拣选的那人，他的杖必发芽；这样，我必使以色列人向你们所发、对我的怨言止息。
+
+  <span style="color: #d44c47">民17:6</span>&emsp;于是摩西告诉以色列人。他们的首领就把杖交给他，按着宗族，每首领一根，共有十二根；亚伦的杖也在其中。
+
+  <span style="color: #d44c47">民17:7</span>&emsp;摩西就把杖放在见证的会幕内，在耶和华面前。
+
+  <span style="color: #d44c47">民17:8</span>&emsp;第二天，摩西进见证的会幕去；看哪，利未家亚伦的杖已经发了芽，甚至生了花苞，开了花，结了熟杏。
+
+  <span style="color: #d44c47">出33:11</span>&emsp;耶和华与摩西面对面说话，好像人与同伴说话一般。摩西回到营里去，但他的帮手，一个少年人，就是嫩的儿子约书亚，不离开会幕。
+
+  <span style="color: #d44c47">出33:12</span>&emsp;摩西对耶和华说，看哪，你对我说，将这百姓领上去，却没有让我知道你要差遣谁与我同去，只是你曾说，我按你的名认识你，你在我眼前也蒙了恩。
+
+  <span style="color: #d44c47">出33:13</span>&emsp;我如今若在你眼前蒙恩，求你叫我知道你的法则，使我可以认识你，好在你眼前继续蒙恩。求你也想到这民是你的百姓。
+
+  <span style="color: #d44c47">出33:14</span>&emsp;耶和华说，我的同在必和你同去，我必使你得安息。
 </details>
 
-## <span style="color: #d44c47">贰　人子基督是大祭司，“身穿长袍，直垂到脚，胸间束着金带”（启一13），在祂的人性里顾惜众召会，并在祂的神性里喂养众召会： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">5&emsp;我们要蒙光照，就要不断地活在光中—赛二5，约壹一7，来九14，十22，太五3、8、14，诗一一九105，启一20，诗三六8~9。 </h3>
 
-### <span style="color: #9065b0">一　人子是在祂的人性里，金带表征祂的神性，胸是爱的表号： </span>
-
-### 1　基督原来是腰间束带，为着神圣的工作得加力（出二八4，但十5），以产生众召会，但如今祂在胸间束带，借着祂的爱照顾祂所产生的众召会。 
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>出28:4</b></span>　他们要作这些衣服：胸牌、以弗得、外袍、编织的内袍、顶冠、腰带；要为你哥哥亚伦和他儿子们作这圣衣，使他们可以作祭司事奉我。
+  <span style="color: #d44c47">赛2:5</span>&emsp;雅各家啊，来吧，我们在耶和华的光中行走。
 
-  <span style="color: #d44c47"><b>但10:5</b></span>　举目观看，见有一人身穿细麻衣，腰束乌法精金带。
+  <span style="color: #d44c47">约壹1:7</span>&emsp;但我们若在光中行，如同神在光中，就彼此有交通，祂儿子耶稣的血也洗净我们一切的罪。
+
+  <span style="color: #d44c47">来9:14</span>&emsp;何况基督借着永远的灵，将自己无瑕无疵地献给神，祂的血岂不更洁净我们的良心，使其脱离死行，叫我们事奉活神么？
+
+  <span style="color: #d44c47">来10:22</span>&emsp;并且在心一面，我们已经被基督的血洒过，脱开了邪恶的良心，在身体一面，也已经用清水洗净了，就当存着真诚的心，以十分确信的信，前来进入至圣所；
+
+  <span style="color: #d44c47">太5:3</span>&emsp;灵里贫穷的人有福了，因为诸天的国是他们的。
+
+  <span style="color: #d44c47">太5:8</span>&emsp;清心的人有福了，因为他们必看见神。
+
+  <span style="color: #d44c47">太5:14</span>&emsp;你们是世上的光。城立在山上，是不能隐藏的。
+
+  <span style="color: #d44c47">诗119:105</span>&emsp;你的话是我脚前的灯，是我路上的光。
+
+  <span style="color: #d44c47">启1:20</span>&emsp;论到你所看见在我右手中的七星，和七个金灯台的奥秘，那七星就是七个召会的使者，七灯台就是七个召会。
+
+  <span style="color: #d44c47">诗36:8</span>&emsp;他们必因你殿里的肥甘得以饱足，你也必叫他们喝你乐河的水。
+
+  <span style="color: #d44c47">诗36:9</span>&emsp;因为在你那里，有生命的源头；在你的光中，我们必得见光。
 </details>
 
-### 2　金带表征基督的神性作祂神圣的力量，胸表征这金的力量是由祂的爱并凭祂的爱来运用并推动的，好喂养众召会。 
+<h2 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #d44c47">叁&emsp;耶稣的见证乃是在殿里事奉神的大批群众，就是全体蒙神救赎的人，他们被提到诸天之上，享受神的看顾和羔羊的牧养，得着诸天界里并基督里一切属灵的福分，那是我们今天就能享受的—启七9~17，弗一3，加三14，创十二2，参启二一3~4，二二3~5，赛四九10： </span></h2>
 
-### <span style="color: #9065b0">二　基督作为人子，在祂的人性里照顾众召会，以顾惜众召会—启一13上： </span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:13上</b></span>　灯台中间，有一位好像人子，……
+  <span style="color: #d44c47">启7:9</span>&emsp;这些事以后，我观看，看哪，有大批的群众，没有人能数得过来，是从各邦国、各支派、各民族、各方言来的，站在宝座前和羔羊面前，身穿白袍，手拿棕树枝，
+
+  <span style="color: #d44c47">启7:10</span>&emsp;大声喊着说，愿救恩归与坐在宝座上我们的神，也归与羔羊。
+
+  <span style="color: #d44c47">启7:11</span>&emsp;众天使都站在宝座、众长老和四活物的周围，在宝座前面伏于地，敬拜神，说，
+
+  <span style="color: #d44c47">启7:12</span>&emsp;阿们。愿颂赞、荣耀、智慧、感谢、尊贵、能力、力量，都归与我们的神，直到永永远远。阿们。
+
+  <span style="color: #d44c47">启7:13</span>&emsp;长老中有一位问我说，这些穿白袍的是谁？是从哪里来的？
+
+  <span style="color: #d44c47">启7:14</span>&emsp;我对他说，我主，你晓得。他对我说，这些人是从大患难中出来的，曾用羔羊的血，洗净了他们的袍子，并且洗白了。
+
+  <span style="color: #d44c47">启7:15</span>&emsp;所以他们在神宝座前，昼夜在祂殿中事奉祂；坐宝座的要用帐幕覆庇他们。
+
+  <span style="color: #d44c47">启7:16</span>&emsp;他们不再饥、不再渴，日头和一切炎热也必不伤害他们，
+
+  <span style="color: #d44c47">启7:17</span>&emsp;因为宝座中的羔羊必牧养他们，领他们到生命水的泉；神也必从他们眼中擦去一切的眼泪。
+
+  <span style="color: #d44c47">弗1:3</span>&emsp;我们主耶稣基督的神与父，是当受颂赞的，祂在基督里，曾用诸天界里各样属灵的福分，祝福了我们；
+
+  <span style="color: #d44c47">加3:14</span>&emsp;为叫亚伯拉罕的福，在基督耶稣里可以临到外邦人，使我们借着信，可以接受所应许的那灵。
+
+  <span style="color: #d44c47">创12:2</span>&emsp;我必使你成为大国；我必赐福给你，使你的名为大；你也要使别人得福。
+
+  <span style="color: #d44c47">启21:3</span>&emsp;我听见有大声音从宝座出来，说，看哪，神的帐幕与人同在，祂要与人同住，他们要作祂的百姓，神要亲自与他们同在，作他们的神。
+
+  <span style="color: #d44c47">启21:4</span>&emsp;神要从他们眼中擦去一切的眼泪，不再有死亡，也不再有悲哀、哭号、疼痛，因为先前的事都过去了。
+
+  <span style="color: #d44c47">启22:3</span>&emsp;一切咒诅必不再有。在城里有神和羔羊的宝座；祂的奴仆都要事奉祂，
+
+  <span style="color: #d44c47">启22:4</span>&emsp;也要见祂的面；祂的名字必在他们的额上。
+
+  <span style="color: #d44c47">启22:5</span>&emsp;不再有黑夜，他们也不需要灯光日光，因为主神要光照他们；他们要作王，直到永永远远。
+
+  <span style="color: #d44c47">赛49:10</span>&emsp;他们必不饥不渴；炎热和烈日必不伤害他们；因为怜恤他们的必引导他们，领他们到水泉旁边。
 </details>
 
-### 1　祂收拾灯台的灯，使灯正确合宜，就是在顾惜我们，使我们快乐、愉快、舒适—出三十7，参诗四二5、11： 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">一&emsp;大批的群众包括那些用羔羊的血从各邦国、各支派、各民族、各方言所买来的人，作召会的构成分子—启七9上，五9，罗十一25，徒十五14、19，林前六19~20。 </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>出30:7</b></span>　亚伦要在坛上烧馨香的香；每早晨他收拾灯的时候，要烧这香。
+  <span style="color: #d44c47">启7:9上</span>&emsp;这些事以后，我观看，看哪，有大批的群众，没有人能数得过来，是从各邦国、各支派、各民族、各方言来的，……
 
-  <span style="color: #d44c47"><b>诗42:5</b></span>　我的魂哪，你为何忧闷？为何在我里面烦躁？应当仰望神；因祂的脸是我的救恩，我还要赞美祂。
+  <span style="color: #d44c47">启5:9</span>&emsp;他们唱新歌，说，你配拿书卷，配揭开它的七印，因为你曾被杀，用自己的血从各支派、各方言、各民族、各邦国中，买了人来归与神，
 
-  <span style="color: #d44c47"><b>诗42:11</b></span>　我的魂哪，你为何忧闷？为何在我里面烦躁？应当仰望神；因我还要赞美祂，祂是我脸上的救恩，是我的神。
+  <span style="color: #d44c47">罗11:25</span>&emsp;弟兄们，我不愿意你们不知道这奥秘（恐怕你们自以为精明），就是以色列人有几分硬心，直到外邦人的数目添满了，
+
+  <span style="color: #d44c47">徒15:14</span>&emsp;方才西门述说神当初怎样眷顾外邦人，从他们中间选取百姓归于自己的名。
+
+  <span style="color: #d44c47">徒15:19</span>&emsp;所以我判断，不可难为那转向神的外邦人。
+
+  <span style="color: #d44c47">林前6:19</span>&emsp;岂不知你们的身体，就是在你们里面之圣灵的殿么？这圣灵是你们从神而得的，并且你们不是属自己的，
+
+  <span style="color: #d44c47">林前6:20</span>&emsp;因为你们是重价买来的。这样，就要在你们的身体上荣耀神。
 </details>
 
-### <span style="color: #337ea9"><em>a　主的同在带来一种柔细、温暖的气氛，顾惜我们的全人，给我们安息、安慰、医治、洁净和鼓励。 </em></span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">二&emsp;“这些人是从大患难中出来的，曾用羔羊的血，洗净了他们的袍子，并且洗白了”—启七14： </span></h3>
 
-### <span style="color: #337ea9"><em>b　我们在召会里能享受主同在的顾惜气氛，以得着生命的滋养供应—弗五29，参提前四6，弗四11。 </em></span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;十四节的大患难乃是指神的赎民历代所经历的灾难、苦楚、逼迫和艰苦等—约十六33。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>弗5:29</b></span>　从来没有人恨恶自己的身体，总是保养顾惜，正像基督待召会一样，
+  <span style="color: #d44c47">启7:14</span>&emsp;我对他说，我主，你晓得。他对我说，这些人是从大患难中出来的，曾用羔羊的血，洗净了他们的袍子，并且洗白了。
 
-  <span style="color: #d44c47"><b>提前4:6</b></span>　你将这些事提醒弟兄们，便是基督耶稣的好执事，在信仰的话，并你向来所紧紧跟随善美教训的话上，得了喂养。
-
-  <span style="color: #d44c47"><b>弗4:11</b></span>　祂所赐的，有些是使徒，有些是申言者，有些是传福音者，有些是牧人和教师，
+  <span style="color: #d44c47">约16:33</span>&emsp;我将这些事对你们说了，是要叫你们在我里面有平安。在世上你们有苦难，但你们可以放心，我已经胜了世界。
 </details>
 
-### 2　祂修剪灯台的灯芯，把一切拦阻我们照耀的消极事物剪除—出二五38： 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;羔羊的血，在神面前答复魔鬼对我们一切的控告，使我们胜过他（启十二11）；因着救赎之基督这开启的血泉，洗除我们一切的罪与污秽（亚十三1，约十九34），我们只要一投此血泉，就立去全身罪愆（诗歌六八六首，第一节），并且“神前行走，光明无比，世俗、罪污远离；内得新心，外有白衣，基督居衷登极”（补充本诗歌八五四首，第三节）。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>出25:38</b></span>　灯台的灯剪和灯花盘，也是要纯金的。
+  <span style="color: #d44c47">启12:11</span>&emsp;弟兄们胜过他，是因羔羊的血，并因自己所见证的话，他们虽至于死，也不爱自己的魂生命。
+
+  <span style="color: #d44c47">亚13:1</span>&emsp;那日，必有一泉源为大卫家和耶路撒冷的居民开启，洗除罪与污秽。
+
+  <span style="color: #d44c47">约19:34</span>&emsp;唯有一个兵用枪扎祂的肋旁，随即有血和水流出来。
+
+  诗歌六八六首&emsp;今有一泉血流盈满
+第一节
+今有一泉，血流盈满，&emsp;&emsp;涌自耶稣肋边；
+罪人只要一投此泉，&emsp;&emsp;立去全身罪愆。
+立去全身罪愆，&emsp;&emsp;&emsp;立去全身罪愆，
+罪人只要一投此泉，&emsp;&emsp;立去全身罪愆。
+
+  补充本诗歌八五四首&emsp;洗罪之泉何其深广
+第三节
+神前行走，光明无比，&emsp;&emsp;世俗罪污远离；
+内得新心，外有白衣，&emsp;&emsp;基督居衷登极。
+(副)&emsp;我见血泉流自加略，&emsp;&emsp;立投此泉，使罪得洁！
+赞美救主为我流血，&emsp;&emsp;罪魁如我，竟也得洁！
 </details>
 
-### <span style="color: #337ea9"><em>a　灯芯烧焦的部分，灯花，表征那些不照着神定旨、必须被剪除的事物，就如我们的肉体、天然的人、己和旧造。 </em></span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;洗净自己的袍子，就是借着羔羊之血的洗涤，保守自己的行为洁净；这使我们有权柄享受生命树，并且得以进入生命的城，就是神永远福分的范围—约壹一7，启二二14。 </h3>
 
-### <span style="color: #337ea9"><em>b　祂把众召会中间一切的不同（过错、短处、失败、缺点）修剪掉，使众召会在素质、样子和彰显上相同—参林前一10，林后十二18，腓二2。 </em></span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>林前1:10</b></span>　弟兄们，我借我们主耶稣基督的名，恳求你们都说一样的话，你们中间也不可有分裂，只要在一样的心思和一样的意见里，彼此和谐。
+  <span style="color: #d44c47">约壹1:7</span>&emsp;但我们若在光中行，如同神在光中，就彼此有交通，祂儿子耶稣的血也洗净我们一切的罪。
 
-  <span style="color: #d44c47"><b>林后12:18</b></span>　我劝了提多，又差了那位弟兄同去。提多占过你们的便宜么？我们行事，不是在同一的灵里么？不是在同一的脚踪里么？
-
-  <span style="color: #d44c47"><b>腓2:2</b></span>　你们就要使我的喜乐满足，就是要思念相同的事，有相同的爱，魂里联结，思念同一件事，
+  <span style="color: #d44c47">启22:14</span>&emsp;那些洗净自己袍子的有福了，可得权柄到生命树那里，也能从门进城。
 </details>
 
-### <span style="color: #9065b0">三　　基督在神性里以祂胸间金带所表征的神圣之爱照顾众召会，以喂养众召会—启一13下： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">三&emsp;大批的群众站在宝座前和羔羊面前，手拿棕树枝—七9： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:13下</b></span>　……身穿长袍，直垂到脚，胸间束着金带。
+  <span style="color: #d44c47">启7:9</span>&emsp;这些事以后，我观看，看哪，有大批的群众，没有人能数得过来，是从各邦国、各支派、各民族、各方言来的，站在宝座前和羔羊面前，身穿白袍，手拿棕树枝，
 </details>
 
-### 1　祂在祂三个时期的丰满职事中，以祂自己这包罗万有的基督来喂养我们，使我们在神圣的生命中长大成熟，成为祂的得胜者，以完成祂永远的经纶。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;棕树枝表征我们胜过为主所受的患难；棕树也是因水滋润而满足的标记—14节，参约十二13，出十五27。 </h3>
 
-### 2　作为行走的基督，祂知道每一个召会的情形；作为说话的灵，祂修剪灯台，并且用新油，就是那灵的供应，充满灯台—二1、7。 
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启2:1</b></span>　你要写信给在以弗所的召会的使者，说，那右手中握着七星，在七个金灯台中间行走的，这样说，
+  <span style="color: #d44c47">启7:14</span>&emsp;我对他说，我主，你晓得。他对我说，这些人是从大患难中出来的，曾用羔羊的血，洗净了他们的袍子，并且洗白了。
 
-  <span style="color: #d44c47"><b>启2:7</b></span>　那灵向众召会所说的话，凡有耳的，就应当听。得胜的，我必将神乐园中生命树的果子赐给他吃。
+  <span style="color: #d44c47">约12:13</span>&emsp;就拿着棕树枝，出去迎接祂，喊着说，和散那，在主名里来的以色列王，是当受颂赞的！
+
+  <span style="color: #d44c47">出15:27</span>&emsp;他们到了以琳，在那里有十二股水泉，七十棵棕树；他们就在那里的水边安营。
 </details>
 
-### 3　我们要有分于祂的行动，并享受祂的照顾，就必须在召会中。 
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;在三一神作神的殿里，我们要昼夜事奉祂，享受祂作永远的住棚节，并且在生命里发旺如棕树—启七15上，三12，利二三40，尼八15，诗九二12~13，约七2、37~39，罗一9，西二19。 </h3>
 
-## <span style="color: #d44c47">叁　主属天的亘古常在，乃是由祂的头与发皆白，如白羊毛、如雪所描述—一14上，但七9，伯十五10，参歌五11。 </span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:14上</b></span>　祂的头与发皆白，如白羊毛、如雪，……
+  <span style="color: #d44c47">启7:15上</span>&emsp;所以他们在神宝座前，昼夜在祂殿中事奉祂；……
 
-  <span style="color: #d44c47"><b>但7:9</b></span>　我观看，见有些宝座设立，那亘古常在者坐下了。祂的衣服洁白如雪，头发如纯净的羊毛；祂的宝座乃是火焰，其轮乃是烈火。
+  <span style="color: #d44c47">启3:12</span>&emsp;得胜的，我要叫他在我神殿中作柱子，他也绝不再从那里出去；我又要将我神的名，和我神城的名（这城就是由天上从我神那里降下来的新耶路撒冷），并我的新名，都写在他上面。
 
-  <span style="color: #d44c47"><b>伯15:10</b></span>　我们中间有白发的，也有年纪老迈的，岁数比你父亲还大。
+  <span style="color: #d44c47">利23:40</span>&emsp;第一日，你们要拿美好树上的果子、棕树的枝子、茂密树的枝条、与溪边的柳枝，在耶和华你们的神面前欢乐七日。
 
-  <span style="color: #d44c47"><b>歌5:11</b></span>　他的头像至精的金子；他的头发鬈曲，黑如乌鸦。
+  <span style="color: #d44c47">尼8:15</span>&emsp;并要在各城和耶路撒冷宣扬传布说，你们当上山去，将橄榄树、野橄榄树、番石榴树、棕树、和各样茂密树的枝叶取来，照着所写的搭棚。
+
+  <span style="color: #d44c47">诗92:12</span>&emsp;义人要发旺如棕树，生长如利巴嫩的香柏树。
+
+  <span style="color: #d44c47">诗92:13</span>&emsp;他们栽植于耶和华的殿中，发旺在我们神的院里。
+
+  <span style="color: #d44c47">约7:2</span>&emsp;当时犹太人的住棚节近了。
+
+  <span style="color: #d44c47">约7:37</span>&emsp;节期的末日，就是最大之日，耶稣站着高声说，人若渴了，可以到我这里来喝。
+
+  <span style="color: #d44c47">约7:38</span>&emsp;信入我的人，就如经上所说，从他腹中要流出活水的江河来。
+
+  <span style="color: #d44c47">约7:39</span>&emsp;耶稣这话是指着信入祂的人将要受的那灵说的；那时还没有那灵，因为耶稣尚未得着荣耀。
+
+  <span style="color: #d44c47">罗1:9</span>&emsp;我在祂儿子的福音上，在我灵里所事奉的神，可以见证我怎样在祷告中，常常不住地提到你们，
+
+  <span style="color: #d44c47">西2:19</span>&emsp;不持定元首；本于祂，全身借着节和筋，得了丰富的供应，并结合一起，就以神的增长而长大。
 </details>
 
-## <span style="color: #d44c47">肆　主的七眼如同火焰，是为着注视、鉴察、搜寻、借光照而审判以及传输—启一14下，五6，但十6： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;我们今天在时间里的事奉，是为着永世里的事奉作准备的；神在时间里唯一的目标，就是要把祂自己一天过一天地分赐到我们里面；在我们身上，神进来了，神再出去，我们才有事奉—太二五19~23，约七37~39。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:14下</b></span>　……眼目如同火焰，
+  <span style="color: #d44c47">太25:19</span>&emsp;过了许久，那些奴仆的主人竟然来和他们算账。
 
-  <span style="color: #d44c47"><b>启5:6</b></span>　我又看见宝座与四活物中间，并众长老中间，有羔羊站立，像是刚被杀过的，有七角和七眼，就是神的七灵，奉差遣往全地去的。
+  <span style="color: #d44c47">太25:20</span>&emsp;那领五他连得的，带着另外的五他连得进前来，说，主啊，你交给我五他连得；请看，我另赚了五他连得。
 
-  <span style="color: #d44c47"><b>但10:6</b></span>　祂身体如水苍玉，面貌如闪电，眼目如火把，手和脚如闪耀发亮的铜，说话的声音如大众的声音。
+  <span style="color: #d44c47">太25:21</span>&emsp;主人对他说，好，良善又忠信的奴仆，你在不多的事上既是忠信的，我要把许多事派你管理；进来享受你主人的快乐。
+
+  <span style="color: #d44c47">太25:22</span>&emsp;那领二他连得的也进前来，说，主啊，你交给我二他连得；请看，我另赚了二他连得。
+
+  <span style="color: #d44c47">太25:23</span>&emsp;主人对他说，好，良善又忠信的奴仆，你在不多的事上既是忠信的，我要把许多事派你管理；进来享受你主人的快乐。
+
+  <span style="color: #d44c47">约7:37</span>&emsp;节期的末日，就是最大之日，耶稣站着高声说，人若渴了，可以到我这里来喝。
+
+  <span style="color: #d44c47">约7:38</span>&emsp;信入我的人，就如经上所说，从他腹中要流出活水的江河来。
+
+  <span style="color: #d44c47">约7:39</span>&emsp;耶稣这话是指着信入祂的人将要受的那灵说的；那时还没有那灵，因为耶稣尚未得着荣耀。
 </details>
 
-### <span style="color: #9065b0">一　基督的眼目是为着神在地上的行动与工作，因为七是神行动中完整的数字。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">四&emsp;我们必不再饥、不再渴—启七16上： </span></h3>
 
-### <span style="color: #9065b0">二　主的眼目如同火焰，主要的是为着祂的审判—七9~10，启二18，十九11~12。 </span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>但7:9</b></span>　我观看，见有些宝座设立，那亘古常在者坐下了。祂的衣服洁白如雪，头发如纯净的羊毛；祂的宝座乃是火焰，其轮乃是烈火。
-
-  <span style="color: #d44c47"><b>但7:10</b></span>　从祂面前有火河流出。事奉祂的有千千，侍立在祂面前的有万万。审判者已经坐庭，案卷都展开了。
-
-  <span style="color: #d44c47"><b>启2:18</b></span>　你要写信给在推雅推喇的召会的使者，说，那眼目如火焰，脚像明亮之铜的神之子，这样说，
-
-  <span style="color: #d44c47"><b>启19:11</b></span>　我看见天开了，并且看哪，有一匹白马，骑在马上的，称为忠信真实，祂审判、争战都凭着公义。
-
-  <span style="color: #d44c47"><b>启19:12</b></span>　祂的眼睛如火焰，头上戴着许多冠冕，又有写着的名字，除了祂自己没有人晓得。
+  <span style="color: #d44c47">启7:16上</span>&emsp;他们不再饥、不再渴，……
 </details>
 
-## <span style="color: #d44c47">伍　主的脚好像在炉中锻炼过明亮的铜，表征祂完全且明亮的行事为人，使祂够资格施行神圣的审判—一15上，结一7，但十6。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;有盼望却未得着满足就叫饥渴；基督应许每一个信入祂的人，都能得着满足，能得着祂作满足的生命—约六35。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:15上</b></span>　脚好像在炉中锻炼过明亮的铜，……
-
-  <span style="color: #d44c47"><b>结1:7</b></span>　他们的腿是直的，脚掌好像牛犊之蹄，都灿烂如明亮的铜。
-
-  <span style="color: #d44c47"><b>但10:6</b></span>　祂身体如水苍玉，面貌如闪电，眼目如火把，手和脚如闪耀发亮的铜，说话的声音如大众的声音。
+  <span style="color: #d44c47">约6:35</span>&emsp;耶稣对他们说，我就是生命的粮，到我这里来的，必永远不饿；信入我的，必永远不渴。
 </details>
 
-## <span style="color: #d44c47">陆　主的声音如同众水的声音（启一15下，参十四2），这是一种哄嚷的声音，乃是全能神的声音（结一24，四三2），既严肃又庄重（参启十3）。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;在我们灵里接触是灵的神，就是喝活水，这样才是对神真实的敬拜—四13~14、23~24。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:15下</b></span>　……声音如同众水的声音。
+  <span style="color: #d44c47">约4:13</span>&emsp;耶稣回答说，凡喝这水的，还要再渴；
 
-  <span style="color: #d44c47"><b>启14:2</b></span>　我听见从天上有声音，像众水的声音，又像大雷的声音，并且我所听见的，好像弹琴的所弹的琴声。
+  <span style="color: #d44c47">约4:14</span>&emsp;人若喝我所赐的水，就永远不渴；我所赐的水，要在他里面成为泉源，直涌入永远的生命。
 
-  <span style="color: #d44c47"><b>结1:24</b></span>　活物行走的时候，我听见翅膀的响声，像大水的声音，像全能者的声音；是哄嚷的声音，像军队的声音。活物站住的时候，便将翅膀垂下。
+  <span style="color: #d44c47">约4:23</span>&emsp;时候将到，如今就是了，那真正敬拜父的，要在灵和真实里敬拜祂，因为父寻找这样敬拜祂的人。
 
-  <span style="color: #d44c47"><b>结43:2</b></span>　以色列神的荣光从东方的路而来，祂的声音如同多水的声音，地就因祂的荣耀发光。
-
-  <span style="color: #d44c47"><b>启10:3</b></span>　大声呼喊，好像狮子吼叫，呼喊完了，就有七雷发声说话。
+  <span style="color: #d44c47">约4:24</span>&emsp;神是灵；敬拜祂的，必须在灵和真实里敬拜。
 </details>
 
-## <span style="color: #d44c47">柒　基督是握着众召会光明使者的那一位—一16上、20： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">五&emsp;烈日和炎热，必不伤害我们—启七16下： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:16上</b></span>　祂右手中拿着七星，……
-
-  <span style="color: #d44c47"><b>启1:20</b></span>　论到你所看见在我右手中的七星，和七个金灯台的奥秘，那七星就是七个召会的使者，七灯台就是七个召会。
+  <span style="color: #d44c47">启7:16下</span>&emsp;……日头和一切炎热也必不伤害他们，
 </details>
 
-### <span style="color: #9065b0">一　使者是众召会中属灵的人，担负着耶稣的见证的责任。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;羔羊神坐在宝座上，要用帐幕覆庇我们，以祂自己遮护我们—15节下，林后十二9。 </h3>
 
-### <span style="color: #9065b0">二　使者像星一样，有属天的性质，并在属天的地位上，他们有从主来新鲜的信息，给祂的子民—二1上。 </span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启2:1上</b></span>　你要写信给在以弗所的召会的使者，说，那右手中握着七星，在七个金灯台中间行走的，……
+  <span style="color: #d44c47">启7:15下</span>&emsp;……坐宝座的要用帐幕覆庇他们。
+
+  <span style="color: #d44c47">林后12:9</span>&emsp;祂对我说，我的恩典够你用的，因为我的能力，是在人的软弱上显得完全。所以我极其喜欢夸我的软弱，好叫基督的能力覆庇我。
 </details>
 
-### <span style="color: #9065b0">三　领头的人既然都在祂的右手中，就无须退缩；基督的确为着祂的见证担负责任。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;有一种生命是在神荫下的生命，就是藏在神里的生命—诗三六7~9，弗六17，诗九一1，十七8，五七1，得二12。 </h3>
 
-## <span style="color: #d44c47">捌　从基督口中出来一把两刃的利剑，就是祂那辨明、审判、击杀的话，为着对付消极的人事物—一16中，来四12，弗六17。 </span>
-
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:16中</b></span>　……从祂口中出来一把两刃的利剑，……
+  <span style="color: #d44c47">诗36:7</span>&emsp;神啊，你的慈爱，何其宝贵！世人投靠在你翅膀的荫下。
 
-  <span style="color: #d44c47"><b>来4:12</b></span>　因为神的话是活的，是有功效的，比一切两刃的剑更锋利，能以刺入、甚至剖开魂与灵，骨节与骨髓，连心中的思念和主意都能辨明。
+  <span style="color: #d44c47">诗36:8</span>&emsp;他们必因你殿里的肥甘得以饱足，你也必叫他们喝你乐河的水。
 
-  <span style="color: #d44c47"><b>弗6:17</b></span>　还要借着各样的祷告和祈求，接受救恩的头盔，并那灵的剑，那灵就是神的话；
+  <span style="color: #d44c47">诗36:9</span>&emsp;因为在你那里，有生命的源头；在你的光中，我们必得见光。
+
+  <span style="color: #d44c47">弗6:17</span>&emsp;还要借着各样的祷告和祈求，接受救恩的头盔，并那灵的剑，那灵就是神的话；
+
+  <span style="color: #d44c47">诗91:1</span>&emsp;住在至高者隐密处的，必住在全能者的荫下。
+
+  <span style="color: #d44c47">诗17:8</span>&emsp;求你保护我，如同保护你眼中的瞳人；将我隐藏在你翅膀的荫下，
+
+  <span style="color: #d44c47">诗57:1</span>&emsp;神啊，求你恩待我，恩待我；因为我的心投靠你；我要投靠在你翅膀的荫下，等到灾害过去。
+
+  <span style="color: #d44c47">得2:12</span>&emsp;愿耶和华照你所行的报答你；你来投靠耶和华以色列神的翅膀下，愿你满得祂的酬报。
 </details>
 
-## <span style="color: #d44c47">玖　基督的面貌如同烈日中天发光（但十6），为着审判的光照，以带进国度（启一16下，十1，太十七2，参玛四2，士五31，太十三43）。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;基督作为耶和华并作为人，乃是王，供应、照顾并遮盖神的子民；基督是王来治理，也是人像避风所，和避暴雨的隐密处，像河流在干旱之地，像大磐石的影子在疲乏之地—赛三二1~2。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>但10:6</b></span>　祂身体如水苍玉，面貌如闪电，眼目如火把，手和脚如闪耀发亮的铜，说话的声音如大众的声音。
+  <span style="color: #d44c47">赛32:1</span>&emsp;看哪，必有一王凭公义作王，必有首领按公平掌权。
 
-  <span style="color: #d44c47"><b>启1:16下</b></span>　……面貌如同烈日中天发光。
-
-  <span style="color: #d44c47"><b>启10:1</b></span>　我又看见另一位大力的天使，从天降下，披着云彩，头上有虹，脸面像日头，两脚像火柱，
-
-  <span style="color: #d44c47"><b>太17:2</b></span>　就在他们面前变了形像，脸面发光如日头，衣服变白如光。
-
-  <span style="color: #d44c47"><b>玛4:2</b></span>　但向你们敬畏我名的人，必有公义的日头升起，其翅膀有医治之能；你们必如圈里的肥牛犊出来跳跃。
-
-  <span style="color: #d44c47"><b>士5:31</b></span>　耶和华啊，愿你的仇敌都这样灭亡。愿爱你的人如日头出现，光辉烈烈。这样，那地太平四十年。
-
-  <span style="color: #d44c47"><b>太13:43</b></span>　那时，义人在他们父的国里，要发光如同太阳。有耳可听的，就应当听。
+  <span style="color: #d44c47">赛32:2</span>&emsp;必有一人像避风所，和避暴雨的隐密处，像河流在干旱之地，像大磐石的影子在疲乏之地。
 </details>
 
-## <span style="color: #d44c47">拾　基督是首先的，也是末后的，这向我们保证，祂永不会叫祂的工作半途而废；基督也是那活着的，使祂的身体所显出来的众召会也成为活而新鲜并刚强的—启一17~18上。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">六&emsp;宝座中的羔羊必牧养我们，领我们到生命水的泉—启七17上： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:17</b></span>　我一看见，就仆倒在祂脚前，像死了一样。祂用右手按着我说，不要惧怕；我是首先的，我是末后的，
-
-  <span style="color: #d44c47"><b>启1:18上</b></span>　又是那活着的；……
+  <span style="color: #d44c47">启7:17上</span>&emsp;因为宝座中的羔羊必牧养他们，领他们到生命水的泉；……
 </details>
 
-## <span style="color: #d44c47">拾壹　  基督拿着死亡和阴间的钥匙—18节下： </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;牧养包括喂养；在基督的牧养下，“我必不至缺乏”—诗二三1。 </h3>
 
-<details>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;我们自己永远不会作好，我们永远需要一位牧者喂养我们；祂以作神羔羊的经历来喂养小羊；这位神的羔羊乃是坐在神的宝座上，在神的殿里并为着神的殿—2~6节，启二二1。 </h3>
+
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>启1:18下</b></span>　……我曾死过，看哪，现在又活了，直活到永永远远，并且拿着死亡和阴间的钥匙。
+  <span style="color: #d44c47">诗23:2</span>&emsp;祂使我躺卧在青草地上，领我在可安歇的水边。
+
+  <span style="color: #d44c47">诗23:3</span>&emsp;祂使我的魂苏醒，为自己的名引导我走义路。
+
+  <span style="color: #d44c47">诗23:4</span>&emsp;我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在；你的杖，你的竿，都安慰我。
+
+  <span style="color: #d44c47">诗23:5</span>&emsp;在我敌人面前，你为我摆设筵席；你用油膏了我的头，使我的福杯满溢。
+
+  <span style="color: #d44c47">诗23:6</span>&emsp;我一生一世必有恩惠慈爱随着我，我且要住在耶和华的殿中，直到永远。
+
+  <span style="color: #d44c47">启22:1</span>&emsp;天使又指给我看在城内街道当中一道生命水的河，明亮如水晶，从神和羔羊的宝座流出来。
 </details>
 
-### <span style="color: #9065b0">一　死是聚拢者，阴间是守留者，但基督在十字架上已经废掉了死，又在复活里胜过了阴间—提后一10，徒二24。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;"><span style="color: #9065b0">七&emsp;神必从我们眼中擦去一切的眼泪—七17下： </span></h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>提后1:10</b></span>　但如今借着我们救主基督耶稣的显现，才显明出来。祂已经把死废掉，借着福音将生命和不朽坏照耀出来；
-
-  <span style="color: #d44c47"><b>徒2:24</b></span>　神却将死的痛苦解除，叫祂复活了，因为祂不能被死拘禁。
+  <span style="color: #d44c47">启7:17下</span>&emsp;……神也必从他们眼中擦去一切的眼泪。
 </details>
 
-### <span style="color: #9065b0">二　只要我们借着操练否认己、背起十字架并丧失魂生命，而让主有地位、机会和通路在我们中间运行并作工，死亡和阴间就会在祂的控制之下—太十六18、21~26。 </span>
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">1&emsp;流泪是在今世不可免的；不过，我们的眼泪，神都装在祂的皮袋里，记在祂的册子上—来五7，徒二十19、31，诗五六8，参玛三16。 </h3>
 
-<details>
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
   <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
 
-  <span style="color: #d44c47"><b>太16:18</b></span>　我还告诉你，你是彼得，我要把我的召会建造在这磐石上，阴间的门不能胜过她。
+  <span style="color: #d44c47">来5:7</span>&emsp;基督在肉身的日子，强烈地哭号，流泪向那能救祂出死的，献上祈祷和恳求，因祂的虔诚，就蒙了垂听；
 
-  <span style="color: #d44c47"><b>太16:21</b></span>　从那时候，耶稣才指示祂的门徒，祂必须往耶路撒冷去，受长老、祭司长和经学家许多的苦，并且被杀，第三日复活。
+  <span style="color: #d44c47">徒20:19</span>&emsp;服事主，凡事谦卑，常常流泪，又因犹太人的谋害，历经试炼。
 
-  <span style="color: #d44c47"><b>太16:22</b></span>　彼得就拉祂到一边，责劝祂说，主啊，神眷怜你，这事绝不会临到你。
+  <span style="color: #d44c47">徒20:31</span>&emsp;所以你们应当儆醒，记念我三年之久，昼夜不住地流泪劝戒你们各人。
 
-  <span style="color: #d44c47"><b>太16:23</b></span>　祂却转过来，对彼得说，撒但，退我后面去吧！你是绊跌我的，因为你不思念神的事，只思念人的事。
+  <span style="color: #d44c47">诗56:8</span>&emsp;我几次流离，你都数算。求你把我的眼泪装在你的皮袋里。这不都记在你册子上么？
 
-  <span style="color: #d44c47"><b>太16:24</b></span>　于是耶稣对门徒说，若有人要跟从我，就当否认己，背起他的十字架，并跟从我。
+  <span style="color: #d44c47">玛3:16</span>&emsp;那时，敬畏耶和华的彼此谈论；耶和华侧耳而听，且有记念册在祂面前，记录那些敬畏耶和华并留意祂名的人。
+</details>
 
-  <span style="color: #d44c47"><b>太16:25</b></span>　因为凡要救自己魂生命的，必丧失魂生命；凡为我丧失自己魂生命的，必得着魂生命。
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">2&emsp;因着羔羊要用生命水供应我们，使我们满足，泪水就被擦去了—耶九1，二13，参十五16，哀三21~25、55~56。 </h3>
 
-  <span style="color: #d44c47"><b>太16:26</b></span>　人若赚得全世界，却赔上自己的魂生命，有什么益处？人还能拿什么换自己的魂生命？
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
+  <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
+
+  <span style="color: #d44c47">耶9:1</span>&emsp;但愿我的头为众水，我的眼为泪的泉源，我好为我百姓中被杀的人，昼夜哭泣！
+
+  <span style="color: #d44c47">耶2:13</span>&emsp;因为我的百姓，作了两件恶事，就是离弃我这活水的泉源，为自己凿出池子，是破裂不能存水的池子。
+
+  <span style="color: #d44c47">耶15:16</span>&emsp;耶和华万军之神啊，我得着你的言语，就当食物吃了；你的言语成了我心中的欢喜快乐；因我是称为你名下的人。
+
+  <span style="color: #d44c47">哀3:21</span>&emsp;我的心回想这事，我就有指望。
+
+  <span style="color: #d44c47">哀3:22</span>&emsp;我们不至消灭，是出于耶和华的慈爱，因祂的怜恤不至断绝；
+
+  <span style="color: #d44c47">哀3:23</span>&emsp;每早晨这些都是新的；你的信实，极其广大。
+
+  <span style="color: #d44c47">哀3:24</span>&emsp;我的魂说，耶和华是我的分；因此，我要仰望祂。
+
+  <span style="color: #d44c47">哀3:25</span>&emsp;等候耶和华，心里寻求祂的，耶和华必善待他。
+
+  <span style="color: #d44c47">哀3:55</span>&emsp;耶和华啊，我从极深的坑里呼求你的名。
+
+  <span style="color: #d44c47">哀3:56</span>&emsp;你曾听见我的声音；求你不要掩耳不听我的呼吸，我的呼吁。
+</details>
+
+<h3 style="background-color: #dbeddb; padding: 3px 6px; border-radius: 4px;">3&emsp;感谢神，伤心的时日和事实不会久；世界快要过去，我们蒙祝福来喝涌流的三一神，直到我们成为永远生命的总和，就是新耶路撒冷—约四14下。 </h3>
+
+<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
+  <summary><span style="color: #d44c47"><b>📖 经文</b></span></summary>
+
+  <span style="color: #d44c47">约4:14下</span>&emsp;……我所赐的水，要在他里面成为泉源，直涌入永远的生命。
 </details>
