@@ -2,15 +2,15 @@
 title: 测试页面
 description: 
 published: true
-date: 2026-02-04T03:57:37.421Z
+date: 2026-02-04T04:00:07.739Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T14:53:56.959Z
 ---
 
-<h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">读经：启一1~2、5、9~12，七9~17，十九10 </h3>
+<h3 style="background-color: #e8f1ec; padding: 3px 6px; ">读经：启一1~2、5、9~12，七9~17，十九10 </h3>
 
-<details style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">
+<details style="background-color: #e5f2fc; padding: 3px 6px; ">
   <summary><span style="color: #cf5148"><b>📖 经文</b></span></summary>
 
   <span style="color: #cf5148"><b>启1:1</b></span>&emsp;耶稣基督的启示，就是神赐给祂，叫祂将必要快发生的事指示祂的众奴仆；祂就借着祂的使者传达，用表号指示祂的奴仆约翰。
