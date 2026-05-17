@@ -2,7 +2,7 @@
 title: 07---第三周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-05-02T00:09:33.695Z
+date: 2026-05-17T00:15:36.436Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-05-02T00:09:33.695Z
@@ -11,6 +11,11 @@ dateCreated: 2026-05-02T00:09:33.695Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第三篇&emsp;为着基督的身体供应生命</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg3-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;好，弟兄们，我们既受了这职事，就不丧胆。我们所有的是何等的职事，这是新约的职事，是那灵的职事，是称义的职事，也是和好的职事，这是要达到荣耀的职事。我们今天所有的职事是何等的职事。这分职事不是我们所以为，只是讲篇好的信息，陈明一些教训。这分职事是关于担负这位钉十字架、复活并升天之基督的见证。这分职事时常与话，在某种形式上的话有关。但是以素质来说，这分职事乃是供应这位钉十字架、复活、升天的基督，这是早期的使徒所受的职事。当主升天的时候，他们聚在耶路撒冷，他们知道其中有一位背叛了主，放弃了所受的那分职事。使徒们直到主复活、升天之后，他们领受了，在地上领受了这分职事。当基督在地上的时候，祂将父供应给我们，祂活出父来，祂活出一个彰显。神，那位看不见的神，人所不认识的神，如今却借着这一个人显明出来了，祂的一生是尽职的一生。在祂复活之后，祂的门徒们，现今是祂身体上的肢体，要继续这分职事。</h3>
 
