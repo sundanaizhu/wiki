@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-04-19T00:18:00.147Z
+date: 2026-05-17T00:15:07.105Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-04-19T00:18:00.147Z
@@ -11,6 +11,11 @@ dateCreated: 2026-04-19T00:18:00.147Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第二篇&emsp;和好的职事</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg2-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;“话语的职事与为着神的经纶之神的分赐”这是这次训练的总题。在第二篇信息，我们来讲到和好的职事。首先，我们要受提醒有新鲜的看见，这分职事就是我们所说的，并不像一般在基督教工人中间所说的职事。他们以为职事有这个职事，有那个职事。我们说的是独一的职事，神那独一的职事，主那独一的职事。这独一的职事是在神经纶中的新约经纶的职事。特别地说，所以林后可能是保罗所写的书信里说到并且定义这分职事，是其他卷书所没有的。这分职事是新约的职事对比旧约的职事。这分职事也是灵的职事，赐人生命之灵的职事，对比，是与死的职事相对，那字句，旧约之死的字句的职事相对。而这分职事也是义的职事，义的职事。最终，生命是达到义，生命的果子乃是义。而旧约的职事呢乃是定罪的职事，因为这律法审判人，也定罪人。</h3>
 
