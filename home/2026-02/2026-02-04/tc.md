@@ -2,7 +2,7 @@
 title: 07---第四周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-05-02T00:22:52.615Z
+date: 2026-05-17T00:16:56.560Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-05-02T00:22:52.615Z
@@ -11,6 +11,11 @@ dateCreated: 2026-05-02T00:22:52.615Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第四篇&emsp;神尺度的度量与属灵争战的职事</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg4-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;神尺度的度量，我们要专注于度量的神。这一件事对你们可能相当新，但非常实际。你是否在祂的限制之下，越过越多在祂的限制之下呢？然后属灵争战的职事，我们在这场聚会并不是要从事属灵的争战，但我们要学习属灵争战的职事。当我们在生命里长大，到底我们是否能够有分于这样的职事。有一些圣徒他们长大成熟，当末七开始的时候，我们都会在前三年半，一同在这里，然后他们就要被提，因为他们已经好长一段时间在属灵的争战里尽功用，大多数的圣徒都要学习，当鬼和撒但不是在天上，而是已经在地上。我想我们都不盼望在那个时候还在地上，我们要来到主的来临里面。所以我们要有点领会，什么是关于属灵争战的职事，使我们一天过一天能够有学习，也蒙光照。所以我要专注于这两点，也不会再带进其他的东西。</h3>
 
