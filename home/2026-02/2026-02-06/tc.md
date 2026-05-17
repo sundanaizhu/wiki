@@ -2,7 +2,7 @@
 title: 07---第六周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-05-02T02:32:53.987Z
+date: 2026-05-17T00:14:41.371Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-05-02T02:32:53.987Z
@@ -11,6 +11,11 @@ dateCreated: 2026-05-02T02:32:53.987Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第六篇&emsp;约翰职事中之三一神的分赐</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg6-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;弟兄们，赞美主！话语的职事与为着神的经纶之神的分赐。在前一篇信息中，我们已经看见这一次训练的负担是我们能够看见话语的职事与神的分赐的关联，话语的职事就是神的分赐，并且是为着完成神的经纶，这里有很强的关联。因为真正的职事必须是分赐三一神到听见的人里面。我们祷告，甚至今天晚上的信息也不是只是教导，而是分赐三一神。我们能在约翰的职事中看见三一神的分赐。</h3>
 
