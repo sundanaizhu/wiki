@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-05-02T01:46:50.421Z
+date: 2026-05-17T00:17:26.585Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-05-02T01:46:50.421Z
@@ -11,6 +11,11 @@ dateCreated: 2026-05-02T01:46:50.421Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第五篇&emsp;作主忠信的管家，有从主来的负担供应话语，并彼此同心合意配搭，好与主合作以完成祂的经纶</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg5-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;弟兄们，我们来到这次国际长老负责弟兄训练的后半段，我非常有负担，我们都要进入这次训练的总题。总题的负担就是在总题里面说到的“话语的职事与为着神的经纶之神的分赐”。在前四篇信息我们看见的是话语的职事，后四篇信息，五至八篇是说到为着神的经纶之神的分赐。我祷告的是，弟兄们，我们都能看见这两件事，就是神话语的职事以及为着神经纶之神的分赐，有生机，彼此之间有生机的关系、关联。我再说下去你就了解了，话语职事就是神的分赐。我们要再说一次，话语的职事就是神的分赐。神的分赐是为着神的经纶。所以话语的职事是神的分赐，神的分赐是为着神的经纶，这就是整体的负担。</h3>
 
