@@ -2,7 +2,7 @@
 title: 07---第一周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-04-06T02:19:04.696Z
+date: 2026-05-17T00:13:07.160Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-04-06T02:19:04.696Z
@@ -11,6 +11,11 @@ dateCreated: 2026-04-06T02:19:04.696Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第一篇&emsp;“坚定持续地祷告，并尽话语的职事”</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg1-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;我们都知道这是一次训练，所以我要很柔细地问你们一个问题，你们是否敞开，让主就着真正的祷告这件事来摸着你？你能不能诚实地从里面说，关于祷告，我还是个学习者？我可以诚实地说，虽然我在主的恢复里六十年了，但我必须说，我还是个学习者，我不是个教师，我是个学习者；甚至当我讲这篇信息的时候，我也能够多一点的学习。篇题：坚定持续地祷告，并尽话语的职事。</h3>
 
