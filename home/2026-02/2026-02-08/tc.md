@@ -2,7 +2,7 @@
 title: 08---第八周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-05-02T02:51:42.691Z
+date: 2026-05-17T00:18:45.921Z
 tags: 2026-02
 editor: markdown
 dateCreated: 2026-05-02T02:51:42.691Z
@@ -11,6 +11,11 @@ dateCreated: 2026-05-02T02:51:42.691Z
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第八篇&emsp;三一神作生命分赐到三部分的人里，乃是根据祂的公义，借着祂的圣别，而达到祂的荣耀</span></h2>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-02/msg/2026-03-itero-msg8-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;弟兄们，赞美主！我们愿意主在训练末了一堂作我们的末了一个字母—俄梅嘎。三一神分赐到我们的里面，是为着我们的享受，并为着完成祂的经纶，这是上一篇信息。盼望我们在上一堂得着了永远的祝福，永远的福分，作我们的享受，并为着完成祂的经纶。</h3>
 
