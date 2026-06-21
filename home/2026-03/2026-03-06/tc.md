@@ -2,7 +2,7 @@
 title: 07---第六周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-06-14T06:14:48.287Z
+date: 2026-06-21T09:27:21.186Z
 tags: 2026-03
 editor: markdown
 dateCreated: 2026-06-14T06:14:48.287Z
@@ -11,7 +11,10 @@ dateCreated: 2026-06-14T06:14:48.287Z
 <h1 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第六篇&emsp;按着神牧养</span></h1>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-03/msg/2026-05-mdc-msg6-c.mp3">
+</audio>
+---
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;按着神牧养。基督是我们的牧人，此时此刻，祂正在宝座上牧养；祂与我们同在，就在这堂聚会中正在牧养我们；祂活在我们每个人里面，也正在牧养我们。祂不满足于我们对祂只有一种客观道理上，对牧养这件事有一种道理上的认识。我们都渴望认识、经历并享受，更要彰显这位牧养的基督。我们会一点一点地看过这篇纲要，专注于这篇纲要里的重点。</h3>
 
 <h2 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">壹&emsp;在主今日的恢复里，迫切需要牧养。 </span></h2>
