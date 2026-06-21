@@ -2,7 +2,7 @@
 title: 07---第一周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-06-14T06:07:08.674Z
+date: 2026-06-21T09:25:21.780Z
 tags: 2026-03
 editor: markdown
 dateCreated: 2026-06-14T06:07:08.674Z
@@ -11,6 +11,11 @@ dateCreated: 2026-06-14T06:07:08.674Z
 <h1 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第一篇&emsp;与主合作带进新的复兴，以结束这个世代</span></h1>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-03/msg/2026-05-mdc-msg1-c.mp3">
+</audio>
+---
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;这个周末我们所交通的总题，是极其需要，极其需要新的复兴。圣徒们，是不是还有人记得弟兄说过，我们讲过类似的信息，是在二〇一五年，也是在国殇节的特会，在圣路易斯市，那里说到需要新的复兴。之前在一九九九年，这件事就已经被带给我们。在一次特会里，事实上，也有许多的特会常常提到这个主题。但是我的确希望，圣徒们，我们不只要有这样的思想，弟兄们是一直在重复这样的主题而已，好像没有别的可说了。请你不要让这样的想法一直在我们里面。圣徒们，主要我们，主在这里再说一次，是因为我们仍然需要这件事。事实上，我要说甚至更是需要，祂也是更需要这一件事。我们若忘记，祂若忘记，也许我们就不需要再说一次了。但是这件事情仍是存在，极其需要新的复兴。</h3>
 
