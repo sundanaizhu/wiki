@@ -2,7 +2,7 @@
 title: 07---第五周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-06-14T06:13:26.934Z
+date: 2026-06-21T09:26:55.750Z
 tags: 2026-03
 editor: markdown
 dateCreated: 2026-06-14T06:13:26.934Z
@@ -11,7 +11,10 @@ dateCreated: 2026-06-14T06:13:26.934Z
 <h1 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第五篇&emsp;使徒的职事与基督天上的职事合作，牧养作神群羊的召会，为着建造基督的身体并有新的复兴</span></h1>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-03/msg/2026-05-mdc-msg5-c.mp3">
+</audio>
+---
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;圣徒们，我们能够有分于这次特会是不是很有福呢？觉得能在这里，在这样的说话，在这分职事之下认识神的心愿，借着祂的说话启示出来，我们在这里真是享有何等的特权，真是喜乐能和你们众人在一起。</h3>
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;我非常宝贝早上弟兄的话，将信心注入到我们里面，我们所听见这些高的美妙的事物能够成为我们的实际，就要操练我们信心的灵，近前来，不要害怕仇敌、巨人，仇敌是我们的食物。好，我们要接续到第五篇，到第三个段落，讲到牧养。你可能以为自己知道什么是牧养，我们常常用按着神牧养这个发表，却不明白其中的意义，盼望今天晚上我们能有新的看见，看见一些从前从未看见的，重新领会牧养是什么，看见这是在主心上的事；并且把我们带进这种生机的牧养。愿主除去我们的帕子，使用这些话来成全我们，带领祂的召会进入祂当前的行动，带进新的复兴。</h3>
