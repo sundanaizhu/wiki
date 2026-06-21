@@ -2,7 +2,7 @@
 title: 07---第二周 · 听抄
 description: 听抄信息
 published: true
-date: 2026-06-14T06:09:02.691Z
+date: 2026-06-21T09:25:46.644Z
 tags: 2026-03
 editor: markdown
 dateCreated: 2026-06-14T06:09:02.691Z
@@ -11,7 +11,10 @@ dateCreated: 2026-06-14T06:09:02.691Z
 <h1 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;"><span style="color: #cf5148">第二篇&emsp;达到神圣启示的最高峰</span></h1>
 
 <h3 style="background-color: #e5f2fc; padding: 3px 6px; border-radius: 4px;">🔊🔊<u>讲台音频</u></h3>
-
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="/2026-03/msg/2026-05-mdc-msg2-c.mp3">
+</audio>
+---
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;能与圣徒们在一起，真是太好了，阿们。昨天晚上，我们来到这里，是不是重新燃起一个渴望，要得着复兴呢？哦，赞美主！我们个人一面需要得复兴，就着弟兄昨天晚上所说的，我们可以说所有人，甚至不信者，都感觉我要一个新的东西，我要得着新的东西。但我们这些信徒，我们领会，随着时间，我们逐渐变得老旧，我们里头有一个渴望，要得着复兴，个人一面，我们的家庭，我们的召会，甚至整个主的恢复都是如此。昨天的聚会后，我不仅有一个更新的渴望要得复兴，我也要说我有了一个新的盼望，我知道主要作这件事。“耶和华啊，求你在这些年间复兴你的工作。”的确没有人比主更渴望有一个新的复兴，因为祂渴望要回来，这一个新的复兴要开门，让主能够回来。</h3>
 
 <h3 style="background-color: #e8f1ec; padding: 3px 6px; border-radius: 4px;">&emsp;&emsp;今天早晨，我们在这里向主敞开，早上我们有一个专特的题目。昨天晚上有一个非常好、非常超绝的开头，给我们看见新的复兴的三个方面：神圣启示的高峰，也就是我们今天早晨所要交通的；第二，神人的生活，是今晚我们要交通的；再来，就是按着神牧养。今天早晨，弟兄姊妹，盼望当我们来到主面前，当我们来听今天的交通时，我们要谦卑自己。在主面前向主说，“主啊，我要第一次地听这些话，我不以为自己听过了。”如果你曾经听过了，那是主的怜悯；再听主的说话，更是主的怜悯。我们要说到“神成为人，为要使人在生命和性情上（但不在神格上）成为神”这件事。</h3>
